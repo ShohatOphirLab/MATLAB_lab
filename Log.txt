@@ -1,5 +1,0 @@
-09:42:01: Experiment aborted.
-09:42:01: Video recording canceled after 63851794921.631004 seconds
-09:42:02: Experiment name initialized to 
-Assa_Males_Grouped_NPF_W_Unknown_RigA_notstarted_20230518T091042
-09:42:03: Copying metadata file to backup Metadata.xml.bak
