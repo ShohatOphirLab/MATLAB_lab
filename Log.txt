@@ -1,0 +1,4 @@
+08:14:44: Experiment aborted.
+08:14:44: Video recording canceled after 63878055284.232002 seconds
+08:14:45: Experiment name initialized to 
+Iska_Males_splitNPF1_Chrimson_Unknown_RigA_notstarted_20240317T075646
