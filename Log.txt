@@ -1,0 +1,3 @@
+09:38:55: Experiment aborted.
+09:39:19: Experiment name initialized to Yahel_Males_trial_Unknown_RigA_notstarted_20240521T124742
+09:39:19: Copying metadata file to backup Metadata.xml.bak
