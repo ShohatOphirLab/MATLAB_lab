@@ -1,0 +1,3556 @@
+% group, behavior, feature, sample size, z-score
+F_Mated, not Jump, timestamps, 1857,      224
+F_Singles, not Aggregation, timestamps, 3228,      143
+F_Grouped, not Jump, timestamps, 4442,      115
+F_Singles, not Jump, timestamps, 9344,     64.9
+F_Grouped, not Aggregation, timestamps, 8191,     45.5
+F_Grouped, not Jump, y, 4442,     40.2
+F_Grouped, not Jump, x, 4442,     39.7
+F_Grouped, not Jump, arena_angle, 4442,     35.8
+F_Grouped, Jump, dtheta, 4552,     35.2
+F_Grouped, Jump, absdtheta, 4552,     34.4
+F_Grouped, Jump, dangle2wall, 4552,     34.4
+F_Mated, not Jump, x, 1857,     32.5
+F_Mated, not Jump, y, 1857,     31.9
+F_Singles, not Jump, x, 9344,     30.9
+F_Mated, Jump, b, 1955,     30.6
+F_Mated, not Jump, angle2wall, 1857,     30.1
+F_Mated, not Jump, a, 1857,     30.1
+F_Grouped, not Jump, angle2wall, 4442,     29.9
+F_Singles, not Jump, y, 9344,     29.6
+F_Mated, not Aggregation, timestamps, 9939,     29.6
+F_Mated, Jump, a, 1955,     29.5
+F_Singles, not Jump, arena_angle, 9344,     28.1
+F_Mated, not Jump, nflies_close, 1857,     27.4
+F_Mated, not Jump, b, 1857,     27.1
+F_Singles, Jump, dtheta, 9444,     27.1
+F_Mated, Jump, absdv_cor, 1955,       27
+F_Singles, Jump, dangle2wall, 9444,     26.8
+F_Grouped, not Jump, closestfly_nose2tail, 4442,     26.7
+F_Grouped, not Jump, closestfly_ell2nose, 4442,     26.6
+F_Singles, Jump, absdtheta, 9444,     26.5
+F_Mated, not Jump, arena_angle, 1857,     26.4
+F_Grouped, not Jump, closestfly_nose2ell, 4442,     26.3
+F_Mated, not Jump, closestfly_ell2nose, 1857,     26.2
+F_Grouped, not Jump, closestfly_center, 4442,       26
+F_Mated, not Jump, closestfly_nose2ell, 1857,     25.9
+F_Mated, not Jump, closestfly_nose2tail, 1857,     25.8
+F_Grouped, not Touch, timestamps, 15318,     25.5
+F_Grouped, not Jump, closestfly_nose2ell_angle_30tomin30, 4442,     25.3
+F_Mated, not Jump, closestfly_center, 1857,     25.3
+F_Singles, not Jump, angle2wall, 9344,     25.1
+F_Grouped, not Jump, y_mm, 4442,     24.8
+F_Grouped, not Jump, ynose_mm, 4442,     24.5
+F_Grouped, not Jump, closestfly_nose2ell_angle_min20to20, 4442,     24.4
+F_Mated, Jump, dv_cor, 1955,     24.3
+F_Grouped, Jump, du_ctr, 4552,     24.2
+F_Mated, Jump, dtheta, 1955,     24.2
+F_Grouped, not Jump, closestfly_nose2ell_angle_min30to30, 4442,     24.1
+F_Grouped, not Jump, x_mm, 4442,       24
+F_Mated, Jump, dangle2wall, 1955,     23.9
+F_Mated, not Jump, closestfly_nose2ell_angle_30tomin30, 1857,     23.8
+F_Grouped, Jump, du_tail, 4552,     23.8
+F_Mated, Jump, velmag_ctr, 1955,     23.8
+F_Grouped, not Jump, xnose_mm, 4442,     23.7
+F_Mated, Jump, velmag_tail, 1955,     23.2
+F_Mated, not Jump, closestfly_nose2ell_angle_min20to20, 1857,     23.1
+F_Grouped, Jump, velmag_ctr, 4552,     23.1
+F_Mated, not Jump, closestfly_nose2ell_angle_min30to30, 1857,     23.1
+F_Grouped, Jump, velmag_tail, 4552,     22.7
+F_Singles, not Jump, closestfly_nose2tail, 9344,     22.5
+F_Grouped, not Jump, theta, 4442,     22.4
+F_Grouped, not Jump, theta_mm, 4442,     22.4
+F_Grouped, Jump, du_cor, 4552,     22.4
+F_Singles, not Jump, closestfly_ell2nose, 9344,     22.4
+F_Mated, Jump, veltoward_anglesub, 1955,     22.4
+F_Mated, Jump, velmag_nose, 1955,     22.3
+F_Singles, not Jump, closestfly_nose2ell, 9344,     22.2
+F_Singles, not Jump, x_mm, 9344,     22.2
+F_Mated, Jump, dv_ctr, 1955,     22.2
+F_Singles, not Jump, closestfly_center, 9344,       22
+F_Singles, not Jump, xnose_mm, 9344,       22
+F_Grouped, Jump, a, 4552,       22
+F_Mated, Jump, velmag, 1955,       22
+F_Singles, not Jump, y_mm, 9344,     21.8
+F_Mated, Jump, du_ctr, 1955,     21.8
+F_Mated, Jump, absdtheta, 1955,     21.8
+F_Singles, not Jump, ynose_mm, 9344,     21.6
+F_Grouped, Jump, ddist2wall, 4552,     21.5
+F_Mated, Jump, flipdv_cor, 1955,     21.5
+F_Singles, Jump, du_ctr, 9444,     21.4
+F_Singles, Jump, velmag_ctr, 9444,     21.4
+F_Singles, not Jump, closestfly_nose2ell_angle_30tomin30, 9344,     21.3
+F_Grouped, Jump, velmag, 4552,     21.3
+F_Mated, Jump, du_tail, 1955,     21.2
+F_Singles, not Jump, closestfly_nose2ell_angle_min20to20, 9344,     20.7
+F_Mated, Jump, dv_tail, 1955,     20.7
+F_Mated, not Jump, ecc, 1857,     20.6
+F_Mated, not Jump, theta, 1857,     20.6
+F_Mated, not Jump, theta_mm, 1857,     20.6
+F_Singles, not Jump, closestfly_nose2ell_angle_min30to30, 9344,     20.6
+F_Grouped, Jump, veltoward_anglesub, 4552,     20.5
+F_Grouped, Jump, velmag_nose, 4552,     20.5
+F_Mated, not Touch, timestamps, 16412,     20.4
+F_Singles, Jump, du_tail, 9444,     20.3
+F_Singles, Jump, velmag_tail, 9444,     20.2
+F_Singles, Jump, du_cor, 9444,     20.1
+F_Singles, Jump, velmag, 9444,       20
+F_Mated, Jump, ddist2wall, 1955,     19.9
+F_Grouped, Jump, dv_tail, 4552,     19.8
+F_Mated, Jump, du_cor, 1955,     19.8
+F_Mated, Jump, veltoward_nose2ell, 1955,     19.8
+F_Mated, not Jump, y_mm, 1857,     19.7
+F_Mated, not Jump, x_mm, 1857,     19.6
+F_Mated, not Jump, xnose_mm, 1857,     19.5
+F_Mated, not Jump, ynose_mm, 1857,     19.5
+F_Singles, Jump, ddist2wall, 9444,     19.1
+F_Singles, not Jump, theta, 9344,     19.1
+F_Singles, not Jump, theta_mm, 9344,     19.1
+F_Mated, Turn, corfrac_maj, 76688,     19.1
+F_Grouped, not Jump, arena_r, 4442,       19
+F_Grouped, not Jump, dist2wall, 4442,       19
+F_Grouped, Jump, b, 4552,     18.9
+F_Mated, not Jump, anglesub, 1857,     18.8
+F_Singles, not Jump, arena_r, 9344,     18.8
+F_Singles, not Jump, dist2wall, 9344,     18.8
+F_Mated, not Jump, anglefrom1to2_anglesub, 1857,     18.6
+F_Singles, Jump, velmag_nose, 9444,     18.6
+F_Singles, not Touch, timestamps, 18103,     18.5
+F_Singles, Jump, veltoward_anglesub, 9444,     18.4
+F_Grouped, not Jump, anglefrom1to2_anglesub, 4442,     18.4
+F_Grouped, not Jump, absanglefrom1to2_nose2ell, 4442,     18.2
+F_Grouped, Jump, veltoward_nose2ell, 4552,     18.1
+F_Grouped, not Jump, absthetadiff_nose2ell, 4442,     17.8
+F_Mated, Stop, timestamps, 22000,     17.8
+F_Grouped, Jump, absdv_cor, 4552,     17.7
+F_Grouped, Jump, dv_cor, 4552,     17.6
+F_Grouped, not Jump, closestfly_anglesub, 4442,     17.6
+F_Singles, Jump, dv_tail, 9444,     17.3
+F_Grouped, not Jump, anglefrom1to2_nose2ell, 4442,     17.2
+F_Mated, Jump, danglesub, 1955,     17.1
+F_Grouped, not Jump, b, 4442,       17
+F_Grouped, not Jump, angleonclosestfly, 4442,     16.8
+F_Singles, Jump, absdv_cor, 9444,     16.8
+F_Grouped, Jump, dv_ctr, 4552,     16.7
+F_Grouped, not Touch, closestfly_ell2nose, 15318,     16.7
+F_Grouped, not Touch, closestfly_nose2tail, 15318,     16.7
+F_Grouped, not Touch, closestfly_center, 15318,     16.7
+F_Grouped, not Touch, closestfly_nose2ell, 15318,     16.6
+F_Mated, not Jump, closestfly_anglesub, 1857,     16.5
+F_Mated, Jump, da, 1955,     16.4
+F_Singles, not Jump, anglefrom1to2_anglesub, 9344,     16.4
+F_Mated, not Jump, absthetadiff_nose2ell, 1857,     16.4
+F_Mated, not Jump, absanglefrom1to2_nose2ell, 1857,     16.4
+F_Grouped, Turn, corfrac_maj, 83715,     16.3
+F_Grouped, not Jump, a, 4442,     16.3
+F_Singles, Jump, dv_cor, 9444,     16.3
+F_Mated, not Jump, anglefrom1to2_nose2ell, 1857,     16.3
+F_Singles, not Jump, absanglefrom1to2_nose2ell, 9344,     16.3
+F_Mated, Jump, decc, 1955,     16.3
+F_Singles, not Jump, closestfly_anglesub, 9344,     16.2
+F_Mated, not Jump, arena_r, 1857,     16.2
+F_Mated, not Jump, dist2wall, 1857,     16.2
+F_Singles, Jump, veltoward_nose2ell, 9444,       16
+F_Mated, not Jump, angleonclosestfly, 1857,     15.9
+F_Grouped, Jump, flipdv_cor, 4552,     15.7
+F_Singles, not Jump, absthetadiff_nose2ell, 9344,     15.6
+F_Grouped, not Touch, y, 15318,     15.5
+F_Singles, Turn, corfrac_maj, 87637,     15.5
+F_Singles, Jump, dv_ctr, 9444,     15.5
+F_Singles, not Jump, angleonclosestfly, 9344,     15.4
+F_Singles, not Jump, anglefrom1to2_nose2ell, 9344,     15.3
+F_Singles, not Aggregation, x, 3228,     15.3
+F_Grouped, not Touch, x, 15318,     15.2
+F_Mated, Turn, signdtheta, 76688,     15.1
+F_Mated, Jump, magveldiff_nose2ell, 1955,     15.1
+F_Grouped, not Jump, absthetadiff_anglesub, 4442,     15.1
+F_Grouped, not Touch, closestfly_nose2ell_angle_30tomin30, 15318,       15
+F_Mated, Turn, corfrac_min, 76688,     14.9
+F_Singles, Jump, flipdv_cor, 9444,     14.9
+F_Grouped, Turn, signdtheta, 83715,     14.8
+F_Singles, not Aggregation, y, 3228,     14.8
+F_Grouped, not Jump, absdtheta, 4442,     14.8
+F_Mated, Jump, ecc, 1955,     14.6
+F_Grouped, not Jump, dtheta, 4442,     14.4
+F_Singles, not Touch, closestfly_center, 18103,     14.4
+F_Grouped, not Aggregation, y, 8191,     14.4
+F_Singles, not Touch, closestfly_ell2nose, 18103,     14.4
+F_Singles, not Touch, closestfly_nose2tail, 18103,     14.3
+F_Singles, not Touch, closestfly_nose2ell, 18103,     14.3
+F_Grouped, not Jump, dangle2wall, 4442,     14.2
+F_Grouped, not Touch, arena_angle, 15318,     14.2
+F_Mated, Jump, magveldiff_anglesub, 1955,     14.1
+F_Grouped, Jump, magveldiff_nose2ell, 4552,     14.1
+F_Singles, not Jump, dcenter, 9344,     14.1
+F_Singles, not Jump, dnose2tail, 9344,     14.1
+F_Singles, not Jump, dnose2ell, 9344,     14.1
+F_Singles, not Jump, dell2nose, 9344,       14
+F_Singles, not Jump, dtheta, 9344,     13.9
+F_Mated, not Jump, absthetadiff_anglesub, 1857,     13.9
+F_Singles, Turn, signdtheta, 87637,     13.9
+F_Grouped, not Aggregation, x, 8191,     13.9
+F_Singles, not Jump, dangle2wall, 9344,     13.8
+F_Singles, not Jump, absdtheta, 9344,     13.8
+F_Grouped, Touch, anglesub, 15428,     13.7
+F_Singles, not Jump, b, 9344,     13.7
+F_Grouped, not Jump, ecc, 4442,     13.6
+F_Grouped, Jump, angle2wall, 4552,     13.6
+F_Singles, not Jump, absthetadiff_anglesub, 9344,     13.5
+F_Singles, not Touch, x, 18103,     13.5
+F_Mated, Jump, corfrac_maj, 1955,     13.4
+F_Grouped, not Jump, dcenter, 4442,     13.4
+F_Grouped, not Jump, dnose2tail, 4442,     13.4
+F_Grouped, not Jump, dnose2ell, 4442,     13.3
+F_Grouped, not Jump, dell2nose, 4442,     13.3
+F_Singles, not Jump, dnose2ell_angle_30tomin30, 9344,     13.2
+F_Grouped, Jump, magveldiff_anglesub, 4552,     13.1
+F_Singles, not Touch, y, 18103,     13.1
+F_Singles, Jump, magveldiff_nose2ell, 9444,       13
+F_Singles, not Touch, closestfly_nose2ell_angle_30tomin30, 18103,     12.9
+F_Grouped, Jump, da, 4552,     12.5
+F_Grouped, not Jump, dnose2ell_angle_30tomin30, 4442,     12.4
+F_Grouped, Jump, decc, 4552,     12.4
+F_Singles, not Jump, dnose2ell_angle_min30to30, 9344,     12.3
+F_Mated, Jump, corfrac_min, 1955,     12.3
+F_Grouped, not Stop, corfrac_maj, 47621,     12.3
+F_Singles, not Jump, dnose2ell_angle_min20to20, 9344,     12.3
+F_Grouped, not Jump, corfrac_maj, 4442,     12.3
+F_Singles, not Aggregation, arena_angle, 3228,     12.3
+F_Grouped, not Aggregation, arena_angle, 8191,     12.2
+F_Singles, not Aggregation, y_mm, 3228,     12.2
+F_Grouped, Turn, corfrac_min, 83715,     12.1
+F_Singles, not Aggregation, x_mm, 3228,     12.1
+F_Singles, not Aggregation, ynose_mm, 3228,       12
+F_Singles, not Touch, arena_angle, 18103,     11.9
+F_Singles, not Aggregation, xnose_mm, 3228,     11.9
+F_Singles, not Jump, corfrac_maj, 9344,     11.9
+F_Singles, Jump, magveldiff_anglesub, 9444,     11.8
+F_Mated, not Jump, a_mm, 1857,     11.7
+F_Mated, not Jump, absdtheta, 1857,     11.6
+F_Grouped, Jump, ecc, 4552,     11.6
+F_Singles, Turn, corfrac_min, 87637,     11.5
+F_Singles, not Stop, corfrac_maj, 32853,     11.5
+F_Mated, Jump, a_mm, 1955,     11.5
+F_Grouped, not Touch, absanglefrom1to2_nose2ell, 15318,     11.5
+F_Singles, not Stop, angle2wall, 32853,     11.4
+F_Grouped, not Jump, nflies_close, 4442,     11.3
+F_Mated, not Jump, dtheta, 1857,     11.2
+F_Mated, not Jump, dangle2wall, 1857,     11.2
+F_Singles, Touch, nflies_close, 18203,     11.1
+F_Singles, not Jump, veltoward_nose2ell, 9344,       11
+F_Mated, not Jump, danglesub, 1857,     10.9
+F_Mated, not Jump, dnose2tail, 1857,     10.8
+F_Singles, not Jump, velmag_ctr, 9344,     10.8
+F_Mated, not Jump, dnose2ell, 1857,     10.8
+F_Mated, not Jump, dcenter, 1857,     10.8
+F_Singles, Jump, b, 9444,     10.7
+F_Mated, not Jump, dell2nose, 1857,     10.7
+F_Singles, not Jump, velmag, 9344,     10.7
+F_Singles, not Jump, du_ctr, 9344,     10.6
+F_Singles, not Jump, velmag_tail, 9344,     10.6
+F_Grouped, Jump, ddcenter, 4552,     10.5
+F_Singles, not Jump, du_cor, 9344,     10.5
+F_Singles, not Jump, veltoward_anglesub, 9344,     10.5
+F_Mated, Touch, anglesub, 16512,     10.5
+F_Singles, not Jump, du_tail, 9344,     10.4
+F_Singles, not Stop, arena_angle, 32853,     10.4
+F_Singles, not Stop, x, 32853,     10.4
+F_Mated, not Jump, dnose2ell_angle_min30to30, 1857,     10.4
+F_Singles, Touch, anglesub, 18203,     10.3
+F_Mated, not Jump, dnose2ell_angle_min20to20, 1857,     10.3
+F_Grouped, not Touch, angle2wall, 15318,     10.3
+F_Mated, not Jump, decc, 1857,     10.2
+F_Singles, not Jump, ddist2wall, 9344,     10.2
+F_Singles, not Jump, velmag_nose, 9344,     10.2
+F_Singles, not Jump, a, 9344,     10.2
+F_Singles, not Touch, y_mm, 18103,     10.2
+F_Grouped, not Aggregation, closestfly_ell2nose, 8191,     10.2
+F_Singles, not Touch, x_mm, 18103,     10.1
+F_Grouped, not Aggregation, closestfly_nose2tail, 8191,     10.1
+F_Singles, not Stop, y, 32853,     10.1
+F_Grouped, not Touch, angleonclosestfly, 15318,     10.1
+F_Grouped, not Aggregation, closestfly_nose2ell, 8191,     10.1
+F_Grouped, not Touch, anglefrom1to2_nose2ell, 15318,       10
+F_Singles, not Stop, dangle2wall, 32853,       10
+F_Singles, not Touch, xnose_mm, 18103,       10
+F_Grouped, not Touch, theta, 15318,       10
+F_Grouped, not Touch, theta_mm, 15318,       10
+F_Singles, not Touch, ynose_mm, 18103,       10
+F_Singles, not Stop, dtheta, 32853,     9.99
+F_Singles, not Stop, absdtheta, 32853,     9.98
+F_Singles, not Stop, b, 32853,      9.9
+F_Singles, not Jump, dv_tail, 9344,     9.87
+F_Mated, not Stop, b, 21900,     9.83
+F_Grouped, not Aggregation, closestfly_center, 8191,     9.79
+F_Grouped, Touch, nflies_close, 15428,     9.77
+F_Singles, not Jump, ecc, 9344,     9.74
+F_Mated, not Jump, dnose2ell_angle_30tomin30, 1857,     9.73
+F_Singles, not Touch, absanglefrom1to2_nose2ell, 18103,     9.61
+F_Grouped, not Touch, closestfly_nose2ell_angle_min20to20, 15318,     9.56
+F_Singles, Jump, corfrac_maj, 9444,     9.55
+F_Grouped, not Touch, absthetadiff_nose2ell, 15318,     9.55
+F_Grouped, not Jump, dnose2ell_angle_min30to30, 4442,     9.53
+F_Grouped, not Touch, closestfly_nose2ell_angle_min30to30, 15318,     9.52
+F_Grouped, not Jump, dnose2ell_angle_min20to20, 4442,     9.51
+F_Grouped, not Touch, y_mm, 15318,      9.5
+F_Mated, not Stop, corfrac_maj, 21900,     9.46
+F_Mated, not Jump, corfrac_min, 1857,     9.44
+F_Grouped, Touch, danglesub, 15428,     9.41
+F_Grouped, not Stop, b, 47621,     9.41
+F_Mated, not Jump, da, 1857,     9.39
+F_Mated, Jump, darea, 1955,     9.36
+F_Grouped, not Touch, ynose_mm, 15318,     9.36
+F_Singles, Jump, corfrac_min, 9444,     9.34
+F_Singles, Jump, ddcenter, 9444,     9.27
+F_Singles, not Stop, theta, 32853,     9.26
+F_Singles, not Stop, theta_mm, 32853,     9.26
+F_Singles, not Touch, angle2wall, 18103,     9.22
+F_Singles, not Jump, corfrac_min, 9344,     9.22
+F_Singles, Jump, angle2wall, 9444,     9.21
+F_Mated, not Jump, signdtheta, 1857,     9.13
+F_Grouped, not Jump, signdtheta, 4442,     9.11
+F_Grouped, not Touch, x_mm, 15318,     9.09
+F_Singles, not Stop, anglefrom1to2_anglesub, 32853,     9.07
+F_Grouped, not Aggregation, closestfly_nose2ell_angle_30tomin30, 8191,     9.06
+F_Singles, not Jump, dv_ctr, 9344,     9.04
+F_Grouped, not Jump, anglesub, 4442,     8.98
+F_Grouped, not Touch, xnose_mm, 15318,     8.96
+F_Mated, not Jump, corfrac_maj, 1857,     8.95
+F_Singles, not Jump, absdv_cor, 9344,     8.92
+F_Mated, not Aggregation, nflies_close, 9939,     8.91
+F_Mated, Jump, db, 1955,     8.91
+F_Grouped, not Jump, velmag_tail, 4442,     8.91
+F_Singles, not Jump, signdtheta, 9344,     8.91
+F_Mated, not Jump, velmag_tail, 1857,      8.9
+F_Singles, not Walk, absdtheta, 58104,      8.9
+F_Grouped, not Aggregation, y_mm, 8191,     8.81
+F_Mated, not Stop, a, 21900,      8.8
+F_Grouped, not Jump, corfrac_min, 4442,     8.79
+F_Grouped, not Jump, velmag_nose, 4442,     8.74
+F_Grouped, not Turn, b, 83605,      8.7
+F_Grouped, not Jump, velmag_ctr, 4442,     8.68
+F_Singles, not Jump, dv_cor, 9344,     8.67
+F_Singles, not Jump, ddcenter, 9344,     8.66
+F_Grouped, not Aggregation, ynose_mm, 8191,     8.65
+F_Singles, not Walk, dangle2wall, 58104,     8.64
+F_Mated, not Jump, velmag_nose, 1857,     8.63
+F_Singles, not Stop, arena_r, 32853,     8.61
+F_Singles, not Stop, dist2wall, 32853,     8.61
+F_Mated, not Jump, velmag_ctr, 1857,     8.61
+F_Grouped, not Turn, corfrac_maj, 83605,     8.57
+F_Grouped, not Stop, dtheta, 47621,     8.56
+F_Singles, not Touch, angleonclosestfly, 18103,     8.55
+F_Singles, not Stop, y_mm, 32853,     8.55
+F_Singles, not Stop, x_mm, 32853,     8.54
+F_Grouped, not Stop, dangle2wall, 47621,     8.53
+F_Singles, not Stop, xnose_mm, 32853,     8.53
+F_Singles, not Turn, b, 87537,     8.51
+F_Singles, not Stop, closestfly_nose2ell_angle_min20to20, 32853,     8.49
+F_Singles, not Stop, closestfly_nose2ell_angle_min30to30, 32853,     8.48
+F_Singles, not Stop, ynose_mm, 32853,     8.48
+F_Grouped, Jump, a_mm, 4552,     8.45
+F_Mated, not Turn, b, 76588,     8.44
+F_Singles, not Stop, absanglefrom1to2_nose2ell, 32853,     8.42
+F_Singles, not Touch, theta, 18103,     8.41
+F_Singles, not Touch, theta_mm, 18103,     8.41
+F_Singles, not Stop, closestfly_anglesub, 32853,     8.41
+F_Singles, not Walk, dtheta, 58104,     8.36
+F_Singles, not Touch, closestfly_nose2ell_angle_min20to20, 18103,     8.33
+F_Grouped, not Aggregation, angle2wall, 8191,     8.32
+F_Mated, Touch, danglesub, 16512,      8.3
+F_Grouped, not Jump, du_tail, 4442,      8.3
+F_Singles, not Touch, anglefrom1to2_nose2ell, 18103,     8.29
+F_Singles, not Touch, closestfly_nose2ell_angle_min30to30, 18103,     8.27
+F_Grouped, not Aggregation, x_mm, 8191,     8.26
+F_Singles, not Aggregation, closestfly_ell2nose, 3228,     8.26
+F_Grouped, not Stop, absdtheta, 47621,     8.24
+F_Singles, not Jump, flipdv_cor, 9344,     8.23
+F_Grouped, not Jump, velmag, 4442,      8.2
+F_Mated, not Stop, angle2wall, 21900,     8.19
+F_Mated, not Jump, veltoward_nose2ell, 1857,     8.17
+F_Grouped, not Touch, anglefrom1to2_anglesub, 15318,     8.14
+F_Singles, not Turn, corfrac_maj, 87537,     8.13
+F_Singles, not Touch, absthetadiff_nose2ell, 18103,     8.12
+F_Grouped, not Aggregation, xnose_mm, 8191,     8.11
+F_Singles, not Aggregation, angle2wall, 3228,     8.07
+F_Grouped, not Jump, du_ctr, 4442,     8.06
+F_Mated, not Touch, nflies_close, 16412,     8.06
+F_Mated, Jump, ddcenter, 1955,     8.05
+F_Singles, not Jump, magveldiff_nose2ell, 9344,     8.01
+F_Singles, not Aggregation, closestfly_center, 3228,     8.01
+F_Grouped, not Touch, corfrac_maj, 15318,     7.97
+F_Singles, not Touch, arena_r, 18103,     7.97
+F_Singles, not Touch, dist2wall, 18103,     7.97
+F_Grouped, not Jump, veltoward_nose2ell, 4442,     7.97
+F_Mated, not Walk, timestamps, 36832,     7.95
+F_Singles, not Aggregation, arena_r, 3228,     7.93
+F_Singles, not Aggregation, dist2wall, 3228,     7.93
+F_Mated, Jump, signdtheta, 1955,     7.93
+F_Singles, not Aggregation, closestfly_nose2tail, 3228,     7.93
+F_Singles, not Aggregation, closestfly_nose2ell, 3228,     7.92
+F_Singles, not Stop, closestfly_nose2ell_angle_30tomin30, 32853,      7.9
+F_Mated, not Jump, absdv_cor, 1857,     7.88
+F_Grouped, not Jump, ddist2wall, 4442,     7.87
+F_Mated, not Jump, du_tail, 1857,     7.86
+F_Mated, not Jump, veltoward_anglesub, 1857,     7.85
+F_Grouped, not Jump, du_cor, 4442,     7.84
+F_Singles, not Stop, anglefrom1to2_nose2ell, 32853,     7.82
+F_Grouped, not Aggregation, closestfly_nose2ell_angle_min20to20, 8191,     7.81
+F_Mated, not Jump, du_ctr, 1857,      7.8
+F_Grouped, not Aggregation, closestfly_nose2ell_angle_min30to30, 8191,     7.75
+F_Singles, not Stop, closestfly_nose2tail, 32853,     7.75
+F_Singles, not Jump, nflies_close, 9344,     7.74
+F_Mated, not Jump, velmag, 1857,     7.72
+F_Singles, Jump, signdtheta, 9444,     7.71
+F_Grouped, not Jump, veltoward_anglesub, 4442,     7.71
+F_Singles, not Stop, closestfly_ell2nose, 32853,      7.7
+F_Singles, not Stop, closestfly_nose2ell, 32853,     7.69
+F_Singles, Touch, danglesub, 18203,     7.65
+F_Mated, not Turn, corfrac_min, 76588,     7.64
+F_Mated, not Jump, dv_tail, 1857,     7.62
+F_Singles, not Stop, closestfly_center, 32853,     7.62
+F_Grouped, not Grooming, corfrac_maj, 64761,     7.61
+F_Mated, Jump, nflies_close, 1955,     7.61
+F_Grouped, not Jump, dv_tail, 4442,     7.56
+F_Grouped, not Walk, absdtheta, 72982,     7.55
+F_Mated, Turn, absphidiff_anglesub, 76688,     7.53
+F_Mated, Turn, absphidiff_nose2ell, 76688,      7.5
+F_Grouped, Jump, corfrac_min, 4552,     7.49
+F_Grouped, not Walk, corfrac_maj, 72982,     7.49
+F_Grouped, not Touch, closestfly_anglesub, 15318,     7.49
+F_Singles, not Stop, absthetadiff_anglesub, 32853,     7.49
+F_Singles, not Jump, anglesub, 9344,     7.47
+F_Singles, not Stop, absthetadiff_nose2ell, 32853,     7.46
+F_Mated, not Stop, dangle2wall, 21900,     7.42
+F_Grouped, not Touch, b, 15318,     7.39
+F_Singles, not Jump, magveldiff_anglesub, 9344,     7.38
+F_Mated, not Stop, anglefrom1to2_anglesub, 21900,     7.38
+F_Singles, not Stop, angleonclosestfly, 32853,     7.38
+F_Grouped, not Stop, angle2wall, 47621,     7.37
+F_Grouped, Jump, theta, 4552,     7.36
+F_Grouped, Jump, theta_mm, 4552,     7.36
+F_Grouped, not Walk, dangle2wall, 72982,     7.33
+F_Mated, not Stop, absdtheta, 21900,     7.33
+F_Mated, not Stop, dtheta, 21900,     7.33
+F_Grouped, not Aggregation, nflies_close, 8191,     7.28
+F_Grouped, not Walk, dtheta, 72982,     7.27
+F_Singles, not Touch, anglefrom1to2_anglesub, 18103,     7.23
+F_Singles, not Touch, corfrac_min, 18103,     7.22
+F_Grouped, Touch, absanglefrom1to2_nose2ell, 15428,      7.2
+F_Singles, not Walk, anglefrom1to2_anglesub, 58104,     7.14
+F_Singles, not Turn, corfrac_min, 87537,     7.09
+F_Grouped, not Stop, theta, 47621,     7.08
+F_Grouped, not Stop, theta_mm, 47621,     7.08
+F_Mated, not Jump, dv_ctr, 1857,     7.08
+F_Grouped, not Walk, b, 72982,     7.03
+F_Grouped, not Touch, corfrac_min, 15318,     7.02
+F_Mated, not Aggregation, corfrac_min, 9939,     7.01
+F_Singles, not Walk, b, 58104,        7
+F_Grouped, not Touch, absthetadiff_anglesub, 15318,        7
+F_Grouped, Jump, corfrac_maj, 4552,        7
+F_Mated, Jump, angle2wall, 1955,     6.99
+F_Grouped, Touch, angleonclosestfly, 15428,     6.99
+F_Mated, not Touch, closestfly_ell2nose, 16412,     6.97
+F_Singles, not Touch, b, 18103,     6.96
+F_Mated, not Stop, nflies_close, 21900,     6.93
+F_Mated, not Jump, du_cor, 1857,     6.92
+F_Singles, not Turn, dtheta, 87537,     6.89
+F_Grouped, not Stop, anglefrom1to2_anglesub, 47621,     6.87
+F_Mated, not Jump, ddist2wall, 1857,     6.87
+F_Mated, not Touch, closestfly_center, 16412,     6.86
+F_Singles, not Turn, dangle2wall, 87537,     6.85
+F_Mated, not Jump, dv_cor, 1857,     6.85
+F_Mated, not Stop, theta, 21900,     6.85
+F_Mated, not Stop, theta_mm, 21900,     6.85
+F_Grouped, not Stop, anglefrom1to2_nose2ell, 47621,     6.84
+F_Singles, not Aggregation, closestfly_nose2ell_angle_30tomin30, 3228,     6.83
+F_Grouped, not Turn, ecc, 83605,     6.83
+F_Mated, not Stop, danglesub, 21900,     6.82
+F_Grouped, not Touch, arena_r, 15318,     6.82
+F_Grouped, not Touch, dist2wall, 15318,     6.82
+F_Grouped, not Turn, corfrac_min, 83605,     6.81
+F_Grouped, not Jump, decc, 4442,      6.8
+F_Grouped, not Stop, absanglefrom1to2_nose2ell, 47621,     6.79
+F_Singles, not Stop, veltoward_nose2ell, 32853,     6.77
+F_Grouped, not Turn, dtheta, 83605,     6.75
+F_Mated, not Touch, closestfly_nose2ell, 16412,     6.74
+F_Mated, not Stop, anglesub, 21900,     6.73
+F_Singles, not Stop, ddist2wall, 32853,     6.71
+F_Grouped, not Turn, dangle2wall, 83605,      6.7
+F_Grouped, Turn, absphidiff_nose2ell, 83715,     6.68
+F_Singles, not Touch, closestfly_anglesub, 18103,     6.65
+F_Singles, not Grooming, corfrac_maj, 54297,     6.65
+F_Grouped, not Stop, ecc, 47621,     6.65
+F_Mated, Jump, area, 1955,     6.63
+F_Mated, not Aggregation, anglesub, 9939,     6.59
+F_Mated, Jump, b_mm, 1955,     6.58
+F_Mated, not Touch, closestfly_nose2tail, 16412,     6.58
+F_Mated, not Touch, corfrac_min, 16412,     6.56
+F_Singles, not Touch, corfrac_maj, 18103,     6.55
+F_Singles, not Aggregation, closestfly_nose2ell_angle_min20to20, 3228,     6.54
+F_Grouped, not Stop, closestfly_anglesub, 47621,     6.53
+F_Singles, not Stop, dnose2ell_angle_min30to30, 32853,     6.52
+F_Grouped, not Stop, arena_angle, 47621,     6.52
+F_Singles, not Turn, absdtheta, 87537,     6.52
+F_Singles, not Stop, dnose2ell_angle_min20to20, 32853,     6.51
+F_Grouped, not Aggregation, angleonclosestfly, 8191,     6.51
+F_Mated, not Jump, absphidiff_anglesub, 1857,     6.51
+F_Grouped, Turn, absphidiff_anglesub, 83715,      6.5
+F_Singles, Jump, decc, 9444,     6.49
+F_Mated, not Turn, signdtheta, 76588,     6.49
+F_Grouped, not Jump, absdv_cor, 4442,     6.49
+F_Singles, not Stop, veltoward_anglesub, 32853,     6.48
+F_Singles, not Stop, corfrac_min, 32853,     6.45
+F_Singles, Jump, absphidiff_nose2ell, 9444,     6.45
+F_Singles, not Touch, dnose2ell, 18103,     6.45
+F_Singles, not Touch, dell2nose, 18103,     6.45
+F_Singles, not Stop, dv_tail, 32853,     6.44
+F_Grouped, Grooming, corfrac_maj, 64871,     6.43
+F_Singles, not Touch, dnose2tail, 18103,     6.41
+F_Singles, not Touch, dcenter, 18103,      6.4
+F_Singles, not Touch, signdtheta, 18103,     6.38
+F_Singles, Grooming, corfrac_maj, 54397,     6.38
+F_Mated, not Stop, y, 21900,     6.37
+F_Mated, not Walk, b, 36832,     6.36
+F_Singles, not Stop, du_ctr, 32853,     6.36
+F_Grouped, not Turn, absdtheta, 83605,     6.36
+F_Singles, not Stop, du_cor, 32853,     6.35
+F_Mated, not Jump, absphidiff_nose2ell, 1857,     6.35
+F_Grouped, Touch, anglefrom1to2_anglesub, 15428,     6.35
+F_Singles, Jump, a, 9444,     6.34
+F_Grouped, Touch, closestfly_nose2ell_angle_min20to20, 15428,     6.34
+F_Grouped, not Aggregation, theta, 8191,     6.32
+F_Grouped, not Aggregation, theta_mm, 8191,     6.32
+F_Singles, not Stop, velmag, 32853,     6.31
+F_Singles, not Stop, du_tail, 32853,     6.31
+F_Singles, not Aggregation, closestfly_nose2ell_angle_min30to30, 3228,     6.29
+F_Mated, not Aggregation, signdtheta, 9939,     6.29
+F_Mated, not Stop, x, 21900,     6.26
+F_Grouped, Touch, closestfly_nose2ell_angle_min30to30, 15428,     6.26
+F_Singles, not Stop, velmag_ctr, 32853,     6.26
+F_Grouped, not Stop, y, 47621,     6.26
+F_Grouped, not Jump, dv_ctr, 4442,     6.24
+F_Mated, not Jump, flipdv_cor, 1857,     6.21
+F_Grouped, not Stop, absthetadiff_anglesub, 47621,      6.2
+F_Grouped, not Jump, a_mm, 4442,     6.19
+F_Mated, not Jump, magveldiff_nose2ell, 1857,     6.19
+F_Singles, not Stop, velmag_tail, 32853,     6.18
+F_Grouped, not Aggregation, absanglefrom1to2_nose2ell, 8191,     6.17
+F_Grouped, not Stop, x, 47621,     6.13
+F_Mated, not Turn, corfrac_maj, 76588,     6.11
+F_Grouped, not Jump, ddcenter, 4442,     6.09
+F_Singles, not Touch, absthetadiff_anglesub, 18103,     6.09
+F_Grouped, not Jump, magveldiff_nose2ell, 4442,     6.08
+F_Grouped, Grooming, corfrac_min, 64871,     6.08
+F_Grouped, not Touch, signdtheta, 15318,     6.08
+F_Grouped, not Aggregation, b, 8191,     6.07
+F_Grouped, not Jump, dv_cor, 4442,     6.05
+F_Singles, not Stop, dv_ctr, 32853,     6.04
+F_Singles, Turn, absphidiff_nose2ell, 87637,     6.04
+F_Singles, Walk, arena_angle, 58204,     6.04
+F_Singles, not Stop, dnose2ell, 32853,     6.03
+F_Mated, not Walk, anglefrom1to2_anglesub, 36832,     6.03
+F_Singles, not Stop, velmag_nose, 32853,     6.03
+F_Singles, not Stop, dnose2tail, 32853,     6.01
+F_Mated, Jump, absphidiff_nose2ell, 1955,        6
+F_Singles, not Stop, ecc, 32853,        6
+F_Mated, not Touch, closestfly_nose2ell_angle_30tomin30, 16412,     5.97
+F_Singles, not Stop, dcenter, 32853,     5.96
+F_Singles, Touch, absanglefrom1to2_nose2ell, 18203,     5.96
+F_Singles, not Stop, absdv_cor, 32853,     5.94
+F_Grouped, not Touch, ecc, 15318,     5.94
+F_Singles, not Stop, dell2nose, 32853,     5.92
+F_Singles, not Stop, dv_cor, 32853,     5.91
+F_Grouped, not Stop, angleonclosestfly, 47621,      5.9
+F_Singles, not Turn, signdtheta, 87537,     5.88
+F_Singles, Turn, absphidiff_anglesub, 87637,     5.88
+F_Singles, Jump, absphidiff_anglesub, 9444,     5.87
+F_Mated, not Jump, area, 1857,     5.85
+F_Grouped, not Stop, absthetadiff_nose2ell, 47621,     5.83
+F_Singles, not Stop, dnose2ell_angle_30tomin30, 32853,     5.82
+F_Grouped, not Aggregation, anglefrom1to2_anglesub, 8191,     5.82
+F_Mated, not Stop, absanglefrom1to2_nose2ell, 21900,     5.81
+F_Singles, not Touch, dnose2ell_angle_30tomin30, 18103,     5.81
+F_Grouped, not Aggregation, anglesub, 8191,      5.8
+F_Mated, not Jump, darea, 1857,     5.78
+F_Grouped, not Walk, anglefrom1to2_anglesub, 72982,     5.78
+F_Mated, Turn, b, 76688,     5.78
+F_Mated, not Jump, b_mm, 1857,     5.78
+F_Mated, not Stop, anglefrom1to2_nose2ell, 21900,     5.78
+F_Mated, Jump, absphidiff_anglesub, 1955,     5.77
+F_Grouped, Touch, closestfly_anglesub, 15428,     5.77
+F_Grouped, not Stop, decc, 47621,     5.76
+F_Mated, Grooming, corfrac_maj, 59670,     5.75
+F_Grouped, not Aggregation, absthetadiff_nose2ell, 8191,     5.74
+F_Singles, Touch, angleonclosestfly, 18203,     5.72
+F_Singles, not Stop, flipdv_cor, 32853,     5.72
+F_Grouped, not Touch, dell2nose, 15318,     5.72
+F_Grouped, not Touch, dnose2ell, 15318,     5.71
+F_Grouped, not Aggregation, corfrac_maj, 8191,     5.71
+F_Grouped, not Touch, dcenter, 15318,     5.71
+F_Mated, not Jump, magveldiff_anglesub, 1857,      5.7
+F_Grouped, not Touch, dnose2tail, 15318,      5.7
+F_Grouped, not Stop, a, 47621,     5.69
+F_Grouped, Jump, signdtheta, 4552,     5.68
+F_Mated, not Stop, closestfly_anglesub, 21900,     5.66
+F_Grouped, Jump, absphidiff_nose2ell, 4552,     5.65
+F_Singles, Aggregation, corfrac_maj, 3306,     5.65
+F_Grouped, Walk, phisideways, 73092,     5.64
+F_Mated, not Stop, closestfly_nose2ell_angle_min30to30, 21900,     5.64
+F_Grouped, not Walk, ecc, 72982,     5.62
+F_Mated, not Stop, closestfly_nose2ell_angle_min20to20, 21900,     5.62
+F_Singles, not Stop, a, 32853,     5.61
+F_Singles, not Jump, a_mm, 9344,      5.6
+F_Singles, Turn, absdtheta, 87637,     5.59
+F_Grouped, not Aggregation, corfrac_min, 8191,     5.59
+F_Grouped, not Aggregation, anglefrom1to2_nose2ell, 8191,     5.57
+F_Grouped, not Jump, absphidiff_anglesub, 4442,     5.56
+F_Grouped, not Jump, absphidiff_nose2ell, 4442,     5.56
+F_Grouped, not Stop, corfrac_min, 47621,     5.56
+F_Mated, not Stop, ecc, 21900,     5.55
+F_Grouped, not Aggregation, ecc, 8191,     5.54
+F_Grouped, not Aggregation, arena_r, 8191,     5.53
+F_Grouped, not Aggregation, dist2wall, 8191,     5.53
+F_Singles, not Walk, theta, 58104,     5.52
+F_Singles, not Walk, theta_mm, 58104,     5.52
+F_Singles, Walk, dtheta, 58204,     5.52
+F_Grouped, not Turn, signdtheta, 83605,     5.51
+F_Grouped, not Turn, anglefrom1to2_nose2ell, 83605,     5.51
+F_Singles, not Aggregation, nflies_close, 3228,      5.5
+F_Grouped, not Jump, magveldiff_anglesub, 4442,      5.5
+F_Singles, not Walk, angle2wall, 58104,      5.5
+F_Mated, not Stop, arena_angle, 21900,     5.49
+F_Singles, Walk, dangle2wall, 58204,     5.48
+F_Singles, not Turn, angleonclosestfly, 87537,     5.46
+F_Mated, not Aggregation, danglesub, 9939,     5.46
+F_Mated, Jump, anglesub, 1955,     5.46
+F_Grouped, not Turn, angleonclosestfly, 83605,     5.46
+F_Grouped, not Jump, flipdv_cor, 4442,     5.44
+F_Mated, not Walk, absdtheta, 36832,     5.44
+F_Singles, not Turn, ecc, 87537,      5.4
+F_Grouped, Grooming, signdtheta, 64871,      5.4
+F_Singles, not Walk, dnose2ell_angle_min30to30, 58104,     5.39
+F_Singles, not Walk, dnose2ell_angle_min20to20, 58104,     5.38
+F_Grouped, not Turn, absthetadiff_anglesub, 83605,     5.37
+F_Grouped, not Stop, closestfly_nose2ell_angle_30tomin30, 47621,     5.36
+F_Grouped, not Stop, closestfly_nose2ell_angle_min30to30, 47621,     5.35
+F_Mated, not Touch, signdtheta, 16412,     5.35
+F_Singles, not Turn, absthetadiff_anglesub, 87537,     5.34
+F_Grouped, not Touch, nflies_close, 15318,     5.34
+F_Grouped, not Aggregation, closestfly_anglesub, 8191,     5.33
+F_Singles, Grooming, corfrac_min, 54397,     5.33
+F_Mated, Walk, phisideways, 36932,     5.33
+F_Grouped, not Walk, theta, 72982,     5.33
+F_Grouped, not Walk, theta_mm, 72982,     5.33
+F_Grouped, not Turn, anglefrom1to2_anglesub, 83605,     5.32
+F_Mated, not Touch, y, 16412,     5.32
+F_Grouped, not Aggregation, signdtheta, 8191,     5.31
+F_Singles, not Stop, signdtheta, 32853,     5.31
+F_Grouped, not Stop, closestfly_nose2ell_angle_min20to20, 47621,      5.3
+F_Singles, not Turn, closestfly_anglesub, 87537,     5.29
+F_Singles, Touch, closestfly_nose2ell_angle_min20to20, 18203,     5.28
+F_Mated, not Aggregation, a, 9939,     5.28
+F_Mated, not Stop, absthetadiff_anglesub, 21900,     5.25
+F_Mated, not Walk, dangle2wall, 36832,     5.25
+F_Mated, not Aggregation, b, 9939,     5.23
+F_Singles, Touch, closestfly_nose2ell_angle_min30to30, 18203,     5.23
+F_Singles, Jump, da, 9444,     5.22
+F_Grouped, not Turn, closestfly_anglesub, 83605,     5.21
+F_Singles, not Jump, absphidiff_anglesub, 9344,     5.21
+F_Singles, Turn, dangle2wall, 87637,      5.2
+F_Mated, not Touch, x, 16412,      5.2
+F_Singles, not Aggregation, corfrac_min, 3228,     5.19
+F_Grouped, not Stop, closestfly_ell2nose, 47621,     5.19
+F_Grouped, not Stop, closestfly_nose2tail, 47621,     5.17
+F_Grouped, not Touch, dnose2ell_angle_30tomin30, 15318,     5.16
+F_Grouped, not Stop, closestfly_nose2ell, 47621,     5.16
+F_Singles, Walk, absdtheta, 58204,     5.15
+F_Singles, not Walk, corfrac_maj, 58104,     5.15
+F_Mated, not Aggregation, absphidiff_nose2ell, 9939,     5.15
+F_Singles, Stop, timestamps, 32953,     5.14
+F_Mated, not Jump, phi, 1857,     5.14
+F_Grouped, not Jump, da, 4442,     5.14
+F_Grouped, Jump, anglefrom1to2_anglesub, 4552,     5.14
+F_Mated, not Grooming, corfrac_min, 59570,     5.13
+F_Grouped, Jump, db, 4552,     5.12
+F_Grouped, not Stop, closestfly_center, 47621,     5.12
+F_Singles, not Walk, closestfly_anglesub, 58104,     5.12
+F_Singles, not Jump, absphidiff_nose2ell, 9344,     5.11
+F_Mated, not Walk, corfrac_maj, 36832,     5.11
+F_Grouped, not Turn, absanglefrom1to2_nose2ell, 83605,      5.1
+F_Mated, not Jump, phisideways, 1857,     5.09
+F_Singles, not Stop, ddcenter, 32853,     5.08
+F_Grouped, Touch, absthetadiff_anglesub, 15428,     5.07
+F_Mated, not Aggregation, absphidiff_anglesub, 9939,     5.06
+F_Mated, not Stop, closestfly_nose2ell_angle_30tomin30, 21900,     5.05
+F_Singles, Touch, anglefrom1to2_anglesub, 18203,     5.04
+F_Mated, not Walk, dtheta, 36832,     5.01
+F_Mated, not Turn, absphidiff_anglesub, 76588,     5.01
+F_Grouped, Jump, closestfly_nose2ell_angle_min20to20, 4552,     5.01
+F_Mated, not Stop, absthetadiff_nose2ell, 21900,        5
+F_Grouped, Walk, absyaw, 73092,     4.99
+F_Singles, Jump, phi, 9444,     4.99
+F_Singles, Walk, x, 58204,     4.98
+F_Mated, Turn, phisideways, 76688,     4.97
+F_Singles, not Turn, absanglefrom1to2_nose2ell, 87537,     4.94
+F_Mated, not Stop, angleonclosestfly, 21900,     4.92
+F_Mated, not Stop, closestfly_nose2ell, 21900,     4.91
+F_Grouped, not Stop, signdtheta, 47621,      4.9
+F_Singles, not Turn, anglefrom1to2_nose2ell, 87537,      4.9
+F_Grouped, not Turn, decc, 83605,      4.9
+F_Singles, not Aggregation, signdtheta, 3228,     4.88
+F_Singles, Walk, veltoward_nose2ell, 58204,     4.88
+F_Singles, not Grooming, corfrac_min, 54297,     4.88
+F_Mated, not Turn, absphidiff_nose2ell, 76588,     4.87
+F_Singles, not Aggregation, absyaw, 3228,     4.86
+F_Mated, Touch, corfrac_maj, 16512,     4.86
+F_Mated, not Stop, closestfly_nose2tail, 21900,     4.86
+F_Mated, Walk, absyaw, 36932,     4.84
+F_Grouped, not Turn, a, 83605,     4.84
+F_Mated, not Turn, ecc, 76588,     4.84
+F_Mated, not Stop, closestfly_ell2nose, 21900,     4.83
+F_Singles, Walk, flipdv_cor, 58204,     4.82
+F_Singles, not Turn, anglefrom1to2_anglesub, 87537,     4.82
+F_Mated, not Walk, angle2wall, 36832,     4.82
+F_Mated, not Walk, corfrac_min, 36832,     4.82
+F_Singles, not Aggregation, theta, 3228,     4.81
+F_Singles, not Aggregation, theta_mm, 3228,     4.81
+F_Grouped, not Turn, absthetadiff_nose2ell, 83605,      4.8
+F_Singles, not Stop, decc, 32853,     4.79
+F_Singles, not Walk, absthetadiff_anglesub, 58104,     4.78
+F_Singles, Walk, phisideways, 58204,     4.78
+F_Singles, not Jump, decc, 9344,     4.78
+F_Grouped, Jump, darea, 4552,     4.78
+F_Singles, Walk, y, 58204,     4.76
+F_Grouped, not Grooming, corfrac_min, 64761,     4.76
+F_Mated, not Stop, dnose2ell_angle_min30to30, 21900,     4.76
+F_Mated, not Turn, a, 76588,     4.76
+F_Mated, not Jump, ddcenter, 1857,     4.75
+F_Grouped, not Walk, decc, 72982,     4.74
+F_Singles, Walk, ddist2wall, 58204,     4.74
+F_Singles, Touch, closestfly_anglesub, 18203,     4.74
+F_Mated, not Stop, dnose2ell_angle_min20to20, 21900,     4.73
+F_Mated, not Stop, closestfly_center, 21900,     4.73
+F_Singles, Turn, dtheta, 87637,     4.72
+F_Mated, not Walk, a, 36832,     4.72
+F_Singles, Jump, ecc, 9444,     4.72
+F_Mated, not Touch, corfrac_maj, 16412,      4.7
+F_Singles, not Walk, corfrac_min, 58104,      4.7
+F_Grouped, Jump, absphidiff_anglesub, 4552,      4.7
+F_Mated, not Stop, corfrac_min, 21900,     4.69
+F_Grouped, Jump, closestfly_nose2ell_angle_min30to30, 4552,     4.69
+F_Grouped, Jump, absanglefrom1to2_nose2ell, 4552,     4.68
+F_Singles, not Walk, anglefrom1to2_nose2ell, 58104,     4.68
+F_Grouped, not Walk, angle2wall, 72982,     4.68
+F_Singles, Walk, absyaw, 58204,     4.65
+F_Singles, not Aggregation, angleonclosestfly, 3228,     4.65
+F_Grouped, Walk, phi, 73092,     4.63
+F_Mated, not Stop, decc, 21900,     4.63
+F_Singles, not Stop, magveldiff_nose2ell, 32853,     4.63
+F_Singles, Walk, arena_r, 58204,     4.63
+F_Singles, Walk, dist2wall, 58204,     4.63
+F_Singles, Grooming, signdtheta, 54397,     4.61
+F_Singles, not Turn, absthetadiff_nose2ell, 87537,      4.6
+F_Mated, not Aggregation, phisideways, 9939,     4.59
+F_Mated, Walk, phi, 36932,     4.58
+F_Singles, not Walk, ecc, 58104,     4.58
+F_Mated, Turn, phi, 76688,     4.58
+F_Grouped, not Aggregation, absthetadiff_anglesub, 8191,     4.57
+F_Grouped, not Touch, dtheta, 15318,     4.56
+F_Singles, not Touch, dtheta, 18103,     4.56
+F_Singles, Walk, veltoward_anglesub, 58204,     4.55
+F_Mated, Jump, phi, 1955,     4.55
+F_Mated, not Touch, angle2wall, 16412,     4.53
+F_Singles, Walk, dv_cor, 58204,     4.53
+F_Singles, not Touch, dangle2wall, 18103,     4.53
+F_Grouped, Turn, absdtheta, 83715,     4.53
+F_Mated, not Grooming, signdtheta, 59570,     4.53
+F_Grouped, Jump, danglesub, 4552,     4.52
+F_Mated, Turn, ecc, 76688,     4.51
+F_Grouped, not Touch, dangle2wall, 15318,     4.51
+F_Grouped, not Touch, a, 15318,      4.5
+F_Singles, not Touch, veltoward_nose2ell, 18103,     4.47
+F_Grouped, Jump, anglefrom1to2_nose2ell, 4552,     4.47
+F_Mated, not Jump, db, 1857,     4.46
+F_Grouped, not Jump, danglesub, 4442,     4.45
+F_Singles, not Touch, dnose2ell_angle_min30to30, 18103,     4.44
+F_Singles, not Jump, b_mm, 9344,     4.43
+F_Mated, not Walk, theta, 36832,     4.43
+F_Mated, not Walk, theta_mm, 36832,     4.43
+F_Singles, not Touch, dnose2ell_angle_min20to20, 18103,     4.43
+F_Mated, not Touch, anglesub, 16412,     4.43
+F_Singles, not Aggregation, anglefrom1to2_anglesub, 3228,     4.42
+F_Singles, not Touch, ddcenter, 18103,      4.4
+F_Singles, not Aggregation, anglesub, 3228,     4.38
+F_Singles, Jump, theta, 9444,     4.38
+F_Singles, Jump, theta_mm, 9444,     4.38
+F_Mated, not Touch, b, 16412,     4.37
+F_Singles, not Touch, ecc, 18103,     4.36
+F_Singles, not Turn, a, 87537,     4.34
+F_Singles, Walk, absdv_cor, 58204,     4.33
+F_Singles, not Grooming, signdtheta, 54297,     4.33
+F_Singles, not Stop, magveldiff_anglesub, 32853,     4.32
+F_Singles, not Touch, absdtheta, 18103,     4.32
+F_Singles, not Turn, ddist2wall, 87537,     4.31
+F_Grouped, not Touch, absdtheta, 15318,     4.29
+F_Mated, not Touch, arena_angle, 16412,     4.28
+F_Grouped, not Grooming, signdtheta, 64761,     4.27
+F_Singles, Walk, velmag, 58204,     4.26
+F_Singles, not Turn, closestfly_nose2ell_angle_30tomin30, 87537,     4.26
+F_Singles, Walk, dv_ctr, 58204,     4.24
+F_Mated, not Aggregation, phi, 9939,     4.24
+F_Grouped, not Walk, anglefrom1to2_nose2ell, 72982,     4.24
+F_Grouped, Walk, dphi, 73092,     4.23
+F_Grouped, not Aggregation, absphidiff_anglesub, 8191,     4.23
+F_Mated, Turn, timestamps, 76688,     4.22
+F_Grouped, not Aggregation, absphidiff_nose2ell, 8191,     4.22
+F_Grouped, not Turn, angle2wall, 83605,     4.22
+F_Mated, Walk, corfrac_min, 36932,     4.22
+F_Singles, not Aggregation, dell2nose, 3228,     4.22
+F_Mated, not Touch, absanglefrom1to2_nose2ell, 16412,     4.22
+F_Mated, not Grooming, corfrac_maj, 59570,     4.21
+F_Singles, not Walk, dv_ctr, 58104,     4.21
+F_Singles, not Aggregation, dcenter, 3228,     4.21
+F_Singles, Walk, absanglefrom1to2_nose2ell, 58204,     4.21
+F_Singles, Walk, du_cor, 58204,     4.21
+F_Singles, not Aggregation, phi, 3228,      4.2
+F_Mated, not Jump, absyaw, 1857,     4.19
+F_Mated, Jump, timestamps, 1955,     4.19
+F_Singles, Jump, db, 9444,     4.19
+F_Mated, not Turn, nflies_close, 76588,     4.17
+F_Singles, Walk, dv_tail, 58204,     4.17
+F_Singles, not Aggregation, dnose2ell, 3228,     4.16
+F_Grouped, not Aggregation, a, 8191,     4.16
+F_Singles, Walk, x_mm, 58204,     4.16
+F_Grouped, Turn, timestamps, 83715,     4.15
+F_Grouped, not Turn, closestfly_nose2ell_angle_30tomin30, 83605,     4.15
+F_Singles, not Aggregation, dnose2tail, 3228,     4.15
+F_Singles, Jump, timestamps, 9444,     4.15
+F_Singles, not Aggregation, closestfly_anglesub, 3228,     4.15
+F_Singles, Walk, velmag_ctr, 58204,     4.14
+F_Grouped, Walk, yaw, 73092,     4.14
+F_Singles, not Turn, veltoward_nose2ell, 87537,     4.13
+F_Grouped, Jump, phi, 4552,     4.13
+F_Grouped, Walk, corfrac_maj, 73092,     4.11
+F_Mated, not Aggregation, closestfly_nose2ell, 9939,     4.11
+F_Singles, Turn, timestamps, 87637,     4.11
+F_Grouped, not Jump, phi, 4442,     4.11
+F_Mated, not Touch, closestfly_nose2ell_angle_min30to30, 16412,      4.1
+F_Singles, Walk, phi, 58204,      4.1
+F_Singles, not Turn, closestfly_ell2nose, 87537,      4.1
+F_Grouped, Jump, timestamps, 4552,     4.09
+F_Mated, Walk, dphi, 36932,     4.09
+F_Singles, Walk, y_mm, 58204,     4.09
+F_Singles, not Aggregation, absanglefrom1to2_nose2ell, 3228,     4.09
+F_Grouped, not Walk, closestfly_anglesub, 72982,     4.09
+F_Grouped, not Walk, a, 72982,     4.08
+F_Grouped, not Turn, theta, 83605,     4.08
+F_Grouped, not Turn, theta_mm, 83605,     4.08
+F_Singles, Walk, xnose_mm, 58204,     4.08
+F_Singles, not Turn, dv_ctr, 87537,     4.08
+F_Singles, Walk, angle2wall, 58204,     4.07
+F_Grouped, Turn, dangle2wall, 83715,     4.07
+F_Singles, not Walk, du_tail, 58104,     4.06
+F_Grouped, not Walk, absthetadiff_anglesub, 72982,     4.06
+F_Mated, not Walk, anglesub, 36832,     4.05
+F_Singles, not Turn, veltoward_anglesub, 87537,     4.04
+F_Mated, Jump, phisideways, 1955,     4.04
+F_Singles, not Walk, velmag_nose, 58104,     4.04
+F_Singles, not Turn, closestfly_center, 87537,     4.04
+F_Singles, not Turn, flipdv_cor, 87537,     4.04
+F_Singles, not Turn, angle2wall, 87537,     4.03
+F_Mated, not Turn, phisideways, 76588,     4.02
+F_Singles, Touch, absthetadiff_anglesub, 18203,     4.02
+F_Mated, Turn, dt, 76688,     4.02
+F_Mated, Walk, yaw, 36932,     4.02
+F_Grouped, not Turn, closestfly_nose2tail, 83605,     4.02
+F_Singles, Walk, velmag_tail, 58204,     4.01
+F_Mated, not Touch, closestfly_nose2ell_angle_min20to20, 16412,     4.01
+F_Singles, not Turn, closestfly_nose2ell, 87537,     4.01
+F_Grouped, not Turn, closestfly_ell2nose, 83605,        4
+F_Mated, not Aggregation, absyaw, 9939,        4
+F_Singles, not Turn, closestfly_nose2tail, 87537,     3.99
+F_Grouped, not Turn, closestfly_center, 83605,     3.99
+F_Singles, Walk, dphi, 58204,     3.99
+F_Singles, not Aggregation, corfrac_maj, 3228,     3.99
+F_Singles, Walk, ynose_mm, 58204,     3.98
+F_Singles, Walk, closestfly_anglesub, 58204,     3.98
+F_Mated, Stop, anglesub, 22000,     3.96
+F_Singles, Walk, du_ctr, 58204,     3.96
+F_Grouped, not Turn, closestfly_nose2ell, 83605,     3.96
+F_Mated, Turn, absyaw, 76688,     3.95
+F_Singles, not Jump, danglesub, 9344,     3.95
+F_Singles, not Turn, du_tail, 87537,     3.95
+F_Grouped, not Touch, absphidiff_nose2ell, 15318,     3.94
+F_Singles, not Aggregation, phisideways, 3228,     3.94
+F_Mated, not Touch, a, 16412,     3.93
+F_Grouped, Jump, b_mm, 4552,     3.93
+F_Grouped, not Walk, corfrac_min, 72982,     3.93
+F_Singles, Walk, angleonclosestfly, 58204,     3.93
+F_Grouped, Walk, dtheta, 73092,     3.92
+F_Mated, not Stop, arena_r, 21900,     3.91
+F_Mated, not Stop, dist2wall, 21900,     3.91
+F_Singles, not Walk, absthetadiff_nose2ell, 58104,     3.91
+F_Grouped, not Jump, phisideways, 4442,     3.91
+F_Singles, not Turn, du_cor, 87537,      3.9
+F_Singles, not Turn, du_ctr, 87537,      3.9
+F_Grouped, not Stop, arena_r, 47621,      3.9
+F_Grouped, not Stop, dist2wall, 47621,      3.9
+F_Singles, Walk, yaw, 58204,     3.89
+F_Singles, not Touch, absphidiff_nose2ell, 18103,     3.87
+F_Mated, not Aggregation, closestfly_ell2nose, 9939,     3.87
+F_Grouped, Turn, phi, 83715,     3.86
+F_Singles, Walk, du_tail, 58204,     3.86
+F_Singles, not Aggregation, absthetadiff_nose2ell, 3228,     3.86
+F_Singles, not Turn, velmag_tail, 87537,     3.85
+F_Grouped, Turn, b, 83715,     3.85
+F_Singles, Walk, velmag_nose, 58204,     3.85
+F_Singles, Jump, phisideways, 9444,     3.85
+F_Mated, Aggregation, timestamps, 10039,     3.85
+F_Grouped, Walk, dangle2wall, 73092,     3.85
+F_Mated, not Touch, absphidiff_nose2ell, 16412,     3.84
+F_Singles, not Turn, dv_cor, 87537,     3.83
+F_Grouped, not Turn, closestfly_nose2ell_angle_min30to30, 83605,     3.83
+F_Mated, not Touch, absphidiff_anglesub, 16412,     3.83
+F_Singles, not Turn, dv_tail, 87537,     3.83
+F_Singles, not Walk, absdv_cor, 58104,     3.82
+F_Singles, not Turn, velmag, 87537,     3.82
+F_Singles, not Walk, du_ctr, 58104,      3.8
+F_Singles, not Turn, velmag_nose, 87537,     3.79
+F_Singles, not Turn, absdv_cor, 87537,     3.79
+F_Mated, not Walk, closestfly_anglesub, 36832,     3.79
+F_Grouped, not Turn, closestfly_nose2ell_angle_min20to20, 83605,     3.79
+F_Grouped, Touch, anglefrom1to2_nose2ell, 15428,     3.79
+F_Singles, not Turn, velmag_ctr, 87537,     3.78
+F_Grouped, Jump, absthetadiff_nose2ell, 4552,     3.78
+F_Mated, not Touch, angleonclosestfly, 16412,     3.78
+F_Singles, not Walk, absanglefrom1to2_nose2ell, 58104,     3.78
+F_Mated, not Touch, anglefrom1to2_nose2ell, 16412,     3.77
+F_Singles, not Jump, da, 9344,     3.77
+F_Mated, not Stop, ynose_mm, 21900,     3.76
+F_Singles, Walk, closestfly_nose2ell_angle_30tomin30, 58204,     3.76
+F_Mated, not Stop, y_mm, 21900,     3.76
+F_Mated, not Walk, absthetadiff_anglesub, 36832,     3.76
+F_Mated, Aggregation, corfrac_maj, 10039,     3.75
+F_Mated, not Touch, anglefrom1to2_anglesub, 16412,     3.74
+F_Singles, not Turn, decc, 87537,     3.74
+F_Mated, not Stop, veltoward_nose2ell, 21900,     3.72
+F_Mated, not Walk, anglefrom1to2_nose2ell, 36832,     3.72
+F_Grouped, not Aggregation, danglesub, 8191,     3.72
+F_Singles, not Walk, a, 58104,     3.72
+F_Singles, Walk, anglefrom1to2_nose2ell, 58204,     3.71
+F_Grouped, not Touch, absphidiff_anglesub, 15318,     3.71
+F_Singles, not Turn, ddcenter, 87537,     3.71
+F_Mated, not Aggregation, closestfly_nose2tail, 9939,     3.71
+F_Singles, not Touch, a, 18103,      3.7
+F_Grouped, Turn, dtheta, 83715,      3.7
+F_Mated, not Aggregation, yaw, 9939,     3.69
+F_Mated, not Touch, theta, 16412,     3.69
+F_Mated, not Touch, theta_mm, 16412,     3.69
+F_Mated, not Stop, veltoward_anglesub, 21900,     3.69
+F_Mated, Jump, theta, 1955,     3.69
+F_Mated, Jump, theta_mm, 1955,     3.69
+F_Grouped, not Stop, y_mm, 47621,     3.69
+F_Mated, Touch, corfrac_min, 16512,     3.69
+F_Mated, not Aggregation, ecc, 9939,     3.68
+F_Mated, not Walk, dnose2ell_angle_min30to30, 36832,     3.68
+F_Grouped, not Stop, veltoward_nose2ell, 47621,     3.68
+F_Singles, not Stop, anglesub, 32853,     3.67
+F_Grouped, not Stop, nflies_close, 47621,     3.67
+F_Mated, not Stop, absdv_cor, 21900,     3.67
+F_Mated, not Stop, xnose_mm, 21900,     3.66
+F_Mated, not Walk, dnose2ell_angle_min20to20, 36832,     3.66
+F_Singles, not Turn, closestfly_nose2ell_angle_min30to30, 87537,     3.65
+F_Singles, not Stop, nflies_close, 32853,     3.65
+F_Singles, not Touch, absphidiff_anglesub, 18103,     3.64
+F_Grouped, not Stop, ynose_mm, 47621,     3.64
+F_Mated, not Aggregation, closestfly_nose2ell_angle_30tomin30, 9939,     3.64
+F_Mated, not Walk, danglesub, 36832,     3.64
+F_Singles, not Grooming, x, 54297,     3.63
+F_Mated, not Touch, absthetadiff_nose2ell, 16412,     3.63
+F_Singles, not Aggregation, dnose2ell_angle_30tomin30, 3228,     3.63
+F_Singles, not Turn, dnose2ell_angle_min30to30, 87537,     3.62
+F_Mated, not Aggregation, corfrac_maj, 9939,     3.62
+F_Mated, not Stop, x_mm, 21900,     3.61
+F_Singles, not Turn, closestfly_nose2ell_angle_min20to20, 87537,     3.61
+F_Singles, not Turn, dnose2ell_angle_min20to20, 87537,     3.61
+F_Mated, not Stop, dv_ctr, 21900,     3.61
+F_Singles, Walk, absthetadiff_anglesub, 58204,     3.61
+F_Singles, not Grooming, angle2wall, 54297,      3.6
+F_Singles, not Aggregation, b, 3228,      3.6
+F_Singles, not Stop, a_mm, 32853,     3.59
+F_Singles, not Walk, decc, 58104,     3.59
+F_Mated, Jump, dt, 1955,     3.58
+F_Grouped, Walk, arena_angle, 73092,     3.58
+F_Mated, not Stop, dv_tail, 21900,     3.58
+F_Grouped, not Touch, anglesub, 15318,     3.58
+F_Singles, not Walk, ddist2wall, 58104,     3.57
+F_Singles, not Walk, velmag_tail, 58104,     3.57
+F_Mated, not Turn, anglesub, 76588,     3.57
+F_Singles, Walk, closestfly_nose2tail, 58204,     3.57
+F_Mated, not Stop, flipdv_cor, 21900,     3.56
+F_Singles, Walk, closestfly_nose2ell, 58204,     3.56
+F_Grouped, not Stop, flipdv_cor, 47621,     3.56
+F_Mated, not Stop, dv_cor, 21900,     3.55
+F_Singles, not Grooming, y, 54297,     3.55
+F_Grouped, not Stop, ddist2wall, 47621,     3.55
+F_Singles, not Aggregation, anglefrom1to2_nose2ell, 3228,     3.55
+F_Singles, not Aggregation, yaw, 3228,     3.54
+F_Grouped, not Aggregation, dcenter, 8191,     3.53
+F_Grouped, not Stop, x_mm, 47621,     3.53
+F_Grouped, not Aggregation, dell2nose, 8191,     3.53
+F_Mated, not Stop, du_tail, 21900,     3.53
+F_Grouped, not Aggregation, dnose2tail, 8191,     3.52
+F_Mated, not Aggregation, closestfly_center, 9939,     3.52
+F_Grouped, not Stop, xnose_mm, 47621,     3.52
+F_Singles, not Walk, du_cor, 58104,     3.52
+F_Grouped, Stop, absdtheta, 47731,     3.51
+F_Singles, not Stop, da, 32853,     3.51
+F_Singles, not Walk, dv_tail, 58104,     3.51
+F_Grouped, Walk, absdtheta, 73092,     3.51
+F_Mated, not Stop, velmag_tail, 21900,     3.51
+F_Grouped, not Aggregation, dnose2ell, 8191,     3.51
+F_Singles, Walk, closestfly_center, 58204,     3.51
+F_Grouped, Touch, theta, 15428,      3.5
+F_Grouped, Touch, theta_mm, 15428,      3.5
+F_Singles, Walk, ddcenter, 58204,      3.5
+F_Grouped, not Jump, b_mm, 4442,      3.5
+F_Mated, not Stop, ddist2wall, 21900,      3.5
+F_Singles, not Grooming, arena_angle, 54297,      3.5
+F_Singles, not Stop, b_mm, 32853,      3.5
+F_Mated, not Turn, danglesub, 76588,     3.49
+F_Singles, Walk, closestfly_ell2nose, 58204,     3.49
+F_Grouped, not Touch, dnose2ell_angle_min30to30, 15318,     3.48
+F_Singles, not Walk, veltoward_anglesub, 58104,     3.48
+F_Grouped, Turn, dt, 83715,     3.48
+F_Grouped, not Touch, dnose2ell_angle_min20to20, 15318,     3.47
+F_Mated, not Walk, ecc, 36832,     3.47
+F_Singles, Turn, phi, 87637,     3.46
+F_Singles, not Turn, absphidiff_anglesub, 87537,     3.46
+F_Grouped, Turn, phisideways, 83715,     3.46
+F_Grouped, Aggregation, nflies_close, 8301,     3.46
+F_Singles, not Turn, theta, 87537,     3.45
+F_Singles, not Turn, theta_mm, 87537,     3.45
+F_Singles, not Aggregation, absphidiff_nose2ell, 3228,     3.44
+F_Mated, not Stop, du_ctr, 21900,     3.44
+F_Singles, Turn, b, 87637,     3.43
+F_Mated, not Stop, velmag_nose, 21900,     3.43
+F_Singles, not Turn, arena_angle, 87537,     3.42
+F_Singles, Walk, corfrac_maj, 58204,     3.42
+F_Grouped, not Stop, du_cor, 47621,     3.42
+F_Mated, not Walk, absphidiff_anglesub, 36832,     3.42
+F_Grouped, not Stop, dnose2ell_angle_min30to30, 47621,     3.41
+F_Grouped, not Stop, dnose2ell_angle_min20to20, 47621,     3.41
+F_Grouped, not Stop, veltoward_anglesub, 47621,     3.41
+F_Grouped, not Stop, dv_cor, 47621,     3.41
+F_Mated, not Stop, da, 21900,     3.39
+F_Singles, Walk, dnose2ell_angle_30tomin30, 58204,     3.38
+F_Grouped, Jump, area, 4552,     3.38
+F_Singles, Walk, theta, 58204,     3.38
+F_Singles, Walk, theta_mm, 58204,     3.38
+F_Mated, Turn, closestfly_ell2nose, 76688,     3.37
+F_Singles, not Aggregation, absphidiff_anglesub, 3228,     3.37
+F_Mated, not Stop, velmag, 21900,     3.37
+F_Singles, Walk, dcenter, 58204,     3.36
+F_Grouped, not Stop, absdv_cor, 47621,     3.36
+F_Mated, not Stop, velmag_ctr, 21900,     3.36
+F_Singles, Walk, dnose2ell, 58204,     3.35
+F_Grouped, not Stop, dv_ctr, 47621,     3.34
+F_Grouped, not Stop, du_ctr, 47621,     3.34
+F_Singles, Walk, dnose2tail, 58204,     3.34
+F_Mated, Stop, a, 22000,     3.34
+F_Mated, not Aggregation, angle2wall, 9939,     3.34
+F_Singles, not Walk, dv_cor, 58104,     3.33
+F_Mated, not Stop, du_cor, 21900,     3.33
+F_Grouped, Turn, closestfly_ell2nose, 83715,     3.33
+F_Mated, not Turn, dtheta, 76588,     3.33
+F_Singles, not Walk, velmag_ctr, 58104,     3.32
+F_Mated, not Turn, dangle2wall, 76588,     3.32
+F_Singles, not Touch, veltoward_anglesub, 18103,     3.32
+F_Grouped, not Stop, velmag, 47621,     3.32
+F_Singles, Jump, anglefrom1to2_anglesub, 9444,     3.31
+F_Grouped, Stop, dangle2wall, 47731,     3.31
+F_Singles, Walk, absthetadiff_nose2ell, 58204,     3.31
+F_Grouped, not Stop, du_tail, 47621,      3.3
+F_Singles, not Touch, dv_tail, 18103,      3.3
+F_Mated, not Touch, danglesub, 16412,      3.3
+F_Singles, not Stop, db, 32853,     3.29
+F_Grouped, Turn, absyaw, 83715,     3.29
+F_Grouped, Jump, dt, 4552,     3.29
+F_Grouped, Stop, dtheta, 47731,     3.29
+F_Grouped, not Turn, absphidiff_anglesub, 83605,     3.28
+F_Singles, Walk, dell2nose, 58204,     3.28
+F_Singles, Jump, dt, 9444,     3.28
+F_Singles, Jump, closestfly_nose2ell_angle_min20to20, 9444,     3.28
+F_Mated, Turn, closestfly_center, 76688,     3.27
+F_Singles, not Walk, velmag, 58104,     3.27
+F_Singles, not Grooming, y_mm, 54297,     3.26
+F_Singles, not Grooming, x_mm, 54297,     3.25
+F_Singles, not Touch, du_ctr, 18103,     3.25
+F_Mated, not Stop, absphidiff_anglesub, 21900,     3.24
+F_Singles, not Grooming, ynose_mm, 54297,     3.24
+F_Singles, not Grooming, xnose_mm, 54297,     3.24
+F_Grouped, not Aggregation, phisideways, 8191,     3.24
+F_Singles, not Turn, dnose2ell_angle_30tomin30, 87537,     3.24
+F_Mated, Turn, closestfly_nose2tail, 76688,     3.24
+F_Grouped, not Stop, dv_tail, 47621,     3.23
+F_Mated, Aggregation, nflies_close, 10039,     3.23
+F_Singles, Jump, darea, 9444,     3.23
+F_Mated, not Walk, phisideways, 36832,     3.23
+F_Grouped, not Walk, absthetadiff_nose2ell, 72982,     3.23
+F_Mated, not Jump, yaw, 1857,     3.22
+F_Singles, not Jump, db, 9344,     3.22
+F_Singles, Jump, absyaw, 9444,     3.22
+F_Grouped, Jump, absthetadiff_anglesub, 4552,     3.22
+F_Singles, not Touch, du_cor, 18103,     3.22
+F_Singles, not Turn, magveldiff_nose2ell, 87537,     3.22
+F_Grouped, Turn, closestfly_center, 83715,     3.22
+F_Mated, Turn, angleonclosestfly, 76688,     3.22
+F_Mated, not Aggregation, dphi, 9939,     3.21
+F_Singles, Turn, closestfly_ell2nose, 87637,     3.21
+F_Singles, not Turn, arena_r, 87537,     3.21
+F_Singles, not Turn, dist2wall, 87537,     3.21
+F_Grouped, Aggregation, timestamps, 8301,      3.2
+F_Mated, Stop, b, 22000,      3.2
+F_Singles, not Touch, du_tail, 18103,      3.2
+F_Mated, not Walk, absphidiff_nose2ell, 36832,      3.2
+F_Grouped, Grooming, absphidiff_anglesub, 64871,      3.2
+F_Mated, Grooming, corfrac_min, 59670,      3.2
+F_Singles, not Walk, flipdv_cor, 58104,      3.2
+F_Mated, not Stop, a_mm, 21900,      3.2
+F_Grouped, not Touch, decc, 15318,      3.2
+F_Mated, Turn, closestfly_nose2ell_angle_30tomin30, 76688,      3.2
+F_Grouped, not Turn, nflies_close, 83605,     3.19
+F_Singles, not Turn, dnose2ell, 87537,     3.19
+F_Singles, not Turn, dcenter, 87537,     3.19
+F_Grouped, Turn, closestfly_nose2tail, 83715,     3.19
+F_Grouped, not Stop, velmag_ctr, 47621,     3.18
+F_Singles, not Walk, phisideways, 58104,     3.18
+F_Mated, Stop, nflies_close, 22000,     3.18
+F_Singles, not Turn, dnose2tail, 87537,     3.18
+F_Mated, Turn, closestfly_nose2ell, 76688,     3.17
+F_Mated, not Turn, phi, 76588,     3.17
+F_Grouped, Walk, absphidiff_nose2ell, 73092,     3.17
+F_Grouped, not Walk, absanglefrom1to2_nose2ell, 72982,     3.17
+F_Singles, not Turn, dell2nose, 87537,     3.16
+F_Singles, Walk, b, 58204,     3.15
+F_Singles, not Turn, magveldiff_anglesub, 87537,     3.15
+F_Grouped, Turn, closestfly_nose2ell, 83715,     3.15
+F_Grouped, Grooming, absphidiff_nose2ell, 64871,     3.15
+F_Singles, not Touch, ddist2wall, 18103,     3.15
+F_Grouped, not Stop, anglesub, 47621,     3.14
+F_Grouped, not Stop, velmag_tail, 47621,     3.14
+F_Grouped, not Aggregation, dnose2ell_angle_30tomin30, 8191,     3.12
+F_Singles, not Turn, absphidiff_nose2ell, 87537,     3.11
+F_Grouped, not Touch, veltoward_nose2ell, 15318,     3.11
+F_Singles, not Jump, area, 9344,      3.1
+F_Grouped, not Turn, arena_angle, 83605,      3.1
+F_Singles, not Turn, b_mm, 87537,     3.09
+F_Singles, Turn, closestfly_nose2tail, 87637,     3.09
+F_Mated, not Touch, y_mm, 16412,     3.09
+F_Mated, Stop, anglefrom1to2_anglesub, 22000,     3.08
+F_Singles, Turn, dt, 87637,     3.08
+F_Mated, not Stop, absphidiff_nose2ell, 21900,     3.08
+F_Grouped, Aggregation, anglesub, 8301,     3.08
+F_Mated, not Touch, ynose_mm, 16412,     3.07
+F_Singles, Walk, dnose2ell_angle_min30to30, 58204,     3.07
+F_Singles, Walk, dnose2ell_angle_min20to20, 58204,     3.07
+F_Mated, Turn, dphi, 76688,     3.07
+F_Singles, Turn, closestfly_center, 87637,     3.07
+F_Singles, not Stop, absphidiff_anglesub, 32853,     3.07
+F_Singles, Turn, absyaw, 87637,     3.06
+F_Grouped, Turn, closestfly_nose2ell_angle_30tomin30, 83715,     3.06
+F_Mated, not Aggregation, closestfly_nose2ell_angle_min20to20, 9939,     3.06
+F_Singles, not Touch, velmag, 18103,     3.05
+F_Mated, not Turn, anglefrom1to2_anglesub, 76588,     3.05
+F_Singles, Turn, closestfly_nose2ell, 87637,     3.04
+F_Singles, Jump, closestfly_nose2ell_angle_min30to30, 9444,     3.03
+F_Singles, Jump, a_mm, 9444,     3.02
+F_Mated, not Grooming, absphidiff_anglesub, 59570,     3.02
+F_Grouped, not Stop, dnose2ell, 47621,     3.02
+F_Grouped, not Stop, velmag_nose, 47621,     3.02
+F_Singles, not Aggregation, absthetadiff_anglesub, 3228,     3.02
+F_Grouped, not Stop, dnose2tail, 47621,     3.02
+F_Mated, not Walk, absthetadiff_nose2ell, 36832,     3.01
+F_Mated, not Aggregation, closestfly_nose2ell_angle_min30to30, 9939,     3.01
+F_Singles, Turn, phisideways, 87637,     3.01
+F_Grouped, not Stop, dcenter, 47621,     3.01
+F_Mated, not Turn, absdtheta, 76588,        3
+F_Grouped, not Stop, dnose2ell_angle_30tomin30, 47621,        3
+F_Singles, not Grooming, arena_r, 54297,        3
+F_Singles, not Grooming, dist2wall, 54297,        3
+F_Mated, not Grooming, absphidiff_nose2ell, 59570,        3
+F_Singles, Walk, anglefrom1to2_anglesub, 58204,     2.99
+F_Singles, not Turn, x, 87537,     2.99
+F_Mated, Turn, yaw, 76688,     2.99
+F_Mated, Turn, a, 76688,     2.99
+F_Singles, not Touch, velmag_ctr, 18103,     2.98
+F_Mated, Grooming, signdtheta, 59670,     2.98
+F_Grouped, not Aggregation, phi, 8191,     2.97
+F_Mated, not Stop, signdtheta, 21900,     2.97
+F_Singles, not Aggregation, danglesub, 3228,     2.96
+F_Grouped, not Stop, dell2nose, 47621,     2.96
+F_Mated, not Touch, x_mm, 16412,     2.95
+F_Singles, not Aggregation, dt, 3228,     2.95
+F_Singles, Touch, ddcenter, 18203,     2.95
+F_Mated, not Touch, xnose_mm, 16412,     2.94
+F_Singles, not Jump, phisideways, 9344,     2.94
+F_Grouped, not Turn, absphidiff_nose2ell, 83605,     2.93
+F_Grouped, not Touch, ddcenter, 15318,     2.93
+F_Singles, not Touch, velmag_tail, 18103,     2.92
+F_Mated, not Touch, phisideways, 16412,     2.92
+F_Singles, Touch, anglefrom1to2_nose2ell, 18203,     2.92
+F_Grouped, Jump, arena_r, 4552,     2.91
+F_Grouped, Jump, dist2wall, 4552,     2.91
+F_Singles, Turn, closestfly_nose2ell_angle_30tomin30, 87637,      2.9
+F_Grouped, Touch, dtheta, 15428,      2.9
+F_Grouped, not Turn, y, 83605,      2.9
+F_Singles, not Aggregation, dphi, 3228,     2.89
+F_Singles, not Walk, veltoward_nose2ell, 58104,     2.88
+F_Grouped, Aggregation, corfrac_maj, 8301,     2.88
+F_Grouped, Touch, dangle2wall, 15428,     2.88
+F_Singles, Jump, b_mm, 9444,     2.88
+F_Singles, not Walk, closestfly_nose2ell_angle_min20to20, 58104,     2.87
+F_Mated, Turn, decc, 76688,     2.87
+F_Singles, not Walk, closestfly_nose2ell_angle_min30to30, 58104,     2.86
+F_Singles, not Turn, a_mm, 87537,     2.86
+F_Singles, not Aggregation, a, 3228,     2.85
+F_Singles, not Jump, phi, 9344,     2.85
+F_Grouped, Touch, absdtheta, 15428,     2.84
+F_Singles, not Turn, y, 87537,     2.84
+F_Singles, Jump, yaw, 9444,     2.84
+F_Singles, Walk, magveldiff_nose2ell, 58204,     2.84
+F_Mated, Jump, absyaw, 1955,     2.83
+F_Grouped, Touch, angle2wall, 15428,     2.83
+F_Singles, not Touch, velmag_nose, 18103,     2.82
+F_Grouped, not Walk, dnose2ell_angle_min20to20, 72982,     2.82
+F_Grouped, not Walk, dnose2ell_angle_min30to30, 72982,     2.82
+F_Grouped, Stop, anglefrom1to2_anglesub, 47731,     2.82
+F_Mated, Walk, arena_angle, 36932,     2.82
+F_Grouped, Jump, closestfly_anglesub, 4552,     2.82
+F_Grouped, Walk, absphidiff_anglesub, 73092,     2.82
+F_Mated, Aggregation, anglesub, 10039,     2.82
+F_Grouped, Walk, absanglefrom1to2_nose2ell, 73092,     2.81
+F_Grouped, not Turn, x, 83605,     2.81
+F_Grouped, not Turn, anglesub, 83605,      2.8
+F_Singles, Aggregation, b, 3306,      2.8
+F_Mated, not Walk, absanglefrom1to2_nose2ell, 36832,     2.79
+F_Grouped, Turn, angleonclosestfly, 83715,     2.79
+F_Singles, not Touch, dv_ctr, 18103,     2.79
+F_Grouped, Walk, anglefrom1to2_nose2ell, 73092,     2.78
+F_Mated, not Touch, closestfly_anglesub, 16412,     2.76
+F_Grouped, Turn, dphi, 83715,     2.76
+F_Mated, not Turn, absthetadiff_anglesub, 76588,     2.75
+F_Grouped, Walk, y, 73092,     2.75
+F_Grouped, not Stop, dphi, 47621,     2.74
+F_Grouped, Stop, b, 47731,     2.74
+F_Grouped, not Grooming, y, 64761,     2.73
+F_Singles, not Turn, db, 87537,     2.73
+F_Singles, Walk, closestfly_nose2ell_angle_min30to30, 58204,     2.73
+F_Singles, not Walk, da, 58104,     2.72
+F_Singles, Touch, dtheta, 18203,     2.72
+F_Singles, not Turn, da, 87537,     2.71
+F_Grouped, not Grooming, b, 64761,     2.71
+F_Grouped, not Grooming, decc, 64761,     2.71
+F_Singles, Touch, dangle2wall, 18203,     2.71
+F_Singles, not Stop, absphidiff_nose2ell, 32853,     2.71
+F_Singles, not Walk, magveldiff_anglesub, 58104,     2.71
+F_Singles, not Walk, absphidiff_anglesub, 58104,     2.69
+F_Mated, Walk, y, 36932,     2.69
+F_Grouped, Stop, ecc, 47731,     2.69
+F_Singles, Jump, absanglefrom1to2_nose2ell, 9444,     2.68
+F_Singles, not Stop, danglesub, 32853,     2.68
+F_Singles, Turn, dphi, 87637,     2.67
+F_Singles, not Walk, magveldiff_nose2ell, 58104,     2.66
+F_Singles, not Touch, magveldiff_nose2ell, 18103,     2.66
+F_Mated, Walk, nflies_close, 36932,     2.66
+F_Singles, Touch, absdtheta, 18203,     2.66
+F_Singles, not Walk, b_mm, 58104,     2.66
+F_Mated, Turn, closestfly_nose2ell_angle_min20to20, 76688,     2.66
+F_Singles, Turn, ecc, 87637,     2.65
+F_Mated, not Walk, closestfly_nose2ell_angle_min20to20, 36832,     2.65
+F_Singles, not Grooming, theta, 54297,     2.65
+F_Singles, not Grooming, theta_mm, 54297,     2.65
+F_Mated, Walk, dangle2wall, 36932,     2.64
+F_Singles, Stop, b, 32953,     2.64
+F_Mated, not Touch, ecc, 16412,     2.64
+F_Mated, Walk, dtheta, 36932,     2.64
+F_Singles, not Walk, db, 58104,     2.64
+F_Mated, Stop, danglesub, 22000,     2.63
+F_Grouped, Walk, flipdv_cor, 73092,     2.62
+F_Mated, Touch, nflies_close, 16512,     2.62
+F_Mated, not Touch, phi, 16412,     2.62
+F_Singles, Walk, magveldiff_anglesub, 58204,     2.62
+F_Grouped, Walk, x, 73092,     2.62
+F_Singles, Walk, closestfly_nose2ell_angle_min20to20, 58204,     2.62
+F_Grouped, Walk, b, 73092,     2.61
+F_Grouped, not Aggregation, decc, 8191,     2.61
+F_Mated, Walk, x, 36932,     2.61
+F_Grouped, not Grooming, x, 64761,     2.61
+F_Mated, Turn, closestfly_nose2ell_angle_min30to30, 76688,     2.61
+F_Singles, Grooming, absphidiff_anglesub, 54397,     2.61
+F_Grouped, not Aggregation, absyaw, 8191,      2.6
+F_Grouped, not Grooming, arena_angle, 64761,      2.6
+F_Grouped, not Stop, ddcenter, 47621,     2.59
+F_Mated, not Walk, closestfly_nose2ell_angle_min30to30, 36832,     2.59
+F_Grouped, Walk, corfrac_min, 73092,     2.58
+F_Mated, not Aggregation, y, 9939,     2.58
+F_Mated, not Stop, dnose2tail, 21900,     2.58
+F_Mated, not Stop, dnose2ell, 21900,     2.57
+F_Singles, not Grooming, dangle2wall, 54297,     2.57
+F_Mated, not Turn, decc, 76588,     2.57
+F_Singles, not Walk, a_mm, 58104,     2.57
+F_Singles, not Grooming, dtheta, 54297,     2.57
+F_Singles, Jump, arena_r, 9444,     2.56
+F_Singles, Jump, dist2wall, 9444,     2.56
+F_Mated, Grooming, angle2wall, 59670,     2.56
+F_Singles, not Aggregation, ecc, 3228,     2.56
+F_Grouped, Walk, angleonclosestfly, 73092,     2.55
+F_Mated, not Turn, angleonclosestfly, 76588,     2.55
+F_Singles, Touch, veltoward_nose2ell, 18203,     2.55
+F_Singles, not Touch, b_mm, 18103,     2.55
+F_Mated, Walk, flipdv_cor, 36932,     2.55
+F_Mated, Aggregation, danglesub, 10039,     2.55
+F_Singles, Grooming, absphidiff_nose2ell, 54397,     2.54
+F_Mated, Turn, absthetadiff_nose2ell, 76688,     2.54
+F_Singles, Turn, angleonclosestfly, 87637,     2.54
+F_Singles, not Touch, magveldiff_anglesub, 18103,     2.54
+F_Singles, not Walk, ddcenter, 58104,     2.53
+F_Grouped, Jump, phisideways, 4552,     2.53
+F_Grouped, Touch, absthetadiff_nose2ell, 15428,     2.53
+F_Grouped, not Turn, dnose2ell_angle_min30to30, 83605,     2.52
+F_Singles, not Touch, anglesub, 18103,     2.51
+F_Grouped, not Turn, dnose2ell_angle_min20to20, 83605,     2.51
+F_Mated, Touch, signdtheta, 16512,     2.51
+F_Singles, not Grooming, absdtheta, 54297,     2.51
+F_Mated, not Touch, absthetadiff_anglesub, 16412,      2.5
+F_Mated, not Stop, dcenter, 21900,      2.5
+F_Mated, not Turn, closestfly_anglesub, 76588,      2.5
+F_Singles, not Touch, dv_cor, 18103,      2.5
+F_Mated, Walk, absphidiff_nose2ell, 36932,     2.49
+F_Singles, not Touch, phisideways, 18103,     2.49
+F_Grouped, not Stop, danglesub, 47621,     2.49
+F_Grouped, not Grooming, angle2wall, 64761,     2.49
+F_Mated, Walk, signdtheta, 36932,     2.49
+F_Grouped, Grooming, angle2wall, 64871,     2.48
+F_Grouped, Turn, yaw, 83715,     2.48
+F_Mated, not Aggregation, x, 9939,     2.47
+F_Singles, Stop, absdtheta, 32953,     2.47
+F_Singles, not Stop, area, 32853,     2.46
+F_Grouped, not Turn, phisideways, 83605,     2.46
+F_Grouped, Stop, timestamps, 47731,     2.46
+F_Mated, not Stop, dell2nose, 21900,     2.45
+F_Mated, Jump, absanglefrom1to2_nose2ell, 1955,     2.45
+F_Singles, Aggregation, closestfly_nose2ell, 3306,     2.44
+F_Mated, Grooming, y, 59670,     2.44
+F_Mated, not Turn, yaw, 76588,     2.44
+F_Grouped, not Turn, ddist2wall, 83605,     2.43
+F_Singles, Jump, anglefrom1to2_nose2ell, 9444,     2.43
+F_Mated, not Stop, dnose2ell_angle_30tomin30, 21900,     2.43
+F_Singles, Aggregation, closestfly_anglesub, 3306,     2.43
+F_Mated, Jump, closestfly_nose2ell_angle_min30to30, 1955,     2.42
+F_Singles, Grooming, angle2wall, 54397,     2.42
+F_Mated, Grooming, x, 59670,     2.42
+F_Mated, Walk, absdtheta, 36932,     2.42
+F_Mated, Jump, anglefrom1to2_anglesub, 1955,     2.42
+F_Singles, not Turn, x_mm, 87537,     2.41
+F_Grouped, not Grooming, theta, 64761,     2.41
+F_Grouped, not Grooming, theta_mm, 64761,     2.41
+F_Singles, not Touch, absdv_cor, 18103,     2.41
+F_Singles, not Touch, a_mm, 18103,     2.41
+F_Mated, Turn, y, 76688,      2.4
+F_Singles, not Aggregation, dnose2ell_angle_min30to30, 3228,      2.4
+F_Grouped, not Walk, absdv_cor, 72982,      2.4
+F_Mated, not Turn, anglefrom1to2_nose2ell, 76588,      2.4
+F_Singles, not Turn, xnose_mm, 87537,     2.39
+F_Mated, Turn, absthetadiff_anglesub, 76688,     2.39
+F_Singles, Stop, anglefrom1to2_anglesub, 32953,     2.39
+F_Singles, Turn, dv_ctr, 87637,     2.38
+F_Singles, Turn, a, 87637,     2.38
+F_Grouped, Turn, ecc, 83715,     2.38
+F_Mated, Jump, closestfly_nose2ell_angle_min20to20, 1955,     2.38
+F_Mated, Turn, x, 76688,     2.38
+F_Singles, Aggregation, closestfly_nose2tail, 3306,     2.37
+F_Grouped, not Turn, veltoward_nose2ell, 83605,     2.37
+F_Singles, not Walk, absphidiff_nose2ell, 58104,     2.37
+F_Grouped, not Touch, phi, 15318,     2.37
+F_Singles, not Touch, flipdv_cor, 18103,     2.37
+F_Singles, not Aggregation, dnose2ell_angle_min20to20, 3228,     2.37
+F_Singles, not Turn, y_mm, 87537,     2.36
+F_Mated, Turn, arena_angle, 76688,     2.36
+F_Singles, not Touch, phi, 18103,     2.36
+F_Singles, Turn, yaw, 87637,     2.36
+F_Singles, Touch, theta, 18203,     2.35
+F_Singles, Touch, theta_mm, 18203,     2.35
+F_Mated, Grooming, arena_angle, 59670,     2.35
+F_Singles, Aggregation, closestfly_nose2ell_angle_30tomin30, 3306,     2.35
+F_Mated, Stop, ecc, 22000,     2.34
+F_Mated, not Stop, dphi, 21900,     2.34
+F_Singles, Touch, angle2wall, 18203,     2.34
+F_Mated, not Touch, absyaw, 16412,     2.34
+F_Mated, Aggregation, y, 10039,     2.33
+F_Grouped, Turn, y, 83715,     2.33
+F_Singles, not Jump, darea, 9344,     2.33
+F_Grouped, not Walk, dv_ctr, 72982,     2.33
+F_Mated, Aggregation, arena_angle, 10039,     2.33
+F_Grouped, not Turn, dv_ctr, 83605,     2.32
+F_Grouped, Grooming, y, 64871,     2.32
+F_Singles, not Stop, darea, 32853,     2.32
+F_Singles, Aggregation, x, 3306,     2.32
+F_Singles, Touch, veltoward_anglesub, 18203,     2.32
+F_Singles, not Turn, ynose_mm, 87537,     2.32
+F_Singles, not Stop, dphi, 32853,     2.32
+F_Mated, Jump, yaw, 1955,     2.32
+F_Grouped, Walk, absthetadiff_anglesub, 73092,     2.32
+F_Singles, Grooming, y, 54397,     2.32
+F_Grouped, not Turn, flipdv_cor, 83605,     2.32
+F_Grouped, not Touch, phisideways, 15318,     2.32
+F_Grouped, Turn, x, 83715,     2.32
+F_Mated, not Jump, dphi, 1857,     2.32
+F_Singles, Aggregation, y, 3306,     2.32
+F_Mated, Aggregation, x, 10039,     2.31
+F_Singles, Grooming, b, 54397,      2.3
+F_Grouped, Grooming, x, 64871,      2.3
+F_Singles, Stop, phisideways, 32953,      2.3
+F_Singles, Aggregation, corfrac_min, 3306,      2.3
+F_Grouped, not Stop, yaw, 47621,     2.29
+F_Grouped, not Grooming, ecc, 64761,     2.29
+F_Grouped, Touch, ecc, 15428,     2.29
+F_Mated, Walk, absphidiff_anglesub, 36932,     2.29
+F_Grouped, not Turn, du_tail, 83605,     2.29
+F_Singles, Grooming, x, 54397,     2.28
+F_Singles, not Grooming, b, 54297,     2.28
+F_Singles, Aggregation, arena_angle, 3306,     2.27
+F_Grouped, not Stop, absyaw, 47621,     2.27
+F_Grouped, not Turn, du_cor, 83605,     2.27
+F_Grouped, not Turn, du_ctr, 83605,     2.27
+F_Grouped, not Turn, veltoward_anglesub, 83605,     2.27
+F_Mated, Turn, absanglefrom1to2_nose2ell, 76688,     2.26
+F_Grouped, not Stop, da, 47621,     2.26
+F_Grouped, Walk, closestfly_anglesub, 73092,     2.25
+F_Singles, Aggregation, anglefrom1to2_nose2ell, 3306,     2.25
+F_Singles, Turn, y, 87637,     2.25
+F_Mated, not Walk, nflies_close, 36832,     2.25
+F_Grouped, Grooming, b, 64871,     2.24
+F_Mated, Walk, absdv_cor, 36932,     2.24
+F_Mated, Walk, dv_cor, 36932,     2.23
+F_Grouped, not Grooming, dtheta, 64761,     2.23
+F_Grouped, Turn, arena_angle, 83715,     2.23
+F_Singles, Turn, x, 87637,     2.21
+F_Grouped, Walk, dv_cor, 73092,     2.21
+F_Singles, not Walk, angleonclosestfly, 58104,     2.21
+F_Singles, Aggregation, nflies_close, 3306,     2.21
+F_Mated, Grooming, decc, 59670,     2.21
+F_Grouped, not Jump, absyaw, 4442,     2.21
+F_Grouped, not Grooming, dangle2wall, 64761,     2.21
+F_Grouped, not Turn, danglesub, 83605,      2.2
+F_Grouped, not Turn, absdv_cor, 83605,      2.2
+F_Grouped, Walk, decc, 73092,      2.2
+F_Singles, Turn, nflies_close, 87637,      2.2
+F_Grouped, Walk, closestfly_nose2ell_angle_30tomin30, 73092,      2.2
+F_Singles, not Grooming, absphidiff_anglesub, 54297,      2.2
+F_Mated, not Aggregation, angleonclosestfly, 9939,      2.2
+F_Grouped, Jump, absyaw, 4552,     2.19
+F_Singles, not Grooming, veltoward_nose2ell, 54297,     2.19
+F_Grouped, not Turn, dv_cor, 83605,     2.19
+F_Grouped, Grooming, arena_angle, 64871,     2.19
+F_Singles, not Turn, anglesub, 87537,     2.19
+F_Mated, not Turn, absyaw, 76588,     2.19
+F_Grouped, Turn, nflies_close, 83715,     2.18
+F_Grouped, not Turn, velmag, 83605,     2.17
+F_Singles, Aggregation, decc, 3306,     2.17
+F_Mated, Grooming, dtheta, 59670,     2.17
+F_Mated, Grooming, dangle2wall, 59670,     2.17
+F_Singles, not Touch, decc, 18103,     2.17
+F_Singles, Stop, x, 32953,     2.17
+F_Grouped, not Walk, flipdv_cor, 72982,     2.17
+F_Mated, not Grooming, phisideways, 59570,     2.16
+F_Mated, Walk, timestamps, 36932,     2.16
+F_Singles, not Grooming, dv_tail, 54297,     2.16
+F_Mated, Aggregation, closestfly_anglesub, 10039,     2.16
+F_Singles, Stop, y, 32953,     2.15
+F_Singles, Aggregation, anglefrom1to2_anglesub, 3306,     2.15
+F_Singles, not Grooming, ddist2wall, 54297,     2.15
+F_Mated, Grooming, theta, 59670,     2.15
+F_Mated, Grooming, theta_mm, 59670,     2.15
+F_Singles, Aggregation, absthetadiff_anglesub, 3306,     2.15
+F_Singles, Turn, arena_angle, 87637,     2.15
+F_Grouped, not Aggregation, dt, 8191,     2.14
+F_Grouped, Walk, veltoward_nose2ell, 73092,     2.14
+F_Singles, not Grooming, veltoward_anglesub, 54297,     2.14
+F_Grouped, not Turn, velmag_nose, 83605,     2.14
+F_Singles, not Turn, nflies_close, 87537,     2.14
+F_Grouped, not Turn, velmag_tail, 83605,     2.14
+F_Mated, Aggregation, yaw, 10039,     2.14
+F_Grouped, not Turn, dnose2ell_angle_30tomin30, 83605,     2.14
+F_Grouped, not Walk, du_tail, 72982,     2.13
+F_Grouped, not Jump, db, 4442,     2.13
+F_Grouped, not Walk, velmag_nose, 72982,     2.13
+F_Grouped, not Turn, dcenter, 83605,     2.13
+F_Grouped, not Turn, velmag_ctr, 83605,     2.12
+F_Mated, Turn, closestfly_anglesub, 76688,     2.12
+F_Mated, not Turn, absanglefrom1to2_nose2ell, 76588,     2.12
+F_Singles, not Grooming, du_tail, 54297,     2.12
+F_Grouped, not Turn, dnose2ell, 83605,     2.12
+F_Singles, Aggregation, closestfly_ell2nose, 3306,     2.12
+F_Singles, not Grooming, absphidiff_nose2ell, 54297,     2.12
+F_Grouped, not Turn, dnose2tail, 83605,     2.12
+F_Grouped, not Aggregation, absdtheta, 8191,     2.12
+F_Mated, Jump, anglefrom1to2_nose2ell, 1955,     2.12
+F_Singles, Jump, area, 9444,     2.11
+F_Grouped, Jump, yaw, 4552,     2.11
+F_Mated, not Touch, arena_r, 16412,     2.11
+F_Mated, not Touch, dist2wall, 16412,     2.11
+F_Singles, not Grooming, du_ctr, 54297,      2.1
+F_Mated, not Touch, yaw, 16412,      2.1
+F_Grouped, not Turn, dell2nose, 83605,      2.1
+F_Singles, Touch, dv_ctr, 18203,      2.1
+F_Grouped, Touch, b, 15428,      2.1
+F_Grouped, Walk, theta, 73092,      2.1
+F_Grouped, Walk, theta_mm, 73092,      2.1
+F_Singles, Stop, dangle2wall, 32953,     2.09
+F_Grouped, not Touch, veltoward_anglesub, 15318,     2.09
+F_Singles, not Grooming, velmag_tail, 54297,     2.09
+F_Mated, Walk, veltoward_nose2ell, 36932,     2.09
+F_Mated, not Aggregation, anglefrom1to2_anglesub, 9939,     2.08
+F_Singles, not Grooming, du_cor, 54297,     2.08
+F_Grouped, Aggregation, corfrac_min, 8301,     2.08
+F_Grouped, not Grooming, absdtheta, 64761,     2.08
+F_Singles, not Grooming, velmag_ctr, 54297,     2.08
+F_Singles, not Grooming, velmag, 54297,     2.08
+F_Grouped, not Walk, dv_cor, 72982,     2.08
+F_Singles, Grooming, arena_angle, 54397,     2.07
+F_Grouped, Grooming, phisideways, 64871,     2.07
+F_Singles, Jump, dphi, 9444,     2.07
+F_Grouped, Walk, angle2wall, 73092,     2.07
+F_Mated, Grooming, absdtheta, 59670,     2.07
+F_Singles, not Grooming, dnose2ell_angle_min20to20, 54297,     2.07
+F_Singles, Walk, absphidiff_nose2ell, 58204,     2.07
+F_Singles, not Grooming, dnose2ell_angle_min30to30, 54297,     2.07
+F_Mated, Stop, closestfly_nose2ell_angle_min20to20, 22000,     2.07
+F_Singles, Stop, dtheta, 32953,     2.07
+F_Singles, not Grooming, velmag_nose, 54297,     2.06
+F_Grouped, Walk, absdv_cor, 73092,     2.06
+F_Grouped, Turn, a, 83715,     2.06
+F_Grouped, Stop, x, 47731,     2.06
+F_Mated, Jump, arena_r, 1955,     2.06
+F_Mated, Jump, dist2wall, 1955,     2.06
+F_Singles, not Grooming, closestfly_nose2ell_angle_min30to30, 54297,     2.06
+F_Grouped, not Aggregation, dtheta, 8191,     2.06
+F_Grouped, not Touch, du_cor, 15318,     2.05
+F_Grouped, not Turn, dv_tail, 83605,     2.05
+F_Mated, not Stop, ddcenter, 21900,     2.05
+F_Grouped, not Stop, magveldiff_nose2ell, 47621,     2.05
+F_Grouped, Aggregation, x, 8301,     2.05
+F_Singles, Aggregation, absthetadiff_nose2ell, 3306,     2.05
+F_Grouped, not Aggregation, dangle2wall, 8191,     2.05
+F_Grouped, Walk, timestamps, 73092,     2.04
+F_Mated, not Stop, magveldiff_nose2ell, 21900,     2.04
+F_Mated, not Turn, absthetadiff_nose2ell, 76588,     2.03
+F_Mated, Touch, angleonclosestfly, 16512,     2.03
+F_Singles, Jump, absthetadiff_nose2ell, 9444,     2.03
+F_Grouped, not Walk, du_ctr, 72982,     2.03
+F_Mated, not Turn, timestamps, 76588,     2.03
+F_Grouped, Walk, absthetadiff_nose2ell, 73092,     2.03
+F_Grouped, Aggregation, y, 8301,     2.03
+F_Singles, not Grooming, anglefrom1to2_anglesub, 54297,     2.03
+F_Mated, Stop, x, 22000,     2.03
+F_Singles, Stop, absthetadiff_anglesub, 32953,     2.03
+F_Mated, Stop, arena_angle, 22000,     2.03
+F_Singles, not Grooming, closestfly_nose2ell_angle_min20to20, 54297,     2.02
+F_Mated, not Walk, decc, 36832,     2.02
+F_Grouped, Stop, y, 47731,     2.02
+F_Singles, Touch, ddist2wall, 18203,     2.02
+F_Mated, Stop, closestfly_nose2ell_angle_min30to30, 22000,     2.02
+F_Grouped, not Touch, du_ctr, 15318,     2.01
+F_Grouped, not Walk, du_cor, 72982,     2.01
+F_Mated, Touch, a, 16512,        2
+F_Singles, Grooming, theta, 54397,        2
+F_Singles, Grooming, theta_mm, 54397,        2
+F_Singles, Stop, angleonclosestfly, 32953,        2
+F_Mated, Stop, y, 22000,        2
+F_Grouped, not Stop, absphidiff_anglesub, 47621,        2
+F_Singles, Touch, du_cor, 18203,        2
+F_Mated, Stop, absthetadiff_anglesub, 22000,     1.99
+F_Singles, not Grooming, dv_ctr, 54297,     1.98
+F_Mated, Walk, absanglefrom1to2_nose2ell, 36932,     1.98
+F_Mated, not Walk, arena_angle, 36832,     1.98
+F_Grouped, Aggregation, danglesub, 8301,     1.98
+F_Singles, Touch, dv_cor, 18203,     1.98
+F_Singles, Touch, flipdv_cor, 18203,     1.98
+F_Singles, not Turn, danglesub, 87537,     1.98
+F_Mated, not Turn, angle2wall, 76588,     1.97
+F_Grouped, not Turn, arena_r, 83605,     1.97
+F_Grouped, not Turn, dist2wall, 83605,     1.97
+F_Singles, Stop, ecc, 32953,     1.97
+F_Singles, not Stop, timestamps, 32853,     1.97
+F_Mated, not Grooming, danglesub, 59570,     1.97
+F_Grouped, not Turn, ddcenter, 83605,     1.97
+F_Grouped, Walk, ddist2wall, 73092,     1.97
+F_Mated, Aggregation, anglefrom1to2_anglesub, 10039,     1.96
+F_Singles, Touch, du_ctr, 18203,     1.96
+F_Singles, Touch, absdv_cor, 18203,     1.96
+F_Mated, Aggregation, absyaw, 10039,     1.96
+F_Grouped, not Walk, closestfly_nose2ell_angle_min30to30, 72982,     1.96
+F_Singles, not Turn, phisideways, 87537,     1.96
+F_Mated, not Stop, db, 21900,     1.96
+F_Singles, Jump, danglesub, 9444,     1.96
+F_Grouped, not Walk, closestfly_nose2ell_angle_min20to20, 72982,     1.95
+F_Grouped, not Stop, a_mm, 47621,     1.95
+F_Singles, not Grooming, dv_cor, 54297,     1.95
+F_Grouped, not Touch, velmag, 15318,     1.95
+F_Grouped, Aggregation, arena_angle, 8301,     1.94
+F_Mated, Walk, veltoward_anglesub, 36932,     1.94
+F_Singles, Touch, velmag, 18203,     1.94
+F_Mated, not Aggregation, dt, 9939,     1.94
+F_Grouped, not Touch, dv_tail, 15318,     1.94
+F_Singles, not Grooming, absdv_cor, 54297,     1.94
+F_Singles, Aggregation, theta, 3306,     1.94
+F_Singles, Aggregation, theta_mm, 3306,     1.94
+F_Mated, not Grooming, a, 59570,     1.94
+F_Mated, Walk, danglesub, 36932,     1.93
+F_Singles, not Turn, area, 87537,     1.93
+F_Singles, Touch, du_tail, 18203,     1.93
+F_Mated, Walk, anglesub, 36932,     1.93
+F_Mated, Touch, absanglefrom1to2_nose2ell, 16512,     1.92
+F_Mated, Stop, angle2wall, 22000,     1.92
+F_Mated, Turn, anglefrom1to2_nose2ell, 76688,     1.92
+F_Singles, not Touch, nflies_close, 18103,     1.92
+F_Singles, Aggregation, closestfly_nose2ell_angle_min30to30, 3306,     1.92
+F_Singles, not Grooming, flipdv_cor, 54297,     1.92
+F_Grouped, not Touch, du_tail, 15318,     1.92
+F_Mated, Walk, dv_ctr, 36932,     1.92
+F_Grouped, Turn, closestfly_nose2ell_angle_min20to20, 83715,     1.91
+F_Mated, Stop, absthetadiff_nose2ell, 22000,     1.91
+F_Grouped, not Aggregation, yaw, 8191,     1.91
+F_Grouped, not Walk, velmag, 72982,     1.91
+F_Mated, not Stop, yaw, 21900,     1.91
+F_Mated, not Touch, dphi, 16412,     1.91
+F_Mated, Aggregation, dnose2ell_angle_min30to30, 10039,     1.91
+F_Mated, Aggregation, dnose2ell_angle_min20to20, 10039,      1.9
+F_Singles, Touch, velmag_ctr, 18203,      1.9
+F_Singles, Aggregation, closestfly_center, 3306,      1.9
+F_Singles, not Grooming, dnose2ell, 54297,      1.9
+F_Singles, not Grooming, dnose2tail, 54297,      1.9
+F_Singles, Turn, dnose2ell_angle_min30to30, 87637,      1.9
+F_Mated, Aggregation, phi, 10039,      1.9
+F_Singles, not Grooming, closestfly_anglesub, 54297,      1.9
+F_Singles, Jump, absthetadiff_anglesub, 9444,      1.9
+F_Singles, not Grooming, absanglefrom1to2_nose2ell, 54297,      1.9
+F_Mated, Aggregation, anglefrom1to2_nose2ell, 10039,     1.89
+F_Grouped, Stop, arena_angle, 47731,     1.89
+F_Grouped, Walk, veltoward_anglesub, 73092,     1.89
+F_Grouped, not Walk, velmag_tail, 72982,     1.89
+F_Mated, not Walk, dv_ctr, 36832,     1.89
+F_Mated, not Stop, b_mm, 21900,     1.89
+F_Grouped, not Walk, veltoward_anglesub, 72982,     1.89
+F_Singles, not Grooming, dcenter, 54297,     1.89
+F_Singles, Turn, dnose2ell_angle_min20to20, 87637,     1.89
+F_Mated, Aggregation, absthetadiff_anglesub, 10039,     1.88
+F_Grouped, not Stop, magveldiff_anglesub, 47621,     1.88
+F_Singles, Stop, arena_angle, 32953,     1.88
+F_Grouped, not Walk, ddist2wall, 72982,     1.88
+F_Singles, not Grooming, dnose2ell_angle_30tomin30, 54297,     1.88
+F_Singles, not Grooming, dell2nose, 54297,     1.88
+F_Mated, Walk, velmag, 36932,     1.88
+F_Grouped, not Touch, ddist2wall, 15318,     1.88
+F_Mated, Turn, angle2wall, 76688,     1.87
+F_Grouped, not Walk, angleonclosestfly, 72982,     1.87
+F_Singles, not Turn, darea, 87537,     1.87
+F_Grouped, Walk, closestfly_center, 73092,     1.87
+F_Grouped, Turn, closestfly_nose2ell_angle_min30to30, 83715,     1.87
+F_Mated, Turn, nflies_close, 76688,     1.87
+F_Mated, Stop, phisideways, 22000,     1.86
+F_Grouped, not Touch, velmag_ctr, 15318,     1.86
+F_Grouped, not Stop, db, 47621,     1.86
+F_Grouped, not Walk, phisideways, 72982,     1.86
+F_Singles, Grooming, decc, 54397,     1.86
+F_Mated, not Aggregation, absthetadiff_nose2ell, 9939,     1.86
+F_Grouped, Walk, closestfly_nose2ell, 73092,     1.85
+F_Grouped, Walk, ecc, 73092,     1.85
+F_Singles, Touch, velmag_tail, 18203,     1.85
+F_Grouped, Walk, closestfly_nose2tail, 73092,     1.85
+F_Grouped, Grooming, a, 64871,     1.84
+F_Singles, Turn, velmag_nose, 87637,     1.84
+F_Mated, Stop, absdtheta, 22000,     1.84
+F_Grouped, not Walk, velmag_ctr, 72982,     1.84
+F_Mated, Walk, dt, 36932,     1.84
+F_Mated, Walk, ddist2wall, 36932,     1.84
+F_Grouped, not Turn, timestamps, 83605,     1.84
+F_Mated, Walk, anglefrom1to2_nose2ell, 36932,     1.84
+F_Singles, not Walk, darea, 58104,     1.84
+F_Singles, not Grooming, ddcenter, 54297,     1.83
+F_Mated, not Stop, magveldiff_anglesub, 21900,     1.83
+F_Grouped, Stop, absthetadiff_anglesub, 47731,     1.83
+F_Singles, Grooming, a, 54397,     1.83
+F_Grouped, Stop, closestfly_anglesub, 47731,     1.83
+F_Grouped, not Aggregation, dnose2ell_angle_min30to30, 8191,     1.82
+F_Singles, Grooming, dtheta, 54397,     1.82
+F_Singles, Stop, absthetadiff_nose2ell, 32953,     1.82
+F_Singles, Stop, corfrac_min, 32953,     1.82
+F_Grouped, Walk, closestfly_ell2nose, 73092,     1.82
+F_Singles, Stop, closestfly_anglesub, 32953,     1.82
+F_Singles, Grooming, dangle2wall, 54397,     1.81
+F_Singles, not Walk, arena_angle, 58104,     1.81
+F_Mated, not Aggregation, absanglefrom1to2_nose2ell, 9939,     1.81
+F_Mated, Walk, angleonclosestfly, 36932,     1.81
+F_Mated, not Walk, du_tail, 36832,     1.81
+F_Grouped, Walk, velmag, 73092,      1.8
+F_Grouped, not Aggregation, dnose2ell_angle_min20to20, 8191,      1.8
+F_Singles, Aggregation, dnose2ell_angle_min20to20, 3306,      1.8
+F_Mated, Stop, closestfly_anglesub, 22000,      1.8
+F_Singles, Aggregation, dnose2ell_angle_min30to30, 3306,      1.8
+F_Singles, Aggregation, a, 3306,      1.8
+F_Singles, Touch, velmag_nose, 18203,      1.8
+F_Singles, not Stop, yaw, 32853,      1.8
+F_Grouped, not Stop, b_mm, 47621,     1.79
+F_Mated, Stop, anglefrom1to2_nose2ell, 22000,     1.79
+F_Singles, Touch, absthetadiff_nose2ell, 18203,     1.79
+F_Singles, not Grooming, absthetadiff_nose2ell, 54297,     1.79
+F_Grouped, Walk, du_cor, 73092,     1.79
+F_Mated, not Walk, y, 36832,     1.79
+F_Mated, not Turn, closestfly_nose2ell_angle_30tomin30, 76588,     1.79
+F_Grouped, not Walk, arena_angle, 72982,     1.79
+F_Singles, Touch, dv_tail, 18203,     1.79
+F_Singles, not Touch, db, 18103,     1.78
+F_Mated, not Stop, absyaw, 21900,     1.78
+F_Mated, Grooming, b, 59670,     1.78
+F_Mated, not Aggregation, a_mm, 9939,     1.78
+F_Grouped, Grooming, theta, 64871,     1.78
+F_Grouped, Grooming, theta_mm, 64871,     1.78
+F_Grouped, Walk, dv_ctr, 73092,     1.78
+F_Singles, Touch, magveldiff_nose2ell, 18203,     1.77
+F_Mated, Stop, closestfly_ell2nose, 22000,     1.77
+F_Singles, not Walk, danglesub, 58104,     1.77
+F_Grouped, not Grooming, absphidiff_anglesub, 64761,     1.77
+F_Mated, Stop, closestfly_nose2tail, 22000,     1.77
+F_Mated, not Turn, closestfly_ell2nose, 76588,     1.77
+F_Mated, Walk, du_cor, 36932,     1.77
+F_Singles, not Aggregation, a_mm, 3228,     1.76
+F_Singles, Aggregation, absanglefrom1to2_nose2ell, 3306,     1.76
+F_Mated, not Walk, x, 36832,     1.76
+F_Mated, not Turn, closestfly_nose2ell_angle_min30to30, 76588,     1.76
+F_Singles, not Grooming, closestfly_nose2ell_angle_30tomin30, 54297,     1.75
+F_Mated, not Walk, velmag_nose, 36832,     1.75
+F_Singles, not Touch, absyaw, 18103,     1.75
+F_Grouped, not Grooming, absphidiff_nose2ell, 64761,     1.75
+F_Grouped, not Grooming, anglefrom1to2_nose2ell, 64761,     1.75
+F_Grouped, not Touch, velmag_tail, 15318,     1.75
+F_Grouped, not Grooming, anglefrom1to2_anglesub, 64761,     1.75
+F_Singles, not Grooming, absthetadiff_anglesub, 54297,     1.75
+F_Mated, Walk, velmag_ctr, 36932,     1.75
+F_Singles, not Grooming, da, 54297,     1.74
+F_Grouped, not Grooming, absanglefrom1to2_nose2ell, 64761,     1.74
+F_Singles, Walk, absphidiff_anglesub, 58204,     1.74
+F_Mated, Grooming, y_mm, 59670,     1.74
+F_Grouped, not Grooming, a, 64761,     1.74
+F_Mated, Grooming, ynose_mm, 59670,     1.73
+F_Singles, Aggregation, angleonclosestfly, 3306,     1.73
+F_Singles, not Grooming, magveldiff_nose2ell, 54297,     1.73
+F_Mated, not Grooming, anglesub, 59570,     1.73
+F_Mated, not Walk, absdv_cor, 36832,     1.73
+F_Mated, Aggregation, closestfly_nose2ell_angle_min20to20, 10039,     1.72
+F_Mated, Turn, dell2nose, 76688,     1.72
+F_Mated, Stop, angleonclosestfly, 22000,     1.72
+F_Mated, Turn, y_mm, 76688,     1.72
+F_Grouped, Touch, a, 15428,     1.72
+F_Grouped, not Touch, danglesub, 15318,     1.71
+F_Mated, Turn, dcenter, 76688,     1.71
+F_Grouped, Touch, ddcenter, 15428,     1.71
+F_Singles, not Grooming, anglefrom1to2_nose2ell, 54297,     1.71
+F_Mated, Stop, closestfly_nose2ell, 22000,     1.71
+F_Mated, Aggregation, dcenter, 10039,      1.7
+F_Grouped, Stop, decc, 47731,      1.7
+F_Mated, not Turn, closestfly_nose2ell_angle_min20to20, 76588,      1.7
+F_Singles, not Walk, area, 58104,      1.7
+F_Mated, Walk, closestfly_nose2ell_angle_30tomin30, 36932,      1.7
+F_Grouped, not Walk, dv_tail, 72982,      1.7
+F_Grouped, Walk, arena_r, 73092,      1.7
+F_Grouped, Walk, dist2wall, 73092,      1.7
+F_Mated, Aggregation, dnose2ell, 10039,      1.7
+F_Grouped, not Touch, velmag_nose, 15318,      1.7
+F_Mated, not Turn, dphi, 76588,      1.7
+F_Mated, not Walk, du_ctr, 36832,     1.69
+F_Mated, Stop, closestfly_center, 22000,     1.69
+F_Mated, Turn, dnose2tail, 76688,     1.69
+F_Mated, Grooming, xnose_mm, 59670,     1.69
+F_Singles, Grooming, absdtheta, 54397,     1.69
+F_Mated, Grooming, x_mm, 59670,     1.69
+F_Mated, Turn, dnose2ell, 76688,     1.69
+F_Singles, Walk, da, 58204,     1.69
+F_Mated, not Turn, closestfly_nose2ell, 76588,     1.69
+F_Mated, Aggregation, dnose2tail, 10039,     1.69
+F_Mated, Aggregation, dtheta, 10039,     1.68
+F_Grouped, Walk, velmag_ctr, 73092,     1.68
+F_Mated, not Turn, closestfly_nose2tail, 76588,     1.68
+F_Singles, Aggregation, dtheta, 3306,     1.68
+F_Singles, not Grooming, dt, 54297,     1.68
+F_Mated, Aggregation, dangle2wall, 10039,     1.68
+F_Singles, not Touch, area, 18103,     1.68
+F_Grouped, not Grooming, closestfly_anglesub, 64761,     1.68
+F_Singles, not Grooming, magveldiff_anglesub, 54297,     1.68
+F_Singles, Touch, magveldiff_anglesub, 18203,     1.68
+F_Mated, Turn, ynose_mm, 76688,     1.68
+F_Singles, Aggregation, ecc, 3306,     1.67
+F_Singles, not Walk, y, 58104,     1.67
+F_Mated, not Aggregation, theta, 9939,     1.67
+F_Mated, not Aggregation, theta_mm, 9939,     1.67
+F_Singles, Aggregation, dangle2wall, 3306,     1.67
+F_Mated, Aggregation, y_mm, 10039,     1.67
+F_Mated, Aggregation, closestfly_nose2ell_angle_min30to30, 10039,     1.67
+F_Mated, Aggregation, dell2nose, 10039,     1.67
+F_Grouped, Turn, y_mm, 83715,     1.67
+F_Grouped, not Touch, dv_ctr, 15318,     1.67
+F_Grouped, Grooming, y_mm, 64871,     1.67
+F_Mated, Turn, x_mm, 76688,     1.66
+F_Mated, Aggregation, dnose2ell_angle_30tomin30, 10039,     1.66
+F_Mated, Grooming, anglefrom1to2_anglesub, 59670,     1.66
+F_Grouped, Grooming, ynose_mm, 64871,     1.66
+F_Singles, not Grooming, closestfly_nose2ell, 54297,     1.66
+F_Mated, Aggregation, ynose_mm, 10039,     1.66
+F_Grouped, Grooming, dtheta, 64871,     1.66
+F_Grouped, not Walk, absphidiff_anglesub, 72982,     1.66
+F_Grouped, Grooming, dangle2wall, 64871,     1.66
+F_Mated, Walk, velmag_tail, 36932,     1.65
+F_Singles, not Grooming, closestfly_ell2nose, 54297,     1.65
+F_Singles, Turn, ddist2wall, 87637,     1.65
+F_Mated, Walk, closestfly_anglesub, 36932,     1.65
+F_Singles, not Grooming, closestfly_nose2tail, 54297,     1.65
+F_Mated, Walk, dv_tail, 36932,     1.65
+F_Mated, Jump, dphi, 1955,     1.65
+F_Mated, not Grooming, phi, 59570,     1.65
+F_Singles, Aggregation, y_mm, 3306,     1.65
+F_Singles, Grooming, phisideways, 54397,     1.65
+F_Mated, Turn, dnose2ell_angle_30tomin30, 76688,     1.65
+F_Singles, Aggregation, signdtheta, 3306,     1.64
+F_Singles, not Grooming, db, 54297,     1.64
+F_Singles, not Walk, x, 58104,     1.64
+F_Grouped, Turn, absthetadiff_nose2ell, 83715,     1.64
+F_Mated, Walk, arena_r, 36932,     1.64
+F_Mated, Walk, dist2wall, 36932,     1.64
+F_Singles, Walk, decc, 58204,     1.63
+F_Mated, Touch, anglefrom1to2_anglesub, 16512,     1.63
+F_Mated, not Touch, dnose2tail, 16412,     1.63
+F_Singles, not Grooming, closestfly_center, 54297,     1.63
+F_Singles, Aggregation, ynose_mm, 3306,     1.63
+F_Grouped, not Turn, b_mm, 83605,     1.63
+F_Grouped, Turn, x_mm, 83715,     1.63
+F_Mated, Turn, xnose_mm, 76688,     1.63
+F_Mated, not Touch, dnose2ell, 16412,     1.63
+F_Mated, Walk, angle2wall, 36932,     1.63
+F_Mated, Turn, b_mm, 76688,     1.63
+F_Mated, not Touch, dell2nose, 16412,     1.62
+F_Mated, Grooming, arena_r, 59670,     1.62
+F_Mated, Grooming, dist2wall, 59670,     1.62
+F_Mated, not Grooming, nflies_close, 59570,     1.62
+F_Mated, Aggregation, x_mm, 10039,     1.62
+F_Grouped, not Walk, danglesub, 72982,     1.62
+F_Grouped, Walk, dv_tail, 73092,     1.62
+F_Grouped, not Jump, area, 4442,     1.62
+F_Mated, Stop, closestfly_nose2ell_angle_30tomin30, 22000,     1.62
+F_Singles, Aggregation, x_mm, 3306,     1.62
+F_Grouped, Grooming, x_mm, 64871,     1.62
+F_Grouped, Grooming, xnose_mm, 64871,     1.62
+F_Mated, Walk, theta, 36932,     1.62
+F_Mated, Walk, theta_mm, 36932,     1.62
+F_Grouped, not Walk, da, 72982,     1.62
+F_Singles, not Grooming, decc, 54297,     1.62
+F_Grouped, Turn, ynose_mm, 83715,     1.61
+F_Grouped, Aggregation, dnose2ell_angle_min20to20, 8301,     1.61
+F_Singles, Aggregation, xnose_mm, 3306,     1.61
+F_Grouped, not Turn, a_mm, 83605,     1.61
+F_Mated, not Turn, closestfly_center, 76588,     1.61
+F_Grouped, not Touch, dv_cor, 15318,     1.61
+F_Singles, Aggregation, dnose2ell, 3306,     1.61
+F_Mated, Aggregation, xnose_mm, 10039,     1.61
+F_Singles, Aggregation, dnose2tail, 3306,      1.6
+F_Mated, Grooming, absanglefrom1to2_nose2ell, 59670,      1.6
+F_Singles, not Touch, da, 18103,      1.6
+F_Grouped, not Walk, y, 72982,      1.6
+F_Grouped, Aggregation, dnose2ell_angle_min30to30, 8301,      1.6
+F_Grouped, not Turn, y_mm, 83605,      1.6
+F_Mated, Aggregation, dphi, 10039,      1.6
+F_Mated, Aggregation, absdtheta, 10039,      1.6
+F_Mated, Touch, arena_angle, 16512,      1.6
+F_Grouped, Walk, velmag_tail, 73092,      1.6
+F_Mated, Grooming, ecc, 59670,      1.6
+F_Singles, Aggregation, dcenter, 3306,      1.6
+F_Grouped, Turn, dell2nose, 83715,      1.6
+F_Grouped, not Touch, flipdv_cor, 15318,      1.6
+F_Grouped, Turn, dcenter, 83715,     1.59
+F_Mated, Walk, velmag_nose, 36932,     1.59
+F_Singles, Turn, du_tail, 87637,     1.59
+F_Singles, Jump, angleonclosestfly, 9444,     1.59
+F_Mated, not Touch, dcenter, 16412,     1.59
+F_Singles, Walk, corfrac_min, 58204,     1.58
+F_Mated, not Turn, a_mm, 76588,     1.58
+F_Singles, Grooming, y_mm, 54397,     1.58
+F_Grouped, Touch, veltoward_nose2ell, 15428,     1.58
+F_Singles, Touch, timestamps, 18203,     1.58
+F_Mated, Walk, dnose2ell_angle_min30to30, 36932,     1.58
+F_Mated, not Turn, b_mm, 76588,     1.58
+F_Grouped, not Turn, ynose_mm, 83605,     1.58
+F_Grouped, Turn, xnose_mm, 83715,     1.57
+F_Singles, Aggregation, dell2nose, 3306,     1.57
+F_Grouped, not Touch, absyaw, 15318,     1.57
+F_Grouped, Turn, dnose2tail, 83715,     1.57
+F_Singles, Grooming, ynose_mm, 54397,     1.57
+F_Singles, Aggregation, dnose2ell_angle_30tomin30, 3306,     1.57
+F_Mated, not Walk, a_mm, 36832,     1.57
+F_Grouped, Turn, dnose2ell, 83715,     1.57
+F_Mated, Walk, dnose2ell_angle_min20to20, 36932,     1.57
+F_Grouped, Grooming, phi, 64871,     1.57
+F_Singles, Jump, closestfly_anglesub, 9444,     1.56
+F_Mated, Turn, arena_r, 76688,     1.56
+F_Mated, Turn, dist2wall, 76688,     1.56
+F_Grouped, not Grooming, absthetadiff_anglesub, 64761,     1.56
+F_Singles, not Stop, absyaw, 32853,     1.56
+F_Mated, Touch, y, 16512,     1.56
+F_Mated, not Walk, du_cor, 36832,     1.55
+F_Grouped, not Turn, magveldiff_nose2ell, 83605,     1.55
+F_Grouped, not Walk, x, 72982,     1.55
+F_Singles, Turn, y_mm, 87637,     1.55
+F_Grouped, Stop, a, 47731,     1.55
+F_Singles, not Grooming, angleonclosestfly, 54297,     1.55
+F_Grouped, not Touch, absdv_cor, 15318,     1.55
+F_Mated, Jump, absthetadiff_nose2ell, 1955,     1.54
+F_Singles, Turn, closestfly_nose2ell_angle_min20to20, 87637,     1.54
+F_Singles, Walk, db, 58204,     1.54
+F_Grouped, not Turn, da, 83605,     1.54
+F_Mated, Walk, du_ctr, 36932,     1.54
+F_Grouped, Walk, du_ctr, 73092,     1.54
+F_Mated, Grooming, anglefrom1to2_nose2ell, 59670,     1.54
+F_Mated, not Walk, phi, 36832,     1.53
+F_Grouped, Grooming, absdtheta, 64871,     1.53
+F_Mated, Touch, x, 16512,     1.53
+F_Mated, Aggregation, phisideways, 10039,     1.53
+F_Mated, Stop, theta, 22000,     1.53
+F_Mated, Stop, theta_mm, 22000,     1.53
+F_Mated, not Walk, angleonclosestfly, 36832,     1.52
+F_Singles, Touch, corfrac_min, 18203,     1.52
+F_Singles, Grooming, x_mm, 54397,     1.52
+F_Singles, Grooming, xnose_mm, 54397,     1.52
+F_Mated, Turn, a_mm, 76688,     1.52
+F_Grouped, Stop, anglefrom1to2_nose2ell, 47731,     1.52
+F_Mated, Touch, decc, 16512,     1.52
+F_Grouped, not Walk, veltoward_nose2ell, 72982,     1.52
+F_Grouped, Grooming, arena_r, 64871,     1.51
+F_Grouped, Grooming, dist2wall, 64871,     1.51
+F_Grouped, not Stop, absphidiff_nose2ell, 47621,     1.51
+F_Singles, Walk, timestamps, 58204,     1.51
+F_Mated, Walk, closestfly_center, 36932,     1.51
+F_Mated, Stop, dangle2wall, 22000,     1.51
+F_Singles, Stop, y_mm, 32953,     1.51
+F_Singles, Turn, closestfly_nose2ell_angle_min30to30, 87637,     1.51
+F_Grouped, not Grooming, absthetadiff_nose2ell, 64761,     1.51
+F_Grouped, not Turn, x_mm, 83605,     1.51
+F_Mated, Walk, closestfly_nose2ell, 36932,     1.51
+F_Mated, Aggregation, arena_r, 10039,      1.5
+F_Mated, Aggregation, dist2wall, 10039,      1.5
+F_Singles, Walk, nflies_close, 58204,      1.5
+F_Singles, Aggregation, absdtheta, 3306,      1.5
+F_Grouped, Walk, y_mm, 73092,      1.5
+F_Grouped, not Grooming, closestfly_nose2ell_angle_min30to30, 64761,      1.5
+F_Grouped, Walk, velmag_nose, 73092,      1.5
+F_Mated, not Turn, dnose2ell_angle_min30to30, 76588,      1.5
+F_Mated, not Aggregation, closestfly_anglesub, 9939,      1.5
+F_Mated, Aggregation, theta, 10039,      1.5
+F_Mated, Aggregation, theta_mm, 10039,      1.5
+F_Singles, Turn, velmag_tail, 87637,      1.5
+F_Mated, Aggregation, absanglefrom1to2_nose2ell, 10039,      1.5
+F_Mated, Grooming, closestfly_anglesub, 59670,      1.5
+F_Singles, Turn, x_mm, 87637,     1.49
+F_Singles, Grooming, ecc, 54397,     1.49
+F_Grouped, Stop, theta, 47731,     1.49
+F_Grouped, Stop, theta_mm, 47731,     1.49
+F_Grouped, not Grooming, y_mm, 64761,     1.49
+F_Grouped, not Walk, signdtheta, 72982,     1.49
+F_Singles, Stop, a, 32953,     1.49
+F_Mated, not Turn, dnose2ell_angle_min20to20, 76588,     1.49
+F_Grouped, not Turn, xnose_mm, 83605,     1.49
+F_Mated, not Aggregation, anglefrom1to2_nose2ell, 9939,     1.49
+F_Singles, Stop, x_mm, 32953,     1.48
+F_Grouped, Aggregation, y_mm, 8301,     1.48
+F_Grouped, not Grooming, closestfly_nose2ell_angle_min20to20, 64761,     1.48
+F_Mated, Aggregation, absthetadiff_nose2ell, 10039,     1.48
+F_Mated, Walk, closestfly_nose2tail, 36932,     1.48
+F_Singles, Walk, b_mm, 58204,     1.48
+F_Mated, Walk, du_tail, 36932,     1.48
+F_Singles, Turn, veltoward_anglesub, 87637,     1.48
+F_Grouped, Turn, dnose2ell_angle_30tomin30, 83715,     1.48
+F_Grouped, Stop, y_mm, 47731,     1.47
+F_Grouped, not Touch, a_mm, 15318,     1.47
+F_Grouped, not Grooming, ynose_mm, 64761,     1.47
+F_Grouped, Walk, du_tail, 73092,     1.47
+F_Mated, not Walk, veltoward_anglesub, 36832,     1.47
+F_Grouped, Stop, x_mm, 47731,     1.47
+F_Grouped, Grooming, closestfly_nose2ell_angle_min20to20, 64871,     1.47
+F_Mated, Stop, dtheta, 22000,     1.47
+F_Grouped, Touch, veltoward_anglesub, 15428,     1.47
+F_Grouped, Aggregation, x_mm, 8301,     1.47
+F_Mated, Walk, y_mm, 36932,     1.47
+F_Mated, not Walk, velmag_tail, 36832,     1.47
+F_Grouped, Aggregation, ynose_mm, 8301,     1.47
+F_Grouped, not Turn, magveldiff_anglesub, 83605,     1.46
+F_Mated, not Aggregation, arena_angle, 9939,     1.46
+F_Mated, Touch, dcenter, 16512,     1.46
+F_Mated, Stop, y_mm, 22000,     1.46
+F_Mated, Aggregation, closestfly_nose2tail, 10039,     1.46
+F_Grouped, Grooming, closestfly_nose2ell_angle_min30to30, 64871,     1.46
+F_Singles, Turn, dv_tail, 87637,     1.46
+F_Grouped, Aggregation, dcenter, 8301,     1.46
+F_Singles, Stop, anglefrom1to2_nose2ell, 32953,     1.46
+F_Mated, Stop, x_mm, 22000,     1.45
+F_Grouped, Aggregation, xnose_mm, 8301,     1.45
+F_Mated, not Stop, darea, 21900,     1.45
+F_Mated, not Walk, dv_tail, 36832,     1.45
+F_Mated, not Walk, ddist2wall, 36832,     1.45
+F_Grouped, Aggregation, dnose2ell, 8301,     1.45
+F_Mated, Stop, absanglefrom1to2_nose2ell, 22000,     1.45
+F_Singles, Turn, absdv_cor, 87637,     1.45
+F_Singles, Stop, xnose_mm, 32953,     1.45
+F_Grouped, Aggregation, dnose2tail, 8301,     1.45
+F_Singles, Turn, ynose_mm, 87637,     1.44
+F_Singles, Touch, closestfly_nose2ell_angle_30tomin30, 18203,     1.44
+F_Grouped, Turn, arena_r, 83715,     1.44
+F_Grouped, Turn, dist2wall, 83715,     1.44
+F_Singles, Aggregation, absyaw, 3306,     1.44
+F_Singles, Stop, closestfly_ell2nose, 32953,     1.44
+F_Grouped, Walk, ynose_mm, 73092,     1.43
+F_Singles, Stop, closestfly_nose2ell_angle_min20to20, 32953,     1.43
+F_Mated, not Walk, dv_cor, 36832,     1.43
+F_Grouped, not Aggregation, dphi, 8191,     1.43
+F_Mated, Aggregation, angleonclosestfly, 10039,     1.43
+F_Grouped, not Grooming, closestfly_nose2ell_angle_30tomin30, 64761,     1.43
+F_Grouped, Stop, xnose_mm, 47731,     1.43
+F_Grouped, Turn, anglesub, 83715,     1.43
+F_Grouped, not Turn, db, 83605,     1.43
+F_Singles, Stop, ynose_mm, 32953,     1.43
+F_Singles, Stop, a_mm, 32953,     1.42
+F_Mated, not Stop, area, 21900,     1.42
+F_Grouped, not Touch, magveldiff_nose2ell, 15318,     1.42
+F_Mated, Grooming, closestfly_nose2ell_angle_min30to30, 59670,     1.42
+F_Singles, Aggregation, dist2wall, 3306,     1.42
+F_Singles, Aggregation, arena_r, 3306,     1.42
+F_Grouped, Grooming, anglefrom1to2_anglesub, 64871,     1.42
+F_Mated, Walk, ynose_mm, 36932,     1.41
+F_Grouped, Turn, absanglefrom1to2_nose2ell, 83715,     1.41
+F_Grouped, not Walk, db, 72982,     1.41
+F_Mated, not Grooming, dphi, 59570,     1.41
+F_Grouped, not Grooming, dt, 64761,     1.41
+F_Grouped, Aggregation, dell2nose, 8301,     1.41
+F_Singles, Stop, b_mm, 32953,     1.41
+F_Mated, Grooming, absthetadiff_nose2ell, 59670,     1.41
+F_Mated, Grooming, dt, 59670,     1.41
+F_Mated, Walk, absthetadiff_anglesub, 36932,      1.4
+F_Singles, Turn, anglefrom1to2_anglesub, 87637,      1.4
+F_Mated, not Walk, flipdv_cor, 36832,      1.4
+F_Mated, Grooming, absthetadiff_anglesub, 59670,      1.4
+F_Grouped, Aggregation, dnose2ell_angle_30tomin30, 8301,      1.4
+F_Grouped, not Grooming, closestfly_nose2tail, 64761,      1.4
+F_Grouped, not Walk, anglesub, 72982,      1.4
+F_Grouped, Stop, absthetadiff_nose2ell, 47731,      1.4
+F_Mated, Grooming, closestfly_nose2ell_angle_min20to20, 59670,      1.4
+F_Singles, Turn, xnose_mm, 87637,      1.4
+F_Singles, not Grooming, a_mm, 54297,      1.4
+F_Mated, Aggregation, absphidiff_nose2ell, 10039,     1.39
+F_Singles, Walk, ecc, 58204,     1.39
+F_Singles, Turn, dcenter, 87637,     1.39
+F_Singles, not Jump, absyaw, 9344,     1.39
+F_Singles, Turn, dell2nose, 87637,     1.39
+F_Mated, Grooming, timestamps, 59670,     1.39
+F_Singles, not Grooming, b_mm, 54297,     1.39
+F_Mated, not Grooming, angle2wall, 59570,     1.39
+F_Grouped, not Grooming, closestfly_nose2ell, 64761,     1.39
+F_Grouped, Walk, x_mm, 73092,     1.39
+F_Grouped, not Grooming, closestfly_ell2nose, 64761,     1.38
+F_Mated, Stop, xnose_mm, 22000,     1.38
+F_Mated, not Aggregation, ynose_mm, 9939,     1.38
+F_Mated, not Aggregation, y_mm, 9939,     1.38
+F_Mated, Walk, x_mm, 36932,     1.38
+F_Grouped, Stop, phisideways, 47731,     1.38
+F_Grouped, Stop, ynose_mm, 47731,     1.38
+F_Mated, Walk, closestfly_ell2nose, 36932,     1.38
+F_Mated, not Grooming, timestamps, 59570,     1.38
+F_Grouped, not Grooming, x_mm, 64761,     1.38
+F_Grouped, Walk, dnose2ell_angle_30tomin30, 73092,     1.38
+F_Singles, Stop, closestfly_nose2tail, 32953,     1.38
+F_Mated, not Grooming, absyaw, 59570,     1.37
+F_Singles, Stop, closestfly_center, 32953,     1.37
+F_Mated, Touch, dnose2ell_angle_30tomin30, 16512,     1.37
+F_Singles, not Grooming, darea, 54297,     1.37
+F_Grouped, Walk, anglefrom1to2_anglesub, 73092,     1.37
+F_Grouped, not Grooming, angleonclosestfly, 64761,     1.37
+F_Mated, Aggregation, closestfly_nose2ell_angle_30tomin30, 10039,     1.37
+F_Grouped, not Grooming, xnose_mm, 64761,     1.36
+F_Singles, Stop, closestfly_nose2ell, 32953,     1.36
+F_Grouped, not Grooming, closestfly_center, 64761,     1.36
+F_Mated, Touch, dnose2tail, 16512,     1.36
+F_Singles, not Walk, timestamps, 58104,     1.36
+F_Singles, Grooming, nflies_close, 54397,     1.36
+F_Mated, not Walk, velmag, 36832,     1.36
+F_Mated, Touch, dnose2ell, 16512,     1.36
+F_Singles, Stop, closestfly_nose2ell_angle_min30to30, 32953,     1.36
+F_Singles, Walk, a, 58204,     1.36
+F_Mated, Aggregation, closestfly_nose2ell, 10039,     1.35
+F_Mated, Turn, theta, 76688,     1.35
+F_Mated, Turn, theta_mm, 76688,     1.35
+F_Mated, Stop, ynose_mm, 22000,     1.35
+F_Singles, not Walk, anglesub, 58104,     1.35
+F_Grouped, not Aggregation, a_mm, 8191,     1.34
+F_Mated, Walk, xnose_mm, 36932,     1.34
+F_Singles, Turn, dnose2tail, 87637,     1.34
+F_Grouped, not Touch, b_mm, 15318,     1.34
+F_Mated, not Touch, dnose2ell_angle_30tomin30, 16412,     1.33
+F_Singles, Turn, dnose2ell, 87637,     1.33
+F_Mated, Touch, dnose2ell_angle_min20to20, 16512,     1.33
+F_Mated, not Walk, y_mm, 36832,     1.33
+F_Mated, Touch, dell2nose, 16512,     1.33
+F_Singles, Turn, anglesub, 87637,     1.33
+F_Grouped, Walk, ddcenter, 73092,     1.33
+F_Mated, Aggregation, magveldiff_anglesub, 10039,     1.33
+F_Mated, Grooming, dnose2ell_angle_min30to30, 59670,     1.32
+F_Grouped, Walk, xnose_mm, 73092,     1.32
+F_Mated, Grooming, dnose2ell_angle_min20to20, 59670,     1.32
+F_Mated, Touch, closestfly_center, 16512,     1.32
+F_Mated, Touch, dnose2ell_angle_min30to30, 16512,     1.32
+F_Mated, not Turn, theta, 76588,     1.32
+F_Mated, not Turn, theta_mm, 76588,     1.32
+F_Mated, Aggregation, closestfly_center, 10039,     1.32
+F_Mated, not Walk, velmag_ctr, 36832,     1.32
+F_Singles, Walk, a_mm, 58204,     1.32
+F_Grouped, Grooming, closestfly_nose2ell, 64871,     1.32
+F_Grouped, Walk, nflies_close, 73092,     1.31
+F_Singles, Grooming, arena_r, 54397,     1.31
+F_Singles, Grooming, dist2wall, 54397,     1.31
+F_Singles, Stop, absanglefrom1to2_nose2ell, 32953,     1.31
+F_Grouped, not Jump, darea, 4442,     1.31
+F_Grouped, Grooming, absanglefrom1to2_nose2ell, 64871,     1.31
+F_Singles, not Aggregation, b_mm, 3228,     1.31
+F_Mated, Aggregation, ddcenter, 10039,     1.31
+F_Singles, not Touch, danglesub, 18103,     1.31
+F_Grouped, not Walk, a_mm, 72982,     1.31
+F_Grouped, Grooming, closestfly_ell2nose, 64871,     1.31
+F_Mated, not Walk, da, 36832,     1.31
+F_Singles, Touch, closestfly_center, 18203,     1.31
+F_Grouped, Stop, angleonclosestfly, 47731,      1.3
+F_Mated, not Grooming, b, 59570,      1.3
+F_Grouped, Walk, dt, 73092,      1.3
+F_Mated, Stop, absphidiff_nose2ell, 22000,      1.3
+F_Grouped, not Walk, absphidiff_nose2ell, 72982,      1.3
+F_Mated, Aggregation, magveldiff_nose2ell, 10039,     1.29
+F_Mated, not Touch, dtheta, 16412,     1.29
+F_Mated, not Aggregation, xnose_mm, 9939,     1.29
+F_Singles, Touch, closestfly_nose2ell, 18203,     1.29
+F_Grouped, Turn, absthetadiff_anglesub, 83715,     1.29
+F_Mated, not Walk, x_mm, 36832,     1.29
+F_Mated, Turn, db, 76688,     1.29
+F_Grouped, Grooming, closestfly_nose2ell_angle_30tomin30, 64871,     1.29
+F_Singles, Jump, closestfly_nose2tail, 9444,     1.29
+F_Mated, not Aggregation, x_mm, 9939,     1.29
+F_Mated, Aggregation, absphidiff_anglesub, 10039,     1.28
+F_Grouped, not Touch, magveldiff_anglesub, 15318,     1.28
+F_Mated, Walk, anglefrom1to2_anglesub, 36932,     1.28
+F_Grouped, not Grooming, arena_r, 64761,     1.28
+F_Grouped, not Grooming, dist2wall, 64761,     1.28
+F_Grouped, Touch, absdv_cor, 15428,     1.28
+F_Mated, not Touch, dangle2wall, 16412,     1.27
+F_Grouped, Grooming, closestfly_nose2tail, 64871,     1.27
+F_Grouped, Walk, dcenter, 73092,     1.27
+F_Grouped, not Stop, phi, 47621,     1.27
+F_Grouped, Touch, flipdv_cor, 15428,     1.27
+F_Singles, not Walk, phi, 58104,     1.27
+F_Singles, Stop, closestfly_nose2ell_angle_30tomin30, 32953,     1.27
+F_Mated, not Turn, dv_ctr, 76588,     1.27
+F_Mated, Stop, absphidiff_anglesub, 22000,     1.26
+F_Singles, Turn, absthetadiff_nose2ell, 87637,     1.26
+F_Singles, Stop, absyaw, 32953,     1.26
+F_Grouped, Touch, du_cor, 15428,     1.26
+F_Singles, Turn, du_ctr, 87637,     1.26
+F_Grouped, not Walk, b_mm, 72982,     1.26
+F_Mated, Touch, closestfly_nose2ell_angle_min30to30, 16512,     1.25
+F_Mated, not Touch, a_mm, 16412,     1.25
+F_Singles, not Aggregation, velmag_tail, 3228,     1.25
+F_Grouped, Walk, dnose2ell, 73092,     1.25
+F_Singles, not Grooming, a, 54297,     1.25
+F_Grouped, Touch, dv_cor, 15428,     1.25
+F_Grouped, Grooming, absyaw, 64871,     1.24
+F_Singles, not Touch, darea, 18103,     1.24
+F_Singles, not Touch, yaw, 18103,     1.24
+F_Grouped, Walk, dnose2tail, 73092,     1.24
+F_Singles, not Grooming, area, 54297,     1.24
+F_Mated, Grooming, da, 59670,     1.24
+F_Singles, Walk, darea, 58204,     1.24
+F_Mated, not Aggregation, absthetadiff_anglesub, 9939,     1.24
+F_Grouped, Touch, dv_ctr, 15428,     1.24
+F_Grouped, not Walk, dphi, 72982,     1.24
+F_Singles, not Aggregation, velmag_ctr, 3228,     1.24
+F_Singles, Touch, corfrac_maj, 18203,     1.23
+F_Singles, Grooming, phi, 54397,     1.23
+F_Singles, Touch, closestfly_nose2tail, 18203,     1.23
+F_Mated, Grooming, a, 59670,     1.22
+F_Grouped, Touch, velmag, 15428,     1.22
+F_Grouped, Grooming, closestfly_center, 64871,     1.22
+F_Mated, not Touch, absdtheta, 16412,     1.22
+F_Singles, not Stop, dt, 32853,     1.22
+F_Grouped, not Walk, y_mm, 72982,     1.22
+F_Singles, Stop, magveldiff_anglesub, 32953,     1.22
+F_Grouped, Walk, dell2nose, 73092,     1.21
+F_Grouped, not Turn, phi, 83605,     1.21
+F_Mated, Turn, anglesub, 76688,      1.2
+F_Singles, Turn, dnose2ell_angle_30tomin30, 87637,      1.2
+F_Mated, not Turn, ddist2wall, 76588,      1.2
+F_Mated, Touch, closestfly_nose2ell_angle_30tomin30, 16512,      1.2
+F_Singles, not Aggregation, area, 3228,      1.2
+F_Mated, Grooming, dnose2ell, 59670,      1.2
+F_Mated, Grooming, dnose2tail, 59670,     1.19
+F_Mated, Aggregation, flipdv_cor, 10039,     1.19
+F_Grouped, Touch, du_ctr, 15428,     1.19
+F_Mated, Grooming, veltoward_nose2ell, 59670,     1.19
+F_Grouped, Turn, b_mm, 83715,     1.19
+F_Singles, Touch, arena_r, 18203,     1.19
+F_Singles, Touch, dist2wall, 18203,     1.19
+F_Singles, Aggregation, closestfly_nose2ell_angle_min20to20, 3306,     1.19
+F_Mated, Grooming, dcenter, 59670,     1.19
+F_Mated, not Turn, du_tail, 76588,     1.19
+F_Singles, Stop, absphidiff_anglesub, 32953,     1.19
+F_Mated, Touch, y_mm, 16512,     1.19
+F_Grouped, Stop, corfrac_maj, 47731,     1.19
+F_Grouped, Grooming, anglefrom1to2_nose2ell, 64871,     1.19
+F_Singles, Touch, closestfly_ell2nose, 18203,     1.18
+F_Grouped, not Jump, dt, 4442,     1.18
+F_Mated, Grooming, dnose2ell_angle_30tomin30, 59670,     1.18
+F_Mated, Grooming, closestfly_nose2ell_angle_30tomin30, 59670,     1.18
+F_Mated, Touch, closestfly_nose2ell_angle_min20to20, 16512,     1.18
+F_Singles, not Grooming, ecc, 54297,     1.18
+F_Mated, Grooming, angleonclosestfly, 59670,     1.17
+F_Singles, Jump, closestfly_nose2ell, 9444,     1.17
+F_Mated, Grooming, dell2nose, 59670,     1.17
+F_Singles, Stop, phi, 32953,     1.17
+F_Mated, Grooming, dv_tail, 59670,     1.17
+F_Singles, Grooming, danglesub, 54397,     1.17
+F_Mated, not Walk, veltoward_nose2ell, 36832,     1.17
+F_Grouped, Grooming, da, 64871,     1.17
+F_Singles, Jump, nflies_close, 9444,     1.17
+F_Mated, Aggregation, closestfly_ell2nose, 10039,     1.17
+F_Mated, Grooming, du_tail, 59670,     1.16
+F_Mated, Aggregation, dv_cor, 10039,     1.16
+F_Singles, Turn, dv_cor, 87637,     1.16
+F_Mated, Grooming, flipdv_cor, 59670,     1.16
+F_Mated, Aggregation, du_cor, 10039,     1.16
+F_Grouped, Touch, velmag_ctr, 15428,     1.16
+F_Mated, Touch, absphidiff_nose2ell, 16512,     1.16
+F_Grouped, not Walk, x_mm, 72982,     1.16
+F_Singles, Walk, area, 58204,     1.16
+F_Singles, Turn, arena_r, 87637,     1.16
+F_Singles, Turn, dist2wall, 87637,     1.16
+F_Mated, Aggregation, absdv_cor, 10039,     1.16
+F_Grouped, Grooming, decc, 64871,     1.16
+F_Mated, Grooming, veltoward_anglesub, 59670,     1.16
+F_Grouped, Grooming, absthetadiff_nose2ell, 64871,     1.16
+F_Mated, not Turn, da, 76588,     1.15
+F_Grouped, Grooming, closestfly_anglesub, 64871,     1.15
+F_Mated, Grooming, du_ctr, 59670,     1.15
+F_Singles, not Aggregation, velmag_nose, 3228,     1.15
+F_Mated, Aggregation, velmag, 10039,     1.15
+F_Singles, Stop, absphidiff_nose2ell, 32953,     1.15
+F_Singles, Stop, magveldiff_nose2ell, 32953,     1.15
+F_Mated, Touch, ynose_mm, 16512,     1.15
+F_Singles, Stop, corfrac_maj, 32953,     1.15
+F_Mated, Grooming, velmag_nose, 59670,     1.15
+F_Mated, Touch, x_mm, 16512,     1.15
+F_Singles, Stop, arena_r, 32953,     1.15
+F_Singles, Stop, dist2wall, 32953,     1.15
+F_Mated, Walk, absthetadiff_nose2ell, 36932,     1.15
+F_Mated, Grooming, velmag, 59670,     1.15
+F_Grouped, Turn, a_mm, 83715,     1.15
+F_Mated, not Turn, veltoward_anglesub, 76588,     1.15
+F_Mated, Grooming, dv_cor, 59670,     1.15
+F_Mated, Grooming, absdv_cor, 59670,     1.14
+F_Mated, Grooming, velmag_tail, 59670,     1.14
+F_Grouped, Grooming, dt, 64871,     1.14
+F_Mated, Grooming, du_cor, 59670,     1.14
+F_Mated, not Touch, dt, 16412,     1.14
+F_Mated, Grooming, ddist2wall, 59670,     1.14
+F_Mated, Aggregation, veltoward_nose2ell, 10039,     1.14
+F_Mated, Grooming, velmag_ctr, 59670,     1.14
+F_Mated, not Turn, dv_tail, 76588,     1.14
+F_Grouped, Stop, dist2wall, 47731,     1.13
+F_Grouped, Stop, arena_r, 47731,     1.13
+F_Mated, Aggregation, dv_tail, 10039,     1.13
+F_Singles, Walk, anglesub, 58204,     1.13
+F_Singles, not Walk, y_mm, 58104,     1.13
+F_Singles, Grooming, anglefrom1to2_anglesub, 54397,     1.13
+F_Grouped, Touch, du_tail, 15428,     1.13
+F_Singles, Grooming, anglesub, 54397,     1.13
+F_Singles, Turn, veltoward_nose2ell, 87637,     1.12
+F_Singles, Turn, decc, 87637,     1.12
+F_Mated, not Turn, veltoward_nose2ell, 76588,     1.12
+F_Mated, not Grooming, yaw, 59570,     1.12
+F_Grouped, Aggregation, arena_r, 8301,     1.12
+F_Grouped, Aggregation, dist2wall, 8301,     1.12
+F_Mated, not Walk, ynose_mm, 36832,     1.12
+F_Mated, Grooming, dv_ctr, 59670,     1.11
+F_Singles, not Turn, timestamps, 87537,     1.11
+F_Mated, Aggregation, du_ctr, 10039,     1.11
+F_Singles, Stop, dnose2ell_angle_min30to30, 32953,     1.11
+F_Mated, Touch, xnose_mm, 16512,     1.11
+F_Mated, Jump, closestfly_nose2ell_angle_30tomin30, 1955,     1.11
+F_Mated, Grooming, closestfly_nose2tail, 59670,     1.11
+F_Mated, not Aggregation, arena_r, 9939,     1.11
+F_Mated, not Aggregation, dist2wall, 9939,     1.11
+F_Mated, not Walk, b_mm, 36832,     1.11
+F_Grouped, Touch, velmag_nose, 15428,     1.11
+F_Mated, not Turn, db, 76588,     1.11
+F_Grouped, Jump, closestfly_nose2ell_angle_30tomin30, 4552,     1.11
+F_Singles, Stop, dnose2ell_angle_min20to20, 32953,      1.1
+F_Mated, Aggregation, ddist2wall, 10039,      1.1
+F_Grouped, Grooming, dv_tail, 64871,      1.1
+F_Singles, not Aggregation, du_ctr, 3228,      1.1
+F_Singles, Aggregation, yaw, 3306,      1.1
+F_Grouped, not Jump, yaw, 4442,      1.1
+F_Grouped, Grooming, dphi, 64871,      1.1
+F_Mated, Grooming, closestfly_nose2ell, 59670,      1.1
+F_Mated, Stop, dnose2ell_angle_min30to30, 22000,     1.09
+F_Grouped, not Walk, ddcenter, 72982,     1.09
+F_Mated, not Turn, du_ctr, 76588,     1.09
+F_Mated, not Walk, xnose_mm, 36832,     1.09
+F_Grouped, Grooming, nflies_close, 64871,     1.09
+F_Mated, Aggregation, velmag_ctr, 10039,     1.09
+F_Grouped, Touch, velmag_tail, 15428,     1.09
+F_Grouped, Walk, closestfly_nose2ell_angle_min30to30, 73092,     1.09
+F_Grouped, Grooming, absthetadiff_anglesub, 64871,     1.09
+F_Grouped, not Walk, magveldiff_nose2ell, 72982,     1.09
+F_Mated, not Turn, flipdv_cor, 76588,     1.09
+F_Grouped, Grooming, danglesub, 64871,     1.09
+F_Singles, not Aggregation, velmag, 3228,     1.09
+F_Mated, Aggregation, du_tail, 10039,     1.09
+F_Singles, not Walk, x_mm, 58104,     1.08
+F_Mated, Stop, dnose2ell_angle_min20to20, 22000,     1.08
+F_Mated, Turn, da, 76688,     1.08
+F_Mated, Aggregation, dv_ctr, 10039,     1.08
+F_Grouped, Grooming, veltoward_nose2ell, 64871,     1.08
+F_Mated, Aggregation, decc, 10039,     1.08
+F_Mated, Stop, phi, 22000,     1.08
+F_Mated, not Turn, velmag_tail, 76588,     1.08
+F_Mated, Aggregation, veltoward_anglesub, 10039,     1.08
+F_Mated, Turn, absdtheta, 76688,     1.08
+F_Singles, not Aggregation, du_tail, 3228,     1.07
+F_Mated, Grooming, closestfly_center, 59670,     1.07
+F_Grouped, Stop, dnose2ell_angle_min30to30, 47731,     1.07
+F_Mated, Grooming, closestfly_ell2nose, 59670,     1.07
+F_Mated, not Walk, absyaw, 36832,     1.07
+F_Mated, Grooming, db, 59670,     1.06
+F_Grouped, Aggregation, signdtheta, 8301,     1.06
+F_Grouped, Grooming, a_mm, 64871,     1.06
+F_Singles, not Grooming, phisideways, 54297,     1.06
+F_Grouped, Stop, dnose2ell_angle_min20to20, 47731,     1.06
+F_Grouped, Jump, dphi, 4552,     1.06
+F_Singles, Touch, dt, 18203,     1.06
+F_Grouped, Touch, decc, 15428,     1.05
+F_Grouped, Jump, arena_angle, 4552,     1.05
+F_Mated, not Aggregation, decc, 9939,     1.05
+F_Mated, not Touch, dnose2ell_angle_min30to30, 16412,     1.05
+F_Mated, Aggregation, velmag_tail, 10039,     1.05
+F_Singles, Turn, flipdv_cor, 87637,     1.05
+F_Grouped, Touch, dphi, 15428,     1.05
+F_Mated, Grooming, ddcenter, 59670,     1.05
+F_Mated, Stop, dist2wall, 22000,     1.05
+F_Mated, Stop, arena_r, 22000,     1.05
+F_Singles, Aggregation, ddcenter, 3306,     1.05
+F_Singles, not Walk, dnose2ell_angle_30tomin30, 58104,     1.05
+F_Grouped, Grooming, veltoward_anglesub, 64871,     1.04
+F_Singles, Aggregation, veltoward_nose2ell, 3306,     1.04
+F_Grouped, not Aggregation, b_mm, 8191,     1.04
+F_Mated, not Touch, dnose2ell_angle_min20to20, 16412,     1.04
+F_Grouped, Grooming, du_tail, 64871,     1.04
+F_Grouped, Turn, closestfly_anglesub, 83715,     1.04
+F_Mated, Aggregation, velmag_nose, 10039,     1.04
+F_Grouped, Grooming, anglesub, 64871,     1.04
+F_Grouped, Stop, absanglefrom1to2_nose2ell, 47731,     1.04
+F_Grouped, Grooming, angleonclosestfly, 64871,     1.04
+F_Singles, Aggregation, magveldiff_nose2ell, 3306,     1.03
+F_Mated, Turn, anglefrom1to2_anglesub, 76688,     1.03
+F_Grouped, not Walk, magveldiff_anglesub, 72982,     1.03
+F_Mated, Grooming, absphidiff_anglesub, 59670,     1.03
+F_Grouped, not Walk, ynose_mm, 72982,     1.03
+F_Grouped, Walk, a, 73092,     1.03
+F_Singles, Aggregation, magveldiff_anglesub, 3306,     1.03
+F_Singles, Turn, absanglefrom1to2_nose2ell, 87637,     1.03
+F_Singles, not Walk, signdtheta, 58104,     1.03
+F_Grouped, Touch, ddist2wall, 15428,     1.03
+F_Mated, Grooming, absphidiff_nose2ell, 59670,     1.03
+F_Mated, not Turn, absdv_cor, 76588,     1.02
+F_Grouped, Grooming, ddist2wall, 64871,     1.02
+F_Grouped, Grooming, velmag_tail, 64871,     1.02
+F_Mated, not Turn, velmag_nose, 76588,     1.02
+F_Singles, Turn, velmag_ctr, 87637,     1.02
+F_Singles, not Aggregation, absdtheta, 3228,     1.02
+F_Mated, not Touch, veltoward_nose2ell, 16412,     1.02
+F_Singles, Stop, area, 32953,     1.02
+F_Mated, Stop, a_mm, 22000,     1.01
+F_Singles, Jump, closestfly_center, 9444,     1.01
+F_Mated, Walk, ecc, 36932,     1.01
+F_Mated, Touch, closestfly_ell2nose, 16512,     1.01
+F_Singles, Aggregation, dv_tail, 3306,     1.01
+F_Grouped, Grooming, velmag_nose, 64871,     1.01
+F_Mated, not Turn, du_cor, 76588,     1.01
+F_Grouped, Grooming, dv_ctr, 64871,     1.01
+F_Singles, Grooming, dt, 54397,        1
+F_Grouped, Grooming, du_ctr, 64871,        1
+F_Singles, not Aggregation, du_cor, 3228,        1
+F_Grouped, Grooming, dnose2ell_angle_min20to20, 64871,    0.998
+F_Grouped, Grooming, dnose2ell_angle_min30to30, 64871,    0.998
+F_Mated, all frames, absphidiff_anglesub, 119240,    0.994
+F_Mated, Touch, dt, 16512,    0.994
+F_Mated, all frames, nflies_close, 119240,    0.992
+F_Singles, Aggregation, danglesub, 3306,    0.989
+F_Grouped, not Walk, xnose_mm, 72982,    0.989
+F_Mated, Walk, closestfly_nose2ell_angle_min30to30, 36932,    0.988
+F_Singles, Walk, danglesub, 58204,    0.988
+F_Singles, Aggregation, du_cor, 3306,    0.987
+F_Mated, Touch, closestfly_nose2ell, 16512,    0.987
+F_Mated, all frames, absphidiff_nose2ell, 119240,    0.986
+F_Mated, Touch, closestfly_nose2tail, 16512,    0.986
+F_Mated, Grooming, magveldiff_nose2ell, 59670,    0.984
+F_Grouped, Grooming, velmag_ctr, 64871,    0.984
+F_Mated, not Turn, dv_cor, 76588,     0.98
+F_Mated, Walk, dcenter, 36932,    0.977
+F_Singles, not Aggregation, magveldiff_anglesub, 3228,    0.976
+F_Mated, Walk, dnose2tail, 36932,    0.974
+F_Singles, Grooming, closestfly_nose2ell_angle_min30to30, 54397,    0.974
+F_Grouped, Touch, dt, 15428,    0.974
+F_Mated, Walk, dnose2ell, 36932,    0.973
+F_Grouped, not Touch, yaw, 15318,    0.973
+F_Mated, not Walk, closestfly_nose2ell_angle_30tomin30, 36832,     0.97
+F_Mated, Stop, absyaw, 22000,     0.97
+F_Singles, Stop, dell2nose, 32953,    0.967
+F_Singles, Aggregation, du_ctr, 3306,    0.966
+F_Grouped, Walk, closestfly_nose2ell_angle_min20to20, 73092,    0.963
+F_Mated, Walk, dnose2ell_angle_30tomin30, 36932,    0.961
+F_Mated, not Turn, velmag_ctr, 76588,    0.961
+F_Mated, all frames, phisideways, 119240,     0.96
+F_Mated, Touch, absphidiff_anglesub, 16512,     0.96
+F_Mated, all frames, corfrac_min, 119240,    0.959
+F_Grouped, Aggregation, ecc, 8301,    0.958
+F_Grouped, not Aggregation, veltoward_nose2ell, 8191,    0.955
+F_Grouped, Grooming, velmag, 64871,    0.954
+F_Singles, Aggregation, da, 3306,    0.953
+F_Singles, Aggregation, veltoward_anglesub, 3306,    0.952
+F_Mated, all frames, yaw, 119240,    0.951
+F_Grouped, Turn, anglefrom1to2_nose2ell, 83715,    0.948
+F_Grouped, Grooming, absdv_cor, 64871,    0.947
+F_Mated, Grooming, magveldiff_anglesub, 59670,    0.947
+F_Singles, Stop, ddcenter, 32953,    0.946
+F_Singles, Aggregation, du_tail, 3306,    0.945
+F_Singles, Stop, dnose2ell_angle_30tomin30, 32953,    0.944
+F_Singles, Touch, dphi, 18203,    0.943
+F_Singles, Aggregation, velmag, 3306,    0.943
+F_Mated, Turn, ddcenter, 76688,    0.941
+F_Mated, not Turn, velmag, 76588,    0.938
+F_Grouped, Grooming, db, 64871,    0.938
+F_Grouped, Grooming, du_cor, 64871,    0.938
+F_Singles, Turn, du_cor, 87637,    0.938
+F_Singles, Aggregation, dphi, 3306,    0.938
+F_Mated, Stop, corfrac_min, 22000,    0.936
+F_Singles, not Walk, closestfly_nose2ell_angle_30tomin30, 58104,    0.936
+F_Grouped, Grooming, dv_cor, 64871,    0.934
+F_Mated, all frames, arena_angle, 119240,    0.933
+F_Singles, not Aggregation, magveldiff_nose2ell, 3228,    0.932
+F_Singles, Jump, closestfly_ell2nose, 9444,    0.931
+F_Singles, not Walk, absyaw, 58104,     0.93
+F_Mated, all frames, phi, 119240,    0.929
+F_Grouped, Touch, dv_tail, 15428,    0.929
+F_Singles, Stop, dcenter, 32953,    0.927
+F_Singles, Aggregation, ddist2wall, 3306,    0.927
+F_Mated, not Walk, db, 36832,    0.923
+F_Singles, Stop, yaw, 32953,    0.923
+F_Mated, Turn, magveldiff_anglesub, 76688,    0.923
+F_Singles, Jump, dnose2ell_angle_min20to20, 9444,    0.923
+F_Singles, not Aggregation, veltoward_anglesub, 3228,    0.922
+F_Singles, not Turn, phi, 87537,    0.922
+F_Mated, Jump, closestfly_anglesub, 1955,     0.92
+F_Grouped, Grooming, ecc, 64871,     0.92
+F_Singles, Stop, dnose2tail, 32953,    0.918
+F_Singles, Grooming, closestfly_nose2ell_angle_min20to20, 54397,    0.918
+F_Grouped, Grooming, dnose2tail, 64871,    0.917
+F_Grouped, Grooming, dnose2ell, 64871,    0.917
+F_Singles, Aggregation, dv_cor, 3306,    0.916
+F_Mated, Stop, dt, 22000,    0.916
+F_Mated, Walk, dell2nose, 36932,    0.914
+F_Singles, Grooming, absanglefrom1to2_nose2ell, 54397,    0.914
+F_Singles, Aggregation, flipdv_cor, 3306,    0.914
+F_Singles, Stop, dnose2ell, 32953,    0.913
+F_Grouped, Aggregation, closestfly_nose2tail, 8301,    0.913
+F_Grouped, Grooming, yaw, 64871,    0.912
+F_Mated, all frames, danglesub, 119240,     0.91
+F_Singles, Jump, dnose2ell_angle_min30to30, 9444,    0.908
+F_Singles, Aggregation, anglesub, 3306,    0.908
+F_Mated, all frames, dphi, 119240,    0.905
+F_Grouped, Grooming, flipdv_cor, 64871,    0.904
+F_Singles, Aggregation, dv_ctr, 3306,    0.904
+F_Grouped, Grooming, dell2nose, 64871,    0.903
+F_Grouped, Grooming, dcenter, 64871,    0.902
+F_Grouped, not Aggregation, velmag_ctr, 8191,    0.899
+F_Singles, Aggregation, velmag_ctr, 3306,    0.894
+F_Singles, not Aggregation, veltoward_nose2ell, 3228,    0.893
+F_Grouped, Walk, magveldiff_nose2ell, 73092,    0.892
+F_Grouped, not Aggregation, velmag_nose, 8191,    0.891
+F_Grouped, Stop, corfrac_min, 47731,     0.89
+F_Singles, Grooming, anglefrom1to2_nose2ell, 54397,    0.887
+F_Mated, Turn, dangle2wall, 76688,    0.886
+F_Mated, Turn, magveldiff_nose2ell, 76688,    0.885
+F_Grouped, Grooming, dnose2ell_angle_30tomin30, 64871,    0.884
+F_Grouped, Touch, magveldiff_nose2ell, 15428,    0.884
+F_Singles, Walk, dt, 58204,    0.884
+F_Mated, Stop, yaw, 22000,    0.884
+F_Singles, Touch, b, 18203,    0.877
+F_Grouped, Aggregation, dv_tail, 8301,    0.876
+F_Singles, Aggregation, db, 3306,    0.876
+F_Mated, Walk, ddcenter, 36932,    0.875
+F_Singles, Aggregation, absdv_cor, 3306,    0.875
+F_Grouped, not Aggregation, veltoward_anglesub, 8191,    0.874
+F_Mated, Walk, closestfly_nose2ell_angle_min20to20, 36932,    0.873
+F_Mated, Touch, closestfly_anglesub, 16512,     0.87
+F_Grouped, not Aggregation, absdv_cor, 8191,    0.869
+F_Singles, Aggregation, velmag_nose, 3306,    0.869
+F_Grouped, Jump, dnose2ell_angle_min20to20, 4552,    0.868
+F_Grouped, not Grooming, phisideways, 64761,    0.867
+F_Grouped, Aggregation, ddcenter, 8301,    0.867
+F_Grouped, not Aggregation, velmag_tail, 8191,    0.866
+F_Singles, all frames, magveldiff_anglesub, 108694,    0.866
+F_Singles, all frames, magveldiff_nose2ell, 108694,    0.864
+F_Grouped, not Aggregation, velmag, 8191,    0.863
+F_Singles, all frames, x_mm, 108694,    0.862
+F_Singles, Grooming, closestfly_anglesub, 54397,    0.861
+F_Singles, all frames, xnose_mm, 108694,     0.86
+F_Mated, all frames, absyaw, 119240,    0.857
+F_Singles, all frames, ddcenter, 108694,    0.856
+F_Grouped, Jump, dnose2ell_angle_min30to30, 4552,    0.853
+F_Grouped, Aggregation, veltoward_nose2ell, 8301,    0.851
+F_Mated, not Aggregation, b_mm, 9939,     0.85
+F_Singles, Aggregation, velmag_tail, 3306,    0.849
+F_Grouped, Touch, magveldiff_anglesub, 15428,    0.848
+F_Singles, not Touch, dphi, 18103,    0.847
+F_Grouped, Touch, dcenter, 15428,    0.844
+F_Singles, Grooming, absyaw, 54397,    0.843
+F_Grouped, Turn, dv_ctr, 83715,    0.843
+F_Singles, not Walk, ynose_mm, 58104,    0.842
+F_Singles, all frames, arena_r, 108694,    0.842
+F_Singles, all frames, dist2wall, 108694,    0.842
+F_Mated, all frames, x, 119240,    0.841
+F_Singles, all frames, y_mm, 108694,    0.838
+F_Singles, all frames, dell2nose, 108694,    0.838
+F_Singles, not Aggregation, ddcenter, 3228,    0.836
+F_Mated, all frames, y, 119240,    0.835
+F_Grouped, Touch, closestfly_nose2ell_angle_30tomin30, 15428,    0.834
+F_Singles, all frames, ynose_mm, 108694,    0.834
+F_Singles, all frames, dcenter, 108694,    0.834
+F_Singles, all frames, dnose2ell_angle_30tomin30, 108694,    0.832
+F_Singles, all frames, dnose2ell, 108694,    0.831
+F_Grouped, Grooming, b_mm, 64871,    0.829
+F_Singles, all frames, dnose2tail, 108694,    0.829
+F_Grouped, Grooming, ddcenter, 64871,    0.826
+F_Grouped, Aggregation, theta, 8301,    0.826
+F_Grouped, Aggregation, theta_mm, 8301,    0.826
+F_Grouped, Aggregation, da, 8301,    0.824
+F_Grouped, Aggregation, magveldiff_nose2ell, 8301,    0.822
+F_Singles, not Aggregation, dv_tail, 3228,    0.822
+F_Mated, not Stop, phi, 21900,    0.821
+F_Mated, not Grooming, theta, 59570,    0.821
+F_Mated, not Grooming, theta_mm, 59570,    0.821
+F_Mated, not Grooming, dangle2wall, 59570,    0.818
+F_Grouped, not Grooming, dnose2ell_angle_min20to20, 64761,    0.818
+F_Grouped, not Grooming, dnose2ell_angle_min30to30, 64761,    0.817
+F_Singles, Turn, absthetadiff_anglesub, 87637,    0.816
+F_Singles, not Walk, xnose_mm, 58104,    0.816
+F_Mated, not Grooming, dtheta, 59570,    0.813
+F_Mated, Grooming, a_mm, 59670,    0.812
+F_Singles, Stop, signdtheta, 32953,    0.811
+F_Mated, Touch, db, 16512,    0.807
+F_Mated, not Walk, signdtheta, 36832,    0.805
+F_Mated, all frames, closestfly_anglesub, 119240,    0.804
+F_Grouped, Grooming, magveldiff_nose2ell, 64871,    0.801
+F_Singles, Stop, db, 32953,      0.8
+F_Singles, Turn, velmag, 87637,    0.798
+F_Grouped, Aggregation, du_tail, 8301,    0.797
+F_Mated, all frames, absthetadiff_anglesub, 119240,    0.796
+F_Grouped, Aggregation, ddist2wall, 8301,    0.794
+F_Grouped, Aggregation, du_ctr, 8301,    0.794
+F_Grouped, Turn, decc, 83715,    0.793
+F_Mated, all frames, anglesub, 119240,    0.793
+F_Grouped, not Aggregation, magveldiff_nose2ell, 8191,    0.792
+F_Grouped, Aggregation, magveldiff_anglesub, 8301,    0.792
+F_Singles, Jump, arena_angle, 9444,    0.791
+F_Mated, Aggregation, da, 10039,     0.79
+F_Singles, not Walk, dt, 58104,     0.79
+F_Singles, Stop, velmag_nose, 32953,    0.787
+F_Mated, Grooming, yaw, 59670,    0.784
+F_Grouped, Aggregation, closestfly_anglesub, 8301,    0.783
+F_Grouped, Grooming, magveldiff_anglesub, 64871,    0.782
+F_Grouped, Aggregation, veltoward_anglesub, 8301,    0.781
+F_Singles, not Jump, dt, 9344,    0.781
+F_Mated, Touch, arena_r, 16512,    0.781
+F_Mated, Touch, dist2wall, 16512,    0.781
+F_Grouped, Aggregation, closestfly_nose2ell_angle_30tomin30, 8301,     0.78
+F_Grouped, Stop, danglesub, 47731,     0.78
+F_Grouped, not Touch, db, 15318,    0.779
+F_Mated, Touch, b, 16512,    0.779
+F_Mated, Touch, timestamps, 16512,    0.779
+F_Grouped, Aggregation, dv_ctr, 8301,    0.777
+F_Grouped, Aggregation, velmag_ctr, 8301,    0.777
+F_Grouped, not Aggregation, du_ctr, 8191,    0.776
+F_Grouped, not Aggregation, ddcenter, 8191,    0.775
+F_Grouped, all frames, decc, 129632,    0.774
+F_Mated, Walk, magveldiff_nose2ell, 36932,    0.774
+F_Mated, all frames, corfrac_maj, 119240,    0.773
+F_Grouped, Aggregation, velmag, 8301,    0.771
+F_Mated, not Grooming, y, 59570,    0.771
+F_Mated, all frames, signdtheta, 119240,     0.77
+F_Grouped, Turn, db, 83715,    0.769
+F_Mated, not Aggregation, da, 9939,    0.768
+F_Grouped, Aggregation, velmag_tail, 8301,    0.768
+F_Singles, Stop, da, 32953,    0.767
+F_Mated, Jump, absthetadiff_anglesub, 1955,    0.766
+F_Grouped, not Aggregation, du_cor, 8191,    0.766
+F_Grouped, Walk, magveldiff_anglesub, 73092,    0.766
+F_Grouped, not Aggregation, magveldiff_anglesub, 8191,    0.764
+F_Grouped, Aggregation, du_cor, 8301,    0.762
+F_Grouped, Aggregation, absdv_cor, 8301,     0.76
+F_Grouped, Aggregation, dv_cor, 8301,    0.758
+F_Mated, Aggregation, db, 10039,    0.755
+F_Grouped, Touch, corfrac_maj, 15428,    0.753
+F_Singles, not Aggregation, ddist2wall, 3228,    0.752
+F_Grouped, Turn, anglefrom1to2_anglesub, 83715,    0.752
+F_Grouped, Grooming, darea, 64871,    0.751
+F_Mated, not Grooming, decc, 59570,    0.751
+F_Grouped, Stop, closestfly_nose2ell_angle_min20to20, 47731,     0.75
+F_Grouped, not Grooming, dcenter, 64761,    0.749
+F_Mated, all frames, dcenter, 119240,    0.749
+F_Grouped, not Grooming, dnose2ell, 64761,    0.748
+F_Grouped, Aggregation, velmag_nose, 8301,    0.748
+F_Grouped, not Grooming, dnose2tail, 64761,    0.748
+F_Singles, all frames, dv_tail, 108694,    0.743
+F_Mated, all frames, dnose2ell_angle_30tomin30, 119240,    0.743
+F_Mated, all frames, dell2nose, 119240,    0.743
+F_Singles, all frames, ddist2wall, 108694,    0.742
+F_Grouped, not Aggregation, dv_cor, 8191,     0.74
+F_Singles, Touch, absphidiff_nose2ell, 18203,     0.74
+F_Mated, all frames, y_mm, 119240,    0.739
+F_Singles, not Walk, dnose2tail, 58104,    0.739
+F_Singles, not Walk, dnose2ell, 58104,    0.738
+F_Mated, all frames, dnose2ell, 119240,    0.738
+F_Singles, all frames, velmag_ctr, 108694,    0.738
+F_Mated, all frames, absthetadiff_nose2ell, 119240,    0.737
+F_Mated, not Grooming, x, 59570,    0.737
+F_Grouped, not Aggregation, du_tail, 8191,    0.736
+F_Grouped, Grooming, area, 64871,    0.736
+F_Singles, all frames, velmag, 108694,    0.736
+F_Singles, all frames, du_cor, 108694,    0.735
+F_Mated, all frames, dnose2tail, 119240,    0.735
+F_Singles, all frames, velmag_tail, 108694,    0.735
+F_Grouped, Stop, closestfly_nose2ell_angle_min30to30, 47731,    0.734
+F_Mated, not Touch, veltoward_anglesub, 16412,    0.734
+F_Singles, all frames, du_ctr, 108694,    0.733
+F_Singles, not Aggregation, dtheta, 3228,    0.733
+F_Grouped, not Grooming, dell2nose, 64761,    0.732
+F_Singles, Grooming, veltoward_nose2ell, 54397,    0.732
+F_Singles, all frames, du_tail, 108694,     0.73
+F_Mated, all frames, decc, 119240,     0.73
+F_Mated, all frames, x_mm, 119240,     0.73
+F_Singles, all frames, veltoward_nose2ell, 108694,    0.729
+F_Mated, all frames, ynose_mm, 119240,    0.729
+F_Grouped, Turn, angle2wall, 83715,    0.727
+F_Mated, all frames, absanglefrom1to2_nose2ell, 119240,    0.727
+F_Singles, all frames, veltoward_anglesub, 108694,    0.727
+F_Mated, all frames, angleonclosestfly, 119240,    0.725
+F_Singles, all frames, velmag_nose, 108694,    0.724
+F_Grouped, not Grooming, dnose2ell_angle_30tomin30, 64761,    0.724
+F_Mated, Grooming, b_mm, 59670,    0.724
+F_Grouped, not Grooming, da, 64761,    0.723
+F_Mated, all frames, anglefrom1to2_nose2ell, 119240,     0.72
+F_Grouped, Walk, dnose2ell_angle_min20to20, 73092,     0.72
+F_Mated, all frames, xnose_mm, 119240,    0.719
+F_Grouped, not Aggregation, dv_ctr, 8191,    0.719
+F_Singles, all frames, dnose2ell_angle_min20to20, 108694,    0.718
+F_Singles, all frames, dnose2ell_angle_min30to30, 108694,    0.717
+F_Grouped, all frames, absphidiff_anglesub, 129632,    0.716
+F_Grouped, Touch, dnose2tail, 15428,    0.715
+F_Grouped, Walk, dnose2ell_angle_min30to30, 73092,    0.715
+F_Grouped, Turn, area, 83715,    0.714
+F_Grouped, Jump, y, 4552,    0.714
+F_Grouped, not Touch, da, 15318,    0.713
+F_Grouped, Aggregation, closestfly_nose2ell, 8301,    0.713
+F_Singles, Touch, a_mm, 18203,    0.712
+F_Singles, Touch, b_mm, 18203,    0.712
+F_Mated, not Walk, magveldiff_nose2ell, 36832,    0.711
+F_Mated, all frames, dist2wall, 119240,     0.71
+F_Mated, all frames, arena_r, 119240,     0.71
+F_Singles, all frames, arena_angle, 108694,    0.709
+F_Mated, all frames, absdtheta, 119240,    0.708
+F_Singles, Stop, darea, 32953,    0.706
+F_Grouped, Touch, closestfly_center, 15428,    0.706
+F_Mated, Touch, ecc, 16512,    0.705
+F_Singles, all frames, area, 108694,    0.703
+F_Mated, Jump, dnose2ell, 1955,    0.703
+F_Singles, Grooming, closestfly_nose2ell_angle_30tomin30, 54397,    0.702
+F_Grouped, all frames, absphidiff_nose2ell, 129632,    0.701
+F_Singles, Grooming, dphi, 54397,    0.699
+F_Grouped, not Aggregation, dv_tail, 8191,    0.699
+F_Singles, all frames, darea, 108694,    0.699
+F_Mated, not Touch, dv_tail, 16412,    0.697
+F_Singles, Grooming, absthetadiff_nose2ell, 54397,    0.697
+F_Mated, Jump, dnose2tail, 1955,    0.694
+F_Singles, all frames, dv_ctr, 108694,    0.692
+F_Singles, all frames, dv_cor, 108694,    0.692
+F_Mated, not Walk, magveldiff_anglesub, 36832,     0.69
+F_Grouped, Jump, angleonclosestfly, 4552,    0.689
+F_Mated, Jump, dell2nose, 1955,    0.688
+F_Singles, Grooming, veltoward_anglesub, 54397,    0.688
+F_Grouped, Aggregation, flipdv_cor, 8301,    0.686
+F_Singles, not Aggregation, dangle2wall, 3228,    0.686
+F_Singles, all frames, absdv_cor, 108694,    0.686
+F_Singles, all frames, flipdv_cor, 108694,    0.685
+F_Singles, Aggregation, phi, 3306,    0.684
+F_Grouped, Stop, anglesub, 47731,    0.683
+F_Grouped, Aggregation, closestfly_ell2nose, 8301,    0.683
+F_Grouped, all frames, ecc, 129632,    0.683
+F_Mated, all frames, dtheta, 119240,    0.682
+F_Mated, not Walk, arena_r, 36832,    0.681
+F_Mated, not Walk, dist2wall, 36832,    0.681
+F_Singles, not Touch, dt, 18103,     0.68
+F_Singles, all frames, b_mm, 108694,    0.678
+F_Singles, not Aggregation, da, 3228,    0.678
+F_Mated, all frames, dangle2wall, 119240,    0.678
+F_Mated, not Touch, du_ctr, 16412,    0.676
+F_Singles, Touch, arena_angle, 18203,    0.674
+F_Mated, not Jump, dt, 1857,    0.673
+F_Singles, all frames, x, 108694,    0.673
+F_Grouped, Touch, dnose2ell_angle_30tomin30, 15428,    0.671
+F_Singles, Grooming, absthetadiff_anglesub, 54397,    0.669
+F_Mated, not Walk, closestfly_nose2ell, 36832,    0.669
+F_Grouped, not Aggregation, flipdv_cor, 8191,    0.669
+F_Singles, Jump, anglesub, 9444,    0.666
+F_Singles, Grooming, dv_tail, 54397,    0.666
+F_Mated, not Touch, du_tail, 16412,    0.666
+F_Mated, Turn, dtheta, 76688,    0.666
+F_Mated, Turn, area, 76688,    0.666
+F_Mated, all frames, theta, 119240,    0.665
+F_Mated, all frames, theta_mm, 119240,    0.665
+F_Grouped, all frames, corfrac_min, 129632,    0.665
+F_Singles, Grooming, ddist2wall, 54397,    0.663
+F_Mated, Touch, phisideways, 16512,    0.661
+F_Grouped, not Grooming, veltoward_nose2ell, 64761,    0.661
+F_Mated, not Touch, b_mm, 16412,    0.658
+F_Singles, Grooming, du_tail, 54397,    0.658
+F_Mated, not Grooming, absdtheta, 59570,    0.657
+F_Grouped, Aggregation, dangle2wall, 8301,    0.657
+F_Singles, all frames, nflies_close, 108694,    0.656
+F_Mated, not Turn, ddcenter, 76588,    0.655
+F_Singles, not Aggregation, absdv_cor, 3228,    0.655
+F_Grouped, Aggregation, anglefrom1to2_nose2ell, 8301,    0.649
+F_Grouped, Aggregation, darea, 8301,    0.649
+F_Grouped, Aggregation, dtheta, 8301,    0.647
+F_Mated, not Walk, closestfly_ell2nose, 36832,    0.646
+F_Singles, all frames, db, 108694,    0.646
+F_Grouped, Touch, closestfly_ell2nose, 15428,    0.645
+F_Grouped, Touch, dnose2ell, 15428,    0.644
+F_Grouped, Aggregation, db, 8301,    0.643
+F_Grouped, Touch, closestfly_nose2ell, 15428,    0.642
+F_Singles, not Walk, dell2nose, 58104,    0.641
+F_Singles, Touch, area, 18203,    0.639
+F_Mated, all frames, closestfly_center, 119240,    0.639
+F_Singles, Grooming, du_ctr, 54397,    0.636
+F_Mated, all frames, ddcenter, 119240,    0.635
+F_Singles, Grooming, da, 54397,    0.633
+F_Mated, Grooming, darea, 59670,    0.633
+F_Singles, not Turn, dt, 87537,    0.631
+F_Mated, Turn, danglesub, 76688,    0.631
+F_Singles, Turn, a_mm, 87637,     0.63
+F_Mated, all frames, anglefrom1to2_anglesub, 119240,     0.63
+F_Singles, Grooming, dnose2ell_angle_min30to30, 54397,    0.629
+F_Singles, Grooming, dnose2ell_angle_min20to20, 54397,    0.629
+F_Grouped, not Grooming, flipdv_cor, 64761,    0.628
+F_Mated, not Touch, ddcenter, 16412,    0.627
+F_Mated, Jump, dcenter, 1955,    0.626
+F_Mated, not Walk, ddcenter, 36832,    0.626
+F_Grouped, Aggregation, closestfly_center, 8301,    0.626
+F_Grouped, not Walk, yaw, 72982,    0.625
+F_Mated, not Grooming, da, 59570,    0.623
+F_Mated, not Walk, closestfly_nose2tail, 36832,    0.621
+F_Singles, Grooming, velmag_tail, 54397,    0.621
+F_Mated, Walk, magveldiff_anglesub, 36932,     0.62
+F_Mated, all frames, closestfly_ell2nose, 119240,    0.619
+F_Mated, all frames, dnose2ell_angle_min20to20, 119240,    0.618
+F_Mated, all frames, dnose2ell_angle_min30to30, 119240,    0.617
+F_Mated, Jump, closestfly_nose2tail, 1955,    0.615
+F_Singles, all frames, y, 108694,    0.614
+F_Mated, not Touch, du_cor, 16412,    0.614
+F_Grouped, Touch, dell2nose, 15428,    0.614
+F_Grouped, Touch, signdtheta, 15428,    0.613
+F_Singles, Grooming, velmag_nose, 54397,    0.612
+F_Mated, not Touch, decc, 16412,    0.611
+F_Singles, Grooming, du_cor, 54397,    0.608
+F_Mated, not Aggregation, area, 9939,    0.607
+F_Singles, Grooming, velmag, 54397,    0.606
+F_Grouped, all frames, phisideways, 129632,    0.605
+F_Mated, all frames, closestfly_nose2tail, 119240,    0.604
+F_Singles, Grooming, velmag_ctr, 54397,    0.602
+F_Mated, all frames, closestfly_nose2ell_angle_30tomin30, 119240,    0.601
+F_Singles, not Aggregation, darea, 3228,    0.598
+F_Singles, Grooming, dv_ctr, 54397,    0.598
+F_Grouped, all frames, dphi, 129632,    0.593
+F_Mated, all frames, ecc, 119240,    0.592
+F_Grouped, not Aggregation, ddist2wall, 8191,    0.592
+F_Singles, not Walk, dcenter, 58104,     0.59
+F_Singles, all frames, angle2wall, 108694,    0.589
+F_Mated, all frames, angle2wall, 119240,    0.588
+F_Singles, not Grooming, phi, 54297,    0.587
+F_Grouped, Touch, closestfly_nose2tail, 15428,    0.584
+F_Mated, not Walk, yaw, 36832,    0.584
+F_Grouped, all frames, corfrac_maj, 129632,    0.583
+F_Grouped, Stop, dt, 47731,    0.583
+F_Mated, Touch, absthetadiff_anglesub, 16512,    0.582
+F_Singles, Grooming, closestfly_nose2ell, 54397,    0.581
+F_Grouped, not Grooming, du_cor, 64761,    0.581
+F_Grouped, Stop, angle2wall, 47731,     0.58
+F_Mated, not Touch, velmag_tail, 16412,    0.578
+F_Singles, all frames, closestfly_ell2nose, 108694,    0.578
+F_Grouped, all frames, yaw, 129632,    0.578
+F_Grouped, not Grooming, veltoward_anglesub, 64761,    0.577
+F_Mated, all frames, closestfly_nose2ell, 119240,    0.576
+F_Mated, not Turn, dt, 76588,    0.575
+F_Grouped, Touch, corfrac_min, 15428,    0.573
+F_Singles, Grooming, closestfly_nose2tail, 54397,    0.573
+F_Mated, all frames, magveldiff_nose2ell, 119240,    0.572
+F_Grouped, Stop, dphi, 47731,     0.57
+F_Grouped, not Grooming, db, 64761,    0.569
+F_Mated, all frames, magveldiff_anglesub, 119240,    0.568
+F_Mated, not Touch, dv_ctr, 16412,    0.568
+F_Grouped, not Grooming, dv_cor, 64761,    0.568
+F_Grouped, Touch, arena_angle, 15428,    0.568
+F_Grouped, not Grooming, ddist2wall, 64761,    0.567
+F_Mated, not Turn, magveldiff_nose2ell, 76588,    0.566
+F_Grouped, all frames, signdtheta, 129632,    0.566
+F_Singles, Grooming, absdv_cor, 54397,    0.564
+F_Grouped, not Grooming, velmag, 64761,    0.564
+F_Grouped, Aggregation, area, 8301,    0.564
+F_Mated, all frames, closestfly_nose2ell_angle_min30to30, 119240,    0.563
+F_Singles, all frames, a_mm, 108694,    0.563
+F_Singles, all frames, closestfly_center, 108694,    0.563
+F_Grouped, not Grooming, du_tail, 64761,    0.562
+F_Singles, Turn, theta, 87637,    0.562
+F_Singles, Turn, theta_mm, 87637,    0.562
+F_Grouped, not Grooming, du_ctr, 64761,    0.562
+F_Mated, not Turn, magveldiff_anglesub, 76588,    0.562
+F_Singles, Grooming, dv_cor, 54397,    0.561
+F_Grouped, Walk, anglesub, 73092,     0.56
+F_Mated, Walk, a, 36932,    0.559
+F_Singles, Aggregation, a_mm, 3306,    0.557
+F_Mated, all frames, closestfly_nose2ell_angle_min20to20, 119240,    0.557
+F_Grouped, all frames, absyaw, 129632,    0.556
+F_Singles, all frames, da, 108694,    0.555
+F_Grouped, not Grooming, dv_tail, 64761,    0.553
+F_Singles, all frames, closestfly_nose2ell_angle_min20to20, 108694,    0.552
+F_Grouped, all frames, phi, 129632,    0.551
+F_Singles, Grooming, yaw, 54397,     0.55
+F_Grouped, Walk, danglesub, 73092,     0.55
+F_Grouped, not Stop, dt, 47621,    0.548
+F_Singles, Grooming, flipdv_cor, 54397,    0.547
+F_Singles, not Stop, phi, 32853,    0.547
+F_Grouped, not Grooming, absdv_cor, 64761,    0.547
+F_Grouped, Turn, magveldiff_anglesub, 83715,    0.546
+F_Grouped, Aggregation, absdtheta, 8301,    0.546
+F_Singles, all frames, absthetadiff_nose2ell, 108694,    0.545
+F_Mated, not Touch, velmag_ctr, 16412,    0.544
+F_Singles, all frames, angleonclosestfly, 108694,    0.543
+F_Mated, not Turn, area, 76588,    0.541
+F_Singles, all frames, closestfly_nose2ell_angle_min30to30, 108694,    0.541
+F_Singles, not Aggregation, dv_ctr, 3228,    0.539
+F_Singles, not Stop, phisideways, 32853,    0.538
+F_Singles, all frames, absthetadiff_anglesub, 108694,    0.538
+F_Grouped, Turn, da, 83715,    0.538
+F_Mated, all frames, du_cor, 119240,    0.538
+F_Singles, all frames, closestfly_nose2ell, 108694,    0.538
+F_Singles, all frames, closestfly_nose2tail, 108694,    0.536
+F_Singles, Touch, ecc, 18203,    0.535
+F_Mated, all frames, flipdv_cor, 119240,    0.532
+F_Grouped, not Grooming, velmag_ctr, 64761,    0.532
+F_Mated, not Touch, da, 16412,    0.531
+F_Grouped, not Aggregation, da, 8191,     0.53
+F_Grouped, Aggregation, a_mm, 8301,    0.529
+F_Grouped, not Grooming, velmag_nose, 64761,    0.527
+F_Mated, Jump, dnose2ell_angle_30tomin30, 1955,    0.526
+F_Mated, Jump, closestfly_ell2nose, 1955,    0.526
+F_Mated, Jump, closestfly_nose2ell, 1955,    0.526
+F_Grouped, not Grooming, velmag_tail, 64761,    0.526
+F_Singles, all frames, closestfly_nose2ell_angle_30tomin30, 108694,    0.525
+F_Singles, Turn, anglefrom1to2_nose2ell, 87637,    0.525
+F_Mated, not Aggregation, ddcenter, 9939,    0.524
+F_Mated, not Touch, velmag_nose, 16412,    0.523
+F_Mated, all frames, velmag, 119240,    0.521
+F_Mated, not Touch, velmag, 16412,     0.52
+F_Grouped, Touch, absphidiff_anglesub, 15428,    0.518
+F_Singles, not Aggregation, dv_cor, 3228,    0.518
+F_Grouped, not Walk, dist2wall, 72982,    0.517
+F_Grouped, not Walk, arena_r, 72982,    0.517
+F_Singles, all frames, closestfly_anglesub, 108694,    0.517
+F_Grouped, Aggregation, a, 8301,    0.516
+F_Grouped, Stop, velmag_nose, 47731,    0.514
+F_Mated, not Walk, area, 36832,    0.514
+F_Mated, not Walk, closestfly_center, 36832,    0.513
+F_Grouped, Turn, darea, 83715,    0.511
+F_Singles, Grooming, closestfly_center, 54397,    0.505
+F_Grouped, not Grooming, dv_ctr, 64761,    0.505
+F_Grouped, Turn, velmag_nose, 83715,    0.505
+F_Grouped, not Stop, darea, 47621,    0.503
+F_Grouped, Walk, signdtheta, 73092,    0.502
+F_Mated, Jump, closestfly_center, 1955,    0.502
+F_Mated, Touch, b_mm, 16512,    0.502
+F_Grouped, Turn, ddcenter, 83715,    0.502
+F_Mated, Grooming, area, 59670,      0.5
+F_Singles, Touch, darea, 18203,      0.5
+F_Grouped, Walk, da, 73092,    0.499
+F_Mated, all frames, veltoward_nose2ell, 119240,    0.498
+F_Grouped, Turn, magveldiff_nose2ell, 83715,    0.497
+F_Singles, Grooming, closestfly_ell2nose, 54397,    0.495
+F_Singles, Stop, anglesub, 32953,    0.493
+F_Mated, Aggregation, signdtheta, 10039,    0.493
+F_Singles, Touch, dcenter, 18203,    0.492
+F_Mated, not Grooming, arena_angle, 59570,    0.491
+F_Mated, all frames, ddist2wall, 119240,    0.491
+F_Mated, all frames, du_ctr, 119240,    0.491
+F_Mated, all frames, dv_cor, 119240,     0.49
+F_Singles, all frames, absanglefrom1to2_nose2ell, 108694,    0.489
+F_Mated, all frames, velmag_ctr, 119240,    0.488
+F_Singles, Touch, a, 18203,    0.487
+F_Singles, Aggregation, b_mm, 3306,    0.487
+F_Grouped, not Walk, timestamps, 72982,    0.487
+F_Grouped, Touch, arena_r, 15428,    0.486
+F_Grouped, Touch, dist2wall, 15428,    0.486
+F_Singles, all frames, danglesub, 108694,    0.485
+F_Singles, Touch, phisideways, 18203,    0.485
+F_Grouped, not Grooming, nflies_close, 64761,    0.483
+F_Mated, not Touch, ddist2wall, 16412,    0.482
+F_Mated, all frames, dt, 119240,    0.482
+F_Singles, Turn, closestfly_anglesub, 87637,    0.481
+F_Singles, Aggregation, absphidiff_anglesub, 3306,     0.48
+F_Singles, not Walk, closestfly_nose2tail, 58104,    0.479
+F_Mated, not Walk, darea, 36832,    0.479
+F_Mated, Turn, darea, 76688,    0.478
+F_Grouped, Aggregation, absthetadiff_nose2ell, 8301,    0.477
+F_Grouped, Aggregation, absyaw, 8301,    0.476
+F_Grouped, Jump, x, 4552,    0.475
+F_Mated, Touch, a_mm, 16512,    0.474
+F_Singles, Touch, yaw, 18203,     0.47
+F_Mated, all frames, veltoward_anglesub, 119240,    0.469
+F_Singles, Aggregation, dt, 3306,    0.468
+F_Mated, all frames, du_tail, 119240,    0.468
+F_Grouped, not Grooming, phi, 64761,    0.466
+F_Mated, not Walk, dcenter, 36832,    0.465
+F_Mated, all frames, absdv_cor, 119240,    0.465
+F_Mated, Turn, velmag, 76688,    0.464
+F_Mated, Walk, corfrac_maj, 36932,    0.463
+F_Singles, Stop, dv_ctr, 32953,    0.462
+F_Mated, all frames, velmag_tail, 119240,    0.462
+F_Mated, Aggregation, darea, 10039,     0.46
+F_Singles, Grooming, angleonclosestfly, 54397,     0.46
+F_Mated, all frames, velmag_nose, 119240,    0.459
+F_Singles, Touch, db, 18203,    0.457
+F_Grouped, not Stop, phisideways, 47621,    0.457
+F_Grouped, all frames, area, 129632,    0.452
+F_Singles, all frames, anglesub, 108694,     0.45
+F_Mated, not Grooming, a_mm, 59570,    0.449
+F_Singles, all frames, anglefrom1to2_anglesub, 108694,    0.449
+F_Singles, Stop, decc, 32953,    0.448
+F_Grouped, not Aggregation, db, 8191,    0.445
+F_Mated, not Grooming, dt, 59570,    0.445
+F_Singles, Stop, dphi, 32953,    0.444
+F_Singles, not Walk, dphi, 58104,    0.443
+F_Mated, all frames, db, 119240,    0.442
+F_Mated, all frames, dv_tail, 119240,    0.442
+F_Mated, not Turn, darea, 76588,    0.439
+F_Grouped, not Stop, area, 47621,    0.438
+F_Singles, Touch, absyaw, 18203,    0.437
+F_Grouped, not Touch, dt, 15318,    0.434
+F_Singles, not Jump, dphi, 9344,    0.434
+F_Singles, Turn, b_mm, 87637,    0.432
+F_Grouped, Aggregation, absthetadiff_anglesub, 8301,    0.431
+F_Grouped, Aggregation, yaw, 8301,    0.429
+F_Singles, not Walk, closestfly_nose2ell, 58104,    0.427
+F_Mated, not Walk, dell2nose, 36832,    0.427
+F_Grouped, not Grooming, ddcenter, 64761,    0.425
+F_Grouped, Turn, dnose2ell_angle_min30to30, 83715,    0.424
+F_Singles, Touch, da, 18203,    0.423
+F_Grouped, Walk, db, 73092,    0.423
+F_Grouped, Touch, yaw, 15428,    0.422
+F_Grouped, Turn, dnose2ell_angle_min20to20, 83715,    0.417
+F_Mated, all frames, dv_ctr, 119240,    0.416
+F_Singles, not Walk, closestfly_ell2nose, 58104,    0.416
+F_Grouped, not Grooming, anglesub, 64761,    0.416
+F_Mated, not Grooming, ecc, 59570,    0.415
+F_Grouped, all frames, darea, 129632,    0.413
+F_Mated, not Touch, dv_cor, 16412,    0.412
+F_Mated, Turn, du_cor, 76688,    0.411
+F_Singles, all frames, anglefrom1to2_nose2ell, 108694,     0.41
+F_Mated, not Grooming, anglefrom1to2_anglesub, 59570,    0.407
+F_Singles, all frames, absdtheta, 108694,    0.406
+F_Mated, Touch, dphi, 16512,    0.406
+F_Grouped, Jump, anglesub, 4552,    0.403
+F_Grouped, not Walk, closestfly_nose2ell_angle_30tomin30, 72982,    0.401
+F_Mated, Turn, velmag_ctr, 76688,    0.401
+F_Mated, Grooming, dphi, 59670,      0.4
+F_Grouped, not Turn, absyaw, 83605,    0.399
+F_Mated, Stop, b_mm, 22000,    0.399
+F_Mated, not Touch, absdv_cor, 16412,    0.398
+F_Singles, not Jump, yaw, 9344,    0.394
+F_Mated, not Aggregation, dnose2ell_angle_min20to20, 9939,    0.393
+F_Singles, Stop, danglesub, 32953,    0.392
+F_Mated, Aggregation, angle2wall, 10039,    0.389
+F_Grouped, not Walk, phi, 72982,    0.388
+F_Singles, Stop, velmag_tail, 32953,    0.387
+F_Grouped, all frames, danglesub, 129632,    0.387
+F_Singles, Turn, darea, 87637,    0.385
+F_Mated, not Aggregation, dnose2ell_angle_min30to30, 9939,    0.383
+F_Singles, not Walk, yaw, 58104,    0.382
+F_Grouped, Turn, du_tail, 83715,     0.38
+F_Mated, all frames, b_mm, 119240,    0.378
+F_Singles, all frames, dangle2wall, 108694,    0.378
+F_Mated, Touch, angle2wall, 16512,    0.378
+F_Singles, Grooming, timestamps, 54397,    0.373
+F_Grouped, not Turn, yaw, 83605,    0.373
+F_Singles, not Walk, closestfly_center, 58104,    0.371
+F_Singles, all frames, dtheta, 108694,     0.37
+F_Grouped, Turn, ddist2wall, 83715,     0.37
+F_Grouped, not Grooming, a_mm, 64761,    0.369
+F_Mated, not Turn, dnose2tail, 76588,    0.368
+F_Grouped, Aggregation, angle2wall, 8301,    0.367
+F_Singles, Touch, dnose2tail, 18203,    0.367
+F_Mated, Turn, flipdv_cor, 76688,    0.366
+F_Mated, not Turn, dnose2ell, 76588,    0.366
+F_Singles, Stop, theta, 32953,    0.365
+F_Singles, Stop, theta_mm, 32953,    0.365
+F_Grouped, Touch, a_mm, 15428,    0.364
+F_Mated, not Touch, area, 16412,    0.363
+F_Mated, Grooming, nflies_close, 59670,    0.362
+F_Grouped, not Walk, dt, 72982,    0.362
+F_Grouped, Aggregation, b_mm, 8301,    0.361
+F_Singles, not Aggregation, flipdv_cor, 3228,    0.359
+F_Mated, not Turn, dnose2ell_angle_30tomin30, 76588,    0.355
+F_Singles, not Grooming, absyaw, 54297,    0.354
+F_Mated, all frames, a, 119240,    0.354
+F_Mated, not Aggregation, flipdv_cor, 9939,    0.353
+F_Singles, Aggregation, angle2wall, 3306,    0.348
+F_Singles, Grooming, db, 54397,    0.348
+F_Singles, Touch, phi, 18203,    0.347
+F_Grouped, all frames, a_mm, 129632,    0.347
+F_Grouped, Jump, nflies_close, 4552,    0.346
+F_Mated, not Turn, dell2nose, 76588,    0.345
+F_Grouped, Stop, phi, 47731,    0.344
+F_Mated, Grooming, absyaw, 59670,    0.341
+F_Mated, not Turn, dcenter, 76588,     0.34
+F_Grouped, Stop, dv_ctr, 47731,    0.339
+F_Mated, Touch, absdtheta, 16512,    0.337
+F_Singles, all frames, dt, 108694,    0.337
+F_Mated, not Touch, flipdv_cor, 16412,    0.336
+F_Mated, not Turn, arena_r, 76588,    0.335
+F_Mated, not Turn, dist2wall, 76588,    0.335
+F_Grouped, not Turn, dt, 83605,     0.33
+F_Mated, not Turn, y, 76588,    0.329
+F_Mated, Stop, flipdv_cor, 22000,    0.328
+F_Mated, not Walk, dnose2ell, 36832,    0.325
+F_Grouped, Jump, closestfly_ell2nose, 4552,    0.325
+F_Mated, not Walk, dnose2tail, 36832,    0.323
+F_Singles, all frames, phi, 108694,    0.323
+F_Singles, Turn, magveldiff_anglesub, 87637,    0.322
+F_Singles, all frames, theta, 108694,    0.321
+F_Singles, all frames, theta_mm, 108694,    0.321
+F_Grouped, Stop, absyaw, 47731,     0.32
+F_Grouped, Turn, velmag_tail, 83715,    0.319
+F_Singles, Aggregation, darea, 3306,    0.319
+F_Mated, Aggregation, b_mm, 10039,    0.318
+F_Mated, not Aggregation, du_cor, 9939,    0.318
+F_Mated, not Turn, x, 76588,    0.317
+F_Mated, Jump, angleonclosestfly, 1955,    0.317
+F_Grouped, not Touch, dphi, 15318,    0.316
+F_Singles, all frames, yaw, 108694,    0.316
+F_Grouped, not Grooming, danglesub, 64761,    0.316
+F_Grouped, all frames, theta, 129632,    0.313
+F_Grouped, all frames, theta_mm, 129632,    0.313
+F_Mated, Stop, dcenter, 22000,    0.312
+F_Mated, Walk, decc, 36932,    0.312
+F_Grouped, all frames, anglesub, 129632,    0.312
+F_Singles, Aggregation, absphidiff_nose2ell, 3306,    0.311
+F_Mated, not Grooming, dell2nose, 59570,    0.311
+F_Mated, not Turn, arena_angle, 76588,    0.311
+F_Singles, Turn, magveldiff_nose2ell, 87637,     0.31
+F_Mated, all frames, da, 119240,    0.309
+F_Grouped, Aggregation, absphidiff_nose2ell, 8301,    0.308
+F_Mated, Turn, veltoward_nose2ell, 76688,    0.307
+F_Mated, not Grooming, dcenter, 59570,    0.307
+F_Grouped, all frames, nflies_close, 129632,    0.305
+F_Grouped, Grooming, timestamps, 64871,    0.304
+F_Grouped, Touch, absphidiff_nose2ell, 15428,    0.304
+F_Mated, not Grooming, dnose2ell_angle_30tomin30, 59570,    0.303
+F_Grouped, Jump, dnose2ell_angle_30tomin30, 4552,    0.302
+F_Grouped, Aggregation, anglefrom1to2_anglesub, 8301,      0.3
+F_Singles, Turn, ddcenter, 87637,    0.299
+F_Grouped, Turn, absdv_cor, 83715,    0.298
+F_Grouped, Touch, timestamps, 15428,    0.296
+F_Grouped, Jump, closestfly_center, 4552,    0.295
+F_Grouped, Stop, a_mm, 47731,    0.295
+F_Singles, all frames, phisideways, 108694,    0.294
+F_Grouped, Touch, darea, 15428,    0.294
+F_Mated, not Grooming, closestfly_nose2ell_angle_min30to30, 59570,    0.293
+F_Singles, all frames, a, 108694,    0.292
+F_Mated, Turn, dv_cor, 76688,    0.291
+F_Singles, not Turn, yaw, 87537,    0.291
+F_Grouped, Stop, b_mm, 47731,     0.29
+F_Mated, not Grooming, dv_tail, 59570,     0.29
+F_Singles, Turn, danglesub, 87637,     0.29
+F_Mated, Aggregation, a, 10039,     0.29
+F_Mated, Stop, velmag_nose, 22000,    0.288
+F_Mated, not Grooming, closestfly_nose2ell_angle_min20to20, 59570,    0.286
+F_Grouped, not Grooming, b_mm, 64761,    0.285
+F_Mated, not Aggregation, ddist2wall, 9939,    0.284
+F_Mated, not Grooming, dv_ctr, 59570,    0.284
+F_Mated, Stop, dv_cor, 22000,    0.283
+F_Grouped, all frames, dtheta, 129632,    0.283
+F_Mated, Turn, du_ctr, 76688,    0.282
+F_Grouped, all frames, anglefrom1to2_nose2ell, 129632,    0.282
+F_Grouped, Aggregation, angleonclosestfly, 8301,    0.281
+F_Mated, Stop, veltoward_nose2ell, 22000,    0.281
+F_Singles, Jump, dnose2tail, 9444,     0.28
+F_Mated, Jump, x, 1955,     0.28
+F_Mated, Touch, veltoward_anglesub, 16512,     0.28
+F_Grouped, Stop, dcenter, 47731,     0.28
+F_Mated, not Grooming, dnose2ell, 59570,    0.279
+F_Mated, not Grooming, ynose_mm, 59570,    0.278
+F_Singles, Jump, dnose2ell, 9444,    0.278
+F_Mated, Aggregation, dt, 10039,    0.277
+F_Grouped, Turn, veltoward_anglesub, 83715,    0.276
+F_Mated, Walk, b_mm, 36932,    0.275
+F_Grouped, all frames, absdtheta, 129632,    0.275
+F_Mated, not Grooming, dnose2tail, 59570,    0.274
+F_Grouped, all frames, dv_tail, 129632,    0.274
+F_Mated, Stop, dell2nose, 22000,    0.274
+F_Grouped, not Turn, dphi, 83605,    0.274
+F_Mated, not Grooming, angleonclosestfly, 59570,    0.274
+F_Grouped, all frames, dangle2wall, 129632,    0.273
+F_Grouped, not Grooming, magveldiff_nose2ell, 64761,    0.273
+F_Grouped, all frames, b_mm, 129632,    0.273
+F_Grouped, Turn, dv_tail, 83715,    0.271
+F_Grouped, all frames, magveldiff_anglesub, 129632,    0.271
+F_Grouped, Stop, dell2nose, 47731,     0.27
+F_Singles, Grooming, a_mm, 54397,     0.27
+F_Mated, Stop, dnose2ell, 22000,    0.269
+F_Singles, Touch, dnose2ell_angle_30tomin30, 18203,    0.266
+F_Mated, Aggregation, area, 10039,    0.265
+F_Grouped, all frames, magveldiff_nose2ell, 129632,    0.265
+F_Mated, Stop, dnose2tail, 22000,    0.265
+F_Grouped, Stop, dnose2tail, 47731,    0.264
+F_Grouped, Stop, dnose2ell, 47731,    0.264
+F_Grouped, Stop, area, 47731,    0.264
+F_Mated, Stop, velmag, 22000,    0.263
+F_Grouped, Walk, b_mm, 73092,    0.262
+F_Mated, not Grooming, y_mm, 59570,    0.261
+F_Grouped, all frames, closestfly_anglesub, 129632,    0.261
+F_Grouped, Stop, da, 47731,     0.26
+F_Mated, not Aggregation, dv_cor, 9939,     0.26
+F_Mated, Aggregation, ecc, 10039,    0.259
+F_Grouped, not Walk, closestfly_ell2nose, 72982,    0.257
+F_Mated, Stop, dnose2ell_angle_30tomin30, 22000,    0.257
+F_Grouped, Touch, x_mm, 15428,    0.255
+F_Mated, not Grooming, xnose_mm, 59570,    0.254
+F_Grouped, Walk, area, 73092,    0.254
+F_Mated, Stop, corfrac_maj, 22000,    0.253
+F_Singles, all frames, dphi, 108694,    0.253
+F_Mated, Stop, da, 22000,    0.252
+F_Grouped, all frames, dv_ctr, 129632,    0.251
+F_Grouped, Stop, darea, 47731,    0.251
+F_Grouped, Aggregation, absphidiff_anglesub, 8301,     0.25
+F_Mated, Jump, ynose_mm, 1955,    0.249
+F_Grouped, all frames, velmag_tail, 129632,    0.248
+F_Grouped, Jump, closestfly_nose2tail, 4552,    0.248
+F_Singles, Touch, dnose2ell, 18203,    0.248
+F_Singles, all frames, absyaw, 108694,    0.245
+F_Mated, all frames, darea, 119240,    0.245
+F_Grouped, not Walk, closestfly_nose2tail, 72982,    0.244
+F_Mated, not Aggregation, velmag, 9939,    0.243
+F_Grouped, Touch, absyaw, 15428,    0.242
+F_Grouped, not Grooming, yaw, 64761,    0.242
+F_Mated, Touch, anglefrom1to2_nose2ell, 16512,    0.242
+F_Mated, Grooming, phisideways, 59670,    0.242
+F_Mated, all frames, b, 119240,    0.242
+F_Grouped, Aggregation, closestfly_nose2ell_angle_min30to30, 8301,    0.242
+F_Grouped, not Grooming, magveldiff_anglesub, 64761,    0.241
+F_Grouped, all frames, velmag_nose, 129632,    0.241
+F_Singles, Stop, du_tail, 32953,     0.24
+F_Singles, Grooming, dnose2tail, 54397,    0.239
+F_Grouped, all frames, du_tail, 129632,    0.239
+F_Singles, Grooming, dnose2ell, 54397,    0.239
+F_Grouped, not Walk, darea, 72982,    0.238
+F_Mated, Turn, dv_tail, 76688,    0.236
+F_Grouped, Jump, y_mm, 4552,    0.236
+F_Grouped, not Turn, area, 83605,    0.235
+F_Grouped, all frames, absthetadiff_anglesub, 129632,    0.235
+F_Mated, not Aggregation, darea, 9939,    0.234
+F_Grouped, all frames, veltoward_anglesub, 129632,    0.234
+F_Mated, not Walk, dphi, 36832,    0.234
+F_Grouped, all frames, b, 129632,    0.232
+F_Mated, not Grooming, x_mm, 59570,    0.232
+F_Mated, Stop, du_cor, 22000,    0.231
+F_Mated, not Grooming, velmag_nose, 59570,    0.231
+F_Singles, Aggregation, timestamps, 3306,     0.23
+F_Mated, not Grooming, du_tail, 59570,     0.23
+F_Singles, not Grooming, anglesub, 54297,    0.229
+F_Grouped, all frames, ddist2wall, 129632,    0.229
+F_Mated, not Touch, magveldiff_nose2ell, 16412,    0.228
+F_Singles, all frames, corfrac_min, 108694,    0.228
+F_Mated, Turn, velmag_tail, 76688,    0.227
+F_Grouped, all frames, velmag_ctr, 129632,    0.227
+F_Grouped, not Turn, darea, 83605,    0.225
+F_Mated, Stop, ddcenter, 22000,    0.224
+F_Mated, Jump, arena_angle, 1955,    0.224
+F_Grouped, all frames, da, 129632,    0.224
+F_Mated, Touch, veltoward_nose2ell, 16512,    0.221
+F_Mated, Stop, signdtheta, 22000,    0.221
+F_Mated, not Grooming, velmag_tail, 59570,    0.221
+F_Mated, Stop, decc, 22000,    0.221
+F_Singles, Touch, dnose2ell_angle_min30to30, 18203,    0.221
+F_Grouped, all frames, du_ctr, 129632,    0.221
+F_Singles, Touch, dell2nose, 18203,     0.22
+F_Mated, Touch, phi, 16512,     0.22
+F_Mated, Walk, b, 36932,     0.22
+F_Mated, not Grooming, ddcenter, 59570,    0.219
+F_Mated, not Grooming, veltoward_anglesub, 59570,    0.218
+F_Grouped, Aggregation, closestfly_nose2ell_angle_min20to20, 8301,    0.217
+F_Mated, not Grooming, absdv_cor, 59570,    0.217
+F_Singles, Stop, ddist2wall, 32953,    0.217
+F_Singles, Grooming, dcenter, 54397,    0.216
+F_Grouped, all frames, absanglefrom1to2_nose2ell, 129632,    0.216
+F_Singles, all frames, absphidiff_nose2ell, 108694,    0.215
+F_Mated, Grooming, phi, 59670,    0.213
+F_Grouped, Touch, area, 15428,    0.213
+F_Singles, Grooming, dnose2ell_angle_30tomin30, 54397,    0.212
+F_Grouped, not Walk, nflies_close, 72982,    0.212
+F_Singles, Touch, ynose_mm, 18203,    0.211
+F_Singles, Touch, signdtheta, 18203,    0.211
+F_Grouped, Stop, absphidiff_anglesub, 47731,    0.211
+F_Grouped, all frames, veltoward_nose2ell, 129632,     0.21
+F_Grouped, Stop, dnose2ell_angle_30tomin30, 47731,    0.208
+F_Mated, Aggregation, a_mm, 10039,    0.207
+F_Mated, Turn, ddist2wall, 76688,    0.207
+F_Mated, not Grooming, arena_r, 59570,    0.207
+F_Mated, not Grooming, dist2wall, 59570,    0.207
+F_Singles, all frames, absphidiff_anglesub, 108694,    0.207
+F_Grouped, Touch, dnose2ell_angle_min20to20, 15428,    0.206
+F_Grouped, Stop, signdtheta, 47731,    0.206
+F_Grouped, not Touch, area, 15318,    0.206
+F_Grouped, Touch, y_mm, 15428,    0.206
+F_Mated, not Stop, dt, 21900,    0.206
+F_Grouped, Touch, xnose_mm, 15428,    0.206
+F_Mated, all frames, area, 119240,    0.206
+F_Mated, not Grooming, closestfly_center, 59570,    0.204
+F_Grouped, all frames, arena_angle, 129632,    0.204
+F_Grouped, not Jump, dphi, 4442,    0.203
+F_Singles, not Grooming, danglesub, 54297,    0.203
+F_Mated, Stop, veltoward_anglesub, 22000,    0.202
+F_Mated, Touch, absdv_cor, 16512,    0.201
+F_Grouped, all frames, ddcenter, 129632,    0.201
+F_Grouped, not Walk, closestfly_nose2ell, 72982,    0.201
+F_Mated, Turn, veltoward_anglesub, 76688,    0.201
+F_Grouped, all frames, y, 129632,    0.201
+F_Grouped, all frames, absdv_cor, 129632,    0.201
+F_Singles, not Turn, dphi, 87537,      0.2
+F_Mated, Touch, absyaw, 16512,      0.2
+F_Singles, Grooming, dell2nose, 54397,    0.199
+F_Singles, Jump, x, 9444,    0.199
+F_Mated, not Aggregation, veltoward_nose2ell, 9939,    0.198
+F_Mated, Touch, velmag_nose, 16512,    0.197
+F_Singles, all frames, timestamps, 108694,    0.196
+F_Mated, not Aggregation, magveldiff_anglesub, 9939,    0.196
+F_Mated, not Grooming, veltoward_nose2ell, 59570,    0.196
+F_Grouped, all frames, velmag, 129632,    0.196
+F_Grouped, not Stop, timestamps, 47621,    0.195
+F_Singles, not Grooming, dphi, 54297,    0.195
+F_Grouped, Turn, du_ctr, 83715,    0.195
+F_Grouped, not Walk, absyaw, 72982,    0.194
+F_Singles, not Aggregation, db, 3228,    0.193
+F_Grouped, Jump, dnose2tail, 4552,    0.193
+F_Grouped, Jump, dnose2ell, 4552,    0.193
+F_Mated, not Stop, timestamps, 21900,    0.192
+F_Mated, not Grooming, absthetadiff_anglesub, 59570,    0.191
+F_Grouped, Aggregation, phisideways, 8301,    0.191
+F_Singles, not Walk, dist2wall, 58104,     0.19
+F_Singles, not Walk, arena_r, 58104,     0.19
+F_Mated, not Grooming, magveldiff_anglesub, 59570,    0.189
+F_Grouped, not Walk, dcenter, 72982,    0.188
+F_Mated, Turn, du_tail, 76688,    0.186
+F_Grouped, not Walk, closestfly_center, 72982,    0.186
+F_Grouped, all frames, db, 129632,    0.185
+F_Mated, Touch, velmag_tail, 16512,    0.185
+F_Singles, Stop, velmag_ctr, 32953,    0.185
+F_Mated, Walk, da, 36932,    0.185
+F_Mated, not Aggregation, db, 9939,    0.184
+F_Mated, not Walk, dnose2ell_angle_30tomin30, 36832,    0.184
+F_Mated, Stop, dv_tail, 22000,    0.184
+F_Grouped, all frames, dv_cor, 129632,    0.183
+F_Mated, not Aggregation, dnose2ell_angle_30tomin30, 9939,    0.183
+F_Grouped, all frames, timestamps, 129632,    0.183
+F_Singles, not Turn, absyaw, 87537,    0.183
+F_Mated, all frames, a_mm, 119240,    0.182
+F_Mated, not Grooming, db, 59570,     0.18
+F_Grouped, all frames, du_cor, 129632,     0.18
+F_Mated, Stop, absdv_cor, 22000,    0.179
+F_Mated, not Aggregation, absdtheta, 9939,    0.179
+F_Singles, Jump, ynose_mm, 9444,    0.177
+F_Mated, Touch, magveldiff_anglesub, 16512,    0.176
+F_Grouped, Aggregation, dt, 8301,    0.175
+F_Grouped, all frames, absthetadiff_nose2ell, 129632,    0.175
+F_Grouped, Stop, db, 47731,    0.174
+F_Grouped, Aggregation, decc, 8301,    0.173
+F_Singles, Touch, dnose2ell_angle_min20to20, 18203,    0.173
+F_Mated, not Grooming, du_ctr, 59570,    0.173
+F_Singles, Grooming, area, 54397,    0.168
+F_Grouped, not Grooming, area, 64761,    0.168
+F_Singles, Jump, dell2nose, 9444,    0.168
+F_Mated, not Grooming, closestfly_ell2nose, 59570,    0.168
+F_Mated, not Aggregation, absdv_cor, 9939,    0.167
+F_Mated, not Grooming, dv_cor, 59570,    0.167
+F_Grouped, Aggregation, b, 8301,    0.167
+F_Singles, Touch, y_mm, 18203,    0.166
+F_Mated, Touch, area, 16512,    0.166
+F_Mated, not Aggregation, du_ctr, 9939,    0.166
+F_Grouped, all frames, angleonclosestfly, 129632,    0.165
+F_Grouped, Touch, dnose2ell_angle_min30to30, 15428,    0.164
+F_Grouped, all frames, anglefrom1to2_anglesub, 129632,    0.164
+F_Grouped, not Walk, dell2nose, 72982,    0.163
+F_Mated, not Grooming, velmag_ctr, 59570,    0.162
+F_Grouped, Stop, ddist2wall, 47731,    0.162
+F_Mated, not Aggregation, magveldiff_nose2ell, 9939,    0.162
+F_Mated, Turn, dv_ctr, 76688,    0.161
+F_Mated, not Grooming, magveldiff_nose2ell, 59570,     0.16
+F_Mated, Touch, velmag_ctr, 16512,     0.16
+F_Mated, not Grooming, ddist2wall, 59570,    0.159
+F_Singles, Jump, x_mm, 9444,    0.159
+F_Singles, all frames, ecc, 108694,    0.158
+F_Grouped, Walk, darea, 73092,    0.158
+F_Mated, Jump, y_mm, 1955,    0.157
+F_Mated, Touch, dtheta, 16512,    0.157
+F_Grouped, Aggregation, absanglefrom1to2_nose2ell, 8301,    0.156
+F_Mated, Touch, dangle2wall, 16512,    0.155
+F_Grouped, Touch, phi, 15428,    0.155
+F_Mated, Stop, area, 22000,    0.154
+F_Grouped, all frames, x, 129632,    0.153
+F_Mated, not Grooming, absanglefrom1to2_nose2ell, 59570,    0.152
+F_Grouped, Touch, ynose_mm, 15428,    0.151
+F_Singles, Aggregation, area, 3306,     0.15
+F_Singles, Jump, dcenter, 9444,     0.15
+F_Singles, Touch, xnose_mm, 18203,     0.15
+F_Grouped, not Walk, dnose2ell_angle_30tomin30, 72982,    0.149
+F_Singles, all frames, signdtheta, 108694,    0.148
+F_Grouped, Touch, b_mm, 15428,    0.148
+F_Mated, Grooming, danglesub, 59670,    0.148
+F_Singles, Stop, dv_tail, 32953,    0.146
+F_Mated, not Grooming, darea, 59570,    0.144
+F_Grouped, Stop, du_tail, 47731,    0.143
+F_Singles, Stop, angle2wall, 32953,    0.142
+F_Mated, Touch, dv_ctr, 16512,    0.142
+F_Grouped, Turn, danglesub, 83715,    0.141
+F_Grouped, all frames, flipdv_cor, 129632,    0.139
+F_Mated, Grooming, anglesub, 59670,    0.139
+F_Mated, not Touch, db, 16412,    0.137
+F_Mated, Touch, theta, 16512,    0.136
+F_Mated, Touch, theta_mm, 16512,    0.136
+F_Grouped, not Aggregation, area, 8191,    0.136
+F_Mated, Touch, da, 16512,    0.133
+F_Grouped, not Grooming, absyaw, 64761,    0.133
+F_Mated, Stop, dphi, 22000,    0.133
+F_Mated, Turn, absdv_cor, 76688,    0.133
+F_Grouped, Turn, dv_cor, 83715,    0.132
+F_Grouped, all frames, dt, 129632,    0.132
+F_Mated, not Touch, magveldiff_anglesub, 16412,    0.132
+F_Singles, all frames, corfrac_maj, 108694,    0.132
+F_Mated, Stop, velmag_ctr, 22000,    0.131
+F_Singles, Stop, du_ctr, 32953,     0.13
+F_Singles, Jump, dnose2ell_angle_30tomin30, 9444,    0.128
+F_Grouped, all frames, xnose_mm, 129632,    0.128
+F_Mated, not Touch, darea, 16412,    0.128
+F_Grouped, Touch, phisideways, 15428,    0.128
+F_Grouped, Stop, veltoward_nose2ell, 47731,    0.125
+F_Grouped, Stop, velmag_tail, 47731,    0.125
+F_Grouped, Stop, ddcenter, 47731,    0.124
+F_Mated, not Aggregation, dv_ctr, 9939,    0.124
+F_Singles, all frames, decc, 108694,    0.122
+F_Mated, Touch, ddist2wall, 16512,    0.121
+F_Mated, Jump, xnose_mm, 1955,    0.121
+F_Grouped, all frames, x_mm, 129632,     0.12
+F_Mated, Turn, dnose2ell_angle_min20to20, 76688,     0.12
+F_Grouped, all frames, dist2wall, 129632,     0.12
+F_Grouped, all frames, arena_r, 129632,     0.12
+F_Singles, Stop, absdv_cor, 32953,     0.12
+F_Grouped, not Aggregation, darea, 8191,    0.119
+F_Mated, not Aggregation, dv_tail, 9939,    0.117
+F_Mated, Stop, db, 22000,    0.117
+F_Singles, Grooming, ddcenter, 54397,    0.115
+F_Mated, Stop, du_ctr, 22000,    0.115
+F_Mated, Walk, area, 36932,    0.113
+F_Mated, Turn, dnose2ell_angle_min30to30, 76688,    0.113
+F_Mated, not Aggregation, du_tail, 9939,    0.112
+F_Singles, Turn, angle2wall, 87637,    0.111
+F_Grouped, Turn, veltoward_nose2ell, 83715,    0.111
+F_Mated, not Grooming, closestfly_anglesub, 59570,     0.11
+F_Mated, not Aggregation, veltoward_anglesub, 9939,    0.108
+F_Grouped, Stop, magveldiff_nose2ell, 47731,    0.108
+F_Mated, not Grooming, velmag, 59570,    0.107
+F_Grouped, Aggregation, dphi, 8301,    0.107
+F_Grouped, Aggregation, phi, 8301,    0.106
+F_Grouped, not Walk, area, 72982,    0.106
+F_Grouped, Stop, du_ctr, 47731,    0.105
+F_Grouped, Turn, velmag, 83715,    0.104
+F_Mated, Stop, ddist2wall, 22000,    0.104
+F_Singles, not Walk, nflies_close, 58104,    0.104
+F_Mated, Walk, db, 36932,    0.103
+F_Grouped, not Walk, dnose2tail, 72982,    0.103
+F_Grouped, not Walk, dnose2ell, 72982,    0.102
+F_Mated, Aggregation, corfrac_min, 10039,    0.101
+F_Mated, Turn, velmag_nose, 76688,      0.1
+F_Mated, Touch, dv_cor, 16512,   0.0997
+F_Mated, not Grooming, flipdv_cor, 59570,   0.0987
+F_Mated, Walk, a_mm, 36932,   0.0987
+F_Mated, not Aggregation, dcenter, 9939,   0.0982
+F_Mated, Stop, magveldiff_nose2ell, 22000,   0.0973
+F_Mated, not Grooming, anglefrom1to2_nose2ell, 59570,   0.0973
+F_Grouped, Stop, magveldiff_anglesub, 47731,   0.0967
+F_Mated, not Grooming, closestfly_nose2tail, 59570,   0.0952
+F_Grouped, all frames, ynose_mm, 129632,   0.0951
+F_Mated, Touch, darea, 16512,   0.0949
+F_Mated, Jump, y, 1955,   0.0947
+F_Mated, Stop, magveldiff_anglesub, 22000,   0.0945
+F_Singles, Stop, flipdv_cor, 32953,   0.0929
+F_Singles, Aggregation, phisideways, 3306,   0.0929
+F_Singles, not Aggregation, decc, 3228,    0.092
+F_Grouped, all frames, dnose2ell_angle_min20to20, 129632,   0.0912
+F_Grouped, all frames, dnose2ell_angle_min30to30, 129632,    0.091
+F_Mated, Jump, dnose2ell_angle_min30to30, 1955,    0.091
+F_Singles, Touch, decc, 18203,   0.0901
+F_Grouped, all frames, y_mm, 129632,   0.0898
+F_Mated, not Grooming, dnose2ell_angle_min30to30, 59570,   0.0897
+F_Mated, not Aggregation, velmag_ctr, 9939,   0.0896
+F_Mated, not Grooming, area, 59570,   0.0893
+F_Grouped, not Grooming, dphi, 64761,   0.0886
+F_Grouped, Walk, a_mm, 73092,   0.0881
+F_Grouped, Stop, flipdv_cor, 47731,   0.0878
+F_Mated, not Grooming, dnose2ell_angle_min20to20, 59570,   0.0872
+F_Grouped, all frames, dell2nose, 129632,   0.0863
+F_Singles, Touch, x_mm, 18203,   0.0858
+F_Grouped, all frames, dnose2tail, 129632,   0.0857
+F_Grouped, Touch, db, 15428,   0.0854
+F_Grouped, Stop, closestfly_nose2tail, 47731,   0.0851
+F_Grouped, all frames, dnose2ell, 129632,   0.0848
+F_Singles, Jump, y, 9444,   0.0833
+F_Mated, Touch, velmag, 16512,   0.0831
+F_Mated, Jump, dnose2ell_angle_min20to20, 1955,    0.083
+F_Grouped, Stop, yaw, 47731,   0.0829
+F_Grouped, Stop, closestfly_nose2ell, 47731,   0.0827
+F_Grouped, Jump, dell2nose, 4552,   0.0811
+F_Singles, not Grooming, yaw, 54297,    0.081
+F_Singles, Stop, veltoward_nose2ell, 32953,   0.0808
+F_Grouped, all frames, dnose2ell_angle_30tomin30, 129632,   0.0807
+F_Mated, Touch, flipdv_cor, 16512,   0.0803
+F_Grouped, Jump, x_mm, 4552,   0.0792
+F_Grouped, Touch, da, 15428,   0.0791
+F_Grouped, all frames, dcenter, 129632,   0.0773
+F_Mated, Touch, du_ctr, 16512,   0.0751
+F_Mated, Touch, du_tail, 16512,   0.0747
+F_Grouped, not Grooming, darea, 64761,   0.0744
+F_Mated, Touch, absthetadiff_nose2ell, 16512,   0.0744
+F_Grouped, Stop, absphidiff_nose2ell, 47731,   0.0735
+F_Singles, Touch, y, 18203,   0.0734
+F_Grouped, Touch, x, 15428,   0.0723
+F_Grouped, Stop, closestfly_ell2nose, 47731,   0.0719
+F_Grouped, Stop, dv_tail, 47731,   0.0718
+F_Mated, Touch, magveldiff_nose2ell, 16512,   0.0709
+F_Grouped, Stop, nflies_close, 47731,   0.0706
+F_Mated, not Aggregation, dtheta, 9939,   0.0699
+F_Grouped, Stop, dv_cor, 47731,   0.0691
+F_Singles, Stop, nflies_close, 32953,    0.069
+F_Grouped, all frames, closestfly_center, 129632,    0.069
+F_Grouped, all frames, closestfly_nose2ell_angle_30tomin30, 129632,   0.0687
+F_Singles, Touch, x, 18203,   0.0679
+F_Mated, not Grooming, du_cor, 59570,   0.0673
+F_Mated, not Grooming, absthetadiff_nose2ell, 59570,   0.0648
+F_Mated, Stop, darea, 22000,   0.0646
+F_Grouped, Stop, velmag, 47731,   0.0639
+F_Grouped, Jump, dcenter, 4552,   0.0633
+F_Grouped, not Grooming, timestamps, 64761,   0.0619
+F_Grouped, all frames, closestfly_nose2tail, 129632,   0.0614
+F_Grouped, not Touch, darea, 15318,   0.0602
+F_Mated, not Aggregation, dnose2ell, 9939,   0.0588
+F_Singles, Grooming, magveldiff_anglesub, 54397,    0.057
+F_Grouped, all frames, a, 129632,   0.0563
+F_Grouped, Jump, xnose_mm, 4552,   0.0557
+F_Mated, Stop, dv_ctr, 22000,   0.0552
+F_Mated, not Grooming, closestfly_nose2ell, 59570,   0.0543
+F_Grouped, Turn, velmag_ctr, 83715,   0.0522
+F_Grouped, Jump, ynose_mm, 4552,   0.0515
+F_Mated, not Aggregation, dangle2wall, 9939,   0.0497
+F_Grouped, Stop, closestfly_nose2ell_angle_30tomin30, 47731,   0.0494
+F_Mated, not Aggregation, dell2nose, 9939,   0.0493
+F_Singles, Turn, da, 87637,   0.0485
+F_Singles, Turn, db, 87637,    0.047
+F_Singles, not Grooming, nflies_close, 54297,    0.046
+F_Grouped, Turn, theta, 83715,   0.0459
+F_Grouped, Turn, theta_mm, 83715,   0.0459
+F_Singles, Stop, du_cor, 32953,   0.0458
+F_Singles, Jump, y_mm, 9444,   0.0455
+F_Singles, Stop, dt, 32953,    0.045
+F_Mated, Jump, x_mm, 1955,    0.044
+F_Grouped, Turn, flipdv_cor, 83715,   0.0438
+F_Mated, not Aggregation, velmag_nose, 9939,   0.0434
+F_Singles, Jump, closestfly_nose2ell_angle_30tomin30, 9444,   0.0426
+F_Mated, not Aggregation, dnose2tail, 9939,   0.0425
+F_Singles, Turn, area, 87637,   0.0418
+F_Singles, Stop, veltoward_anglesub, 32953,   0.0409
+F_Grouped, Stop, velmag_ctr, 47731,   0.0409
+F_Grouped, Jump, closestfly_nose2ell, 4552,   0.0408
+F_Mated, Stop, du_tail, 22000,   0.0398
+F_Grouped, all frames, closestfly_ell2nose, 129632,   0.0377
+F_Mated, Touch, ddcenter, 16512,   0.0376
+F_Singles, Stop, velmag, 32953,    0.037
+F_Grouped, all frames, closestfly_nose2ell, 129632,   0.0346
+F_Mated, not Grooming, b_mm, 59570,   0.0324
+F_Mated, Touch, du_cor, 16512,   0.0317
+F_Grouped, Stop, closestfly_center, 47731,   0.0294
+F_Singles, Grooming, b_mm, 54397,   0.0293
+F_Singles, Grooming, darea, 54397,   0.0292
+F_Mated, Aggregation, b, 10039,   0.0288
+F_Singles, Stop, dv_cor, 32953,   0.0254
+F_Mated, not Grooming, closestfly_nose2ell_angle_30tomin30, 59570,   0.0206
+F_Grouped, all frames, closestfly_nose2ell_angle_min30to30, 129632,   0.0206
+F_Mated, not Turn, x_mm, 76588,   0.0205
+F_Mated, not Stop, phisideways, 21900,   0.0204
+F_Singles, Walk, signdtheta, 58204,   0.0194
+F_Grouped, Stop, absdv_cor, 47731,   0.0191
+F_Singles, not Grooming, timestamps, 54297,   0.0187
+F_Singles, Touch, absphidiff_anglesub, 18203,   0.0182
+F_Grouped, Stop, du_cor, 47731,   0.0179
+F_Grouped, Turn, du_cor, 83715,   0.0139
+F_Singles, all frames, b, 108694,   0.0139
+F_Mated, Touch, dv_tail, 16512,   0.0129
+F_Grouped, Touch, y, 15428,   0.0122
+F_Mated, not Turn, y_mm, 76588,   0.0107
+F_Mated, not Walk, dt, 36832,  0.00971
+F_Mated, not Turn, xnose_mm, 76588,  0.00905
+F_Mated, not Aggregation, velmag_tail, 9939,  0.00728
+F_Mated, Touch, yaw, 16512,   0.0072
+F_Grouped, Stop, veltoward_anglesub, 47731,  0.00713
+F_Mated, not Turn, ynose_mm, 76588,  0.00633
+F_Mated, Walk, darea, 36932,  0.00591
+F_Mated, all frames, timestamps, 119240,  0.00526
+F_Grouped, all frames, closestfly_nose2ell_angle_min20to20, 129632,  0.00464
+F_Mated, Stop, velmag_tail, 22000,  0.00286
+F_Singles, Jump, xnose_mm, 9444,  0.00245
+F_Grouped, all frames, angle2wall, 129632, 0.000722
+F_Singles, Grooming, magveldiff_nose2ell, 54397,  0.00024
